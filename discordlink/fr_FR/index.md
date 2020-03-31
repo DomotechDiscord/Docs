@@ -110,14 +110,17 @@ Le niveau **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi le
 
 ## 4) Configuration des équipements
 La configuration des équipements Discord Link est accessible à partir du menu plugin :
- ![Discord-Equipement1](../images/Discord-Equipement_1.PNG)
+
+ ![Discord-Equipement1](../images/Discord-Equipement_1.png)
 
 Ci-dessous un exemple d’une page du plugin Discord Link (présentée avec quelques équipements) :
- ![Discord-Equipement2](../images/Discord-Equipement_2.PNG)
+
+ ![Discord-Equipement2](../images/Discord-Equipement_2.png)
 
 **4.1) Général**
 Vous retrouvez ici toute la configuration de votre équipement :
- ![Discord-Equipement3](../images/Discord-Equipement_3.PNG)
+
+ ![Discord-Equipement3](../images/Discord-Equipement_3.png)
 
 -   **Nom du channels** : nom de votre Equipement.
     
@@ -133,7 +136,8 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 **4.2) Commandes**
 Ci-dessous vous retrouvez la liste des commandes :
- ![Discord-Equipement4](../images/Discord-Equipement_4.PNG)
+
+ ![Discord-Equipement4](../images/Discord-Equipement_4.png)
 
 -   Send Embed Message ( Message évolué )
     
