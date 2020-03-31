@@ -72,12 +72,14 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 > La mise à jour des dépendances est normalement à effectuer seulement si le Statut est **NOK**, mais il est toutefois possible, pour régler certains problèmes, d’être appelé à refaire l’installation des dépendances.
 
 **3.1) Configuration** 
+
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
 Entrez votre token précédemment mis de coté dans un bloc note et cliquez sur "Ajouter votre bot a votre serveur discord"
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
 **3.2) Démon**
+
  Cette partie permet de valider l’état actuel du ou des démons et de configurer la gestion automatique de ceux-ci.
  ![Discord-Plugin4](../images/Discord-Plugin_4.PNG)
 Le démon local et l’ensemble des démons déportés seront affichés avec leurs différentes informations
@@ -95,6 +97,7 @@ Le démon local et l’ensemble des démons déportés seront affichés avec leu
 -   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connue du demon.
 
 **3.3) Log**
+
 Cette partie permet de choisir le niveau de log ainsi que d’en consulter le contenu.
  ![Discord-Plugin5](../images/Discord-Plugin_5.PNG)
 Sélectionner le niveau puis sauvegarder, le démon sera alors relancé avec les instructions et traces sélectionnées.
