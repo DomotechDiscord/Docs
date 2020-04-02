@@ -147,6 +147,23 @@ Ci-dessous vous retrouvez la liste des commandes :
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
+## 5) Utilisations dans un scénario
+
+**5.1) Message Simples**
+ ![Discord-Scenario1](../images/Discord-Scenario_1.png)
+Résultat sur votre discord
+ ![Discord-Scenario2](../images/Discord-Scenario_2.png)
+
+**5.2) Message Embed**
+ ![Discord-Scenario3](../images/Discord-Scenario_3.png)
+Résultat sur votre discord
+ ![Discord-Scenario4](../images/Discord-Scenario_4.png)
+
+**5.3) Fonction ASK**
+ ![Discord-Scenario5](../images/Discord-Scenario_5.png)
+Résultat sur votre discord
+ ![Discord-Scenario6](../images/Discord-Scenario_6.png)
+il vous suffit de cliquer sur la réponse dans le carré rouge
 
 ## Faq
-[faq](faq.md)
+A venir
