@@ -146,6 +146,8 @@ Ci-dessous vous retrouvez la liste des commandes :
     
 -   Send message TTS ( Message lu par Discord )
 
+-   Send File ( Envoyer une piece jointe ou une photo de camera ou une video )
+
 Afficher : permet d’afficher la donnée sur le dashboard.
 
 ## 5) Utilisations dans un scénario
