@@ -8,7 +8,7 @@ Le plugin Discord Link permet d'envoyer des message sur son serveur Discord :
  - Messages TTS
  - Gestion des Chanels ( Salon )
  - Fonction ASK
- - Fonction Envoie Fichiers ( A venir )
+ - Fonction Envoie Fichiers
 
 Pour cela il faut avoir son serveur Discord. <br>
 
