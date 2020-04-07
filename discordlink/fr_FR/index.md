@@ -170,13 +170,14 @@ il vous suffit de cliquer sur la réponse dans le carré rouge
 
 **5.4) Fonction SendFile**
 
-Envoie d'une photo d'une Camera
+- Envoie d'une photo d'une Camera
  ![Discord-Scenario7](../images/Discord-Scenario_7.png)
  Résultat sur votre discord
  
  ![Discord-Scenario8](../images/Discord-Scenario_8.png)
 
-Envoie d'une video de 5 secondes avec l'envoie de la première image en photo
+- Envoie d'une video de 5 secondes avec l'envoie de la première image en photo
+
 nbSnap=5 delay=0,01 title='Camera' message='Video' movie=1 sendFirstSnap=1
 
  ![Discord-Scenario9](../images/Discord-Scenario_9.png)
