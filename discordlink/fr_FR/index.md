@@ -9,6 +9,7 @@ Le plugin Discord Link permet d'envoyer des message sur son serveur Discord :
  - Gestion des Chanels ( Salon )
  - Fonction ASK
  - Fonction Envoie Fichiers
+ - Compatible avec les Interactions de Jeedom
 
 Pour cela il faut avoir son serveur Discord. <br>
 
