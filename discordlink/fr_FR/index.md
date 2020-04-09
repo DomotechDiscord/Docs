@@ -133,6 +133,8 @@ Vous retrouvez ici toute la configuration de votre équipement :
 -   **Activer** : permet de rendre votre équipement actif.
     
 -   **Visible** : le rend visible sur le dashboard.
+
+-   **Interaction avec Jeedom** : Pour activer les interaction avec cet équipement 
     
 -   **Channel** : Liste des Salons présent sur votre Discord.
 
