@@ -5,4 +5,4 @@
 - Publication en stable public
 
 ## 1.0 (03/04/2020)
-Création du plugin 
+- Création du plugin 
