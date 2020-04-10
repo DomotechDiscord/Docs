@@ -191,5 +191,21 @@ Résultat sur votre discord
 
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
 
+## 6) Astuces
+**6.1) Emoji**
+  
+ Pour ajouter un emoji il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
+ liste des emoji avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
+
+**6.2) Mentionner quelqu'un dans un message**
+Tu met la mention sur discord. Tu met un anti slach devants comme ceci :
+
+![Discord-Astuce1](../images/Discord-Astuce_1.png)
+
+Ensuite quand tu envoi ça doit te donner un truc comme ça :
+![Discord-Astuce2](../images/Discord-Astuce_2.png)
+
+Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159794636685xxx>
+
 ## Faq
 A venir
