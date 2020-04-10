@@ -164,6 +164,9 @@ Résultat sur votre discord
  ![Discord-Scenario3](../images/Discord-Scenario_3.png)
 Résultat sur votre discord
  ![Discord-Scenario4](../images/Discord-Scenario_4.png)
+ 
+ Pour ajouter un emoji il faut le faire en mode text dans l'exemple c ":joy:"
+ liste des emoji avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
 
 **5.3) Fonction ASK**
  ![Discord-Scenario5](../images/Discord-Scenario_5.png)
