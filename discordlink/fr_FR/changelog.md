@@ -1,3 +1,6 @@
+## 1.3 (15/04/2020 à 14h00)
+- Correction des fautes d'orthographes (Merci a noodom)
+
 ## 1.2 (11/04/2020 à 21h00)
 
 - Ajout d'exception en cas de démont éteint

@@ -2,11 +2,11 @@
 
 ## 1 ) Description
 
-Le plugin Discord Link permet d'envoyer des message sur son serveur Discord : 
+Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord : 
  - Messages Classiques
  - Messages Evolués
  - Messages TTS
- - Gestion des Chanels ( Salon )
+ - Gestion des Channels ( Salon )
  - Fonction ASK
  - Fonction Envoie Fichiers
  - Compatible avec les Interactions de Jeedom
@@ -21,7 +21,7 @@ Pour cela il faut avoir son serveur Discord. <br>
 Dans Discord menu de Gauche cliquez sur + pour créer votre Serveur Discord
 
 **Récupération de son Token :** 
- - Allez sur le liens suivant: 
+ - Allez sur le lien suivant: 
  [https://discordapp.com/developers/applications/](https://discordapp.com/developers/applications/)
  
  ![Discord-Server1](../images/Discord-Server_1.PNG)
@@ -77,7 +77,7 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
-Entrez votre token précédemment mis de coté dans un bloc note et cliquez sur "Ajouter votre bot a votre serveur discord"
+Entrez votre token précédemment mis de côté dans un bloc note et cliquez sur "Ajouter votre bot à votre serveur discord"
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
 **3.2) Démon**
@@ -96,7 +96,7 @@ Le démon local et l’ensemble des démons déportés seront affichés avec leu
     
 -   La **Gestion automatique** permet à Jeedom de lancer automatiquement le démon au démarrage de Jeedom, ainsi que de le relancer en cas de problème.
     
--   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connue du demon.
+-   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connu du demon.
 
 **3.3) Log**
 
@@ -149,13 +149,13 @@ Ci-dessous vous retrouvez la liste des commandes :
     
 -   Send message TTS ( Message lu par Discord )
 
--   Send File ( Envoyer une piece jointe ou une photo de camera ou une video )
+-   Send File ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo )
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
 ## 5) Utilisations dans un scénario
 
-**5.1) Message Simples**
+**5.1) Message Simple**
  ![Discord-Scenario1](../images/Discord-Scenario_1.png)
 Résultat sur votre discord
  ![Discord-Scenario2](../images/Discord-Scenario_2.png)
@@ -173,13 +173,13 @@ il vous suffit de cliquer sur la réponse dans le carré rouge
 
 **5.4) Fonction SendFile**
 
-- Envoie d'une photo d'une Camera
+- Envoi d'une photo d'une Caméra
  ![Discord-Scenario7](../images/Discord-Scenario_7.png)
  Résultat sur votre discord
  
  ![Discord-Scenario8](../images/Discord-Scenario_8.png)
 
-- Envoie d'une video de 5 secondes avec l'envoie de la première image en photo
+- Envoi d'une video de 5 secondes avec l'envoi de la première image en photo
 
 nbSnap=5 delay=0,01 title='Camera' message='Video' movie=1 sendFirstSnap=1
 
@@ -191,15 +191,15 @@ Résultat sur votre discord
 ## 6) Astuces
 **6.1) Emoji**
   
- Pour ajouter un emoji il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
+ Pour ajouter un emojis il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
  liste des emoji avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
 
 **6.2) Mentionner quelqu'un dans un message**
-Ont met la mention sur discord. Ont met un anti slach devants comme ceci :
+Ont mets la mention sur discord. Ont mets un anti slach devant comme ceci :
 
 ![Discord-Astuce1](../images/Discord-Astuce_1.png)
 
-Ensuite quand on envoi ça doit donner un truc comme ça :
+Ensuite quand on envoies ça doit donner un truc comme ça :
 ![Discord-Astuce2](../images/Discord-Astuce_2.png)
 
 Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159794636685xxx>
