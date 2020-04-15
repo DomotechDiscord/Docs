@@ -1,3 +1,6 @@
+## 1.4 (15/04/2020 à 21h00)
+- Correction des fautes d'orthographes (Merci a Domotech)
+
 ## 1.3 (15/04/2020 à 14h00)
 - Correction des fautes d'orthographes (Merci a noodom)
 
