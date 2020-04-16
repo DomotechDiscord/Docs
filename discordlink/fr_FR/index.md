@@ -196,7 +196,9 @@ Résultat sur votre discord
  Pour ajouter un emoji, il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
  liste des emojis avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
 
+
 **6.2) Mentionner quelqu'un dans un message**
+
 On met la mention sur discord. On met un anti-slash devant comme ceci :
 
 ![Discord-Astuce1](../images/Discord-Astuce_1.png)
