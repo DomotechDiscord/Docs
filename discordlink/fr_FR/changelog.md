@@ -1,6 +1,7 @@
-## 1.5 (16/04/2020 entre 17h00 et 19h00) (BETA)
+## 1.5 (16/04/2020 à 20h00)
 - Mise a jours du system d'ASK (Plus de TimeOut normalement)
 - Ajout de la possibilité de send des message avec les fichier (Commande SendFile)
+- Correction des embed sur Iphone
 
 ## 1.4 (15/04/2020 à 21h00)
 - Correction des fautes d'orthographes (Merci a Domotech)
