@@ -1,4 +1,4 @@
-## 1.5 (16/04/2020 à 17h00) (BETA)
+## 1.5 (16/04/2020 entre 17h00 et 19h00) (BETA)
 - Mise a jours du system d'ASK (Plus de TimeOut normalement)
 - Ajout de la possibilité de send des message avec les fichier (Commande SendFile)
 
