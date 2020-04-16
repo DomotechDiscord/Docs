@@ -126,7 +126,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
  ![Discord-Equipement3](../images/Discord-Equipement_3.png)
 
--   **Nom du channels** : nom de votre équipement.
+-   **Nom du channel** : nom de votre équipement.
     
 -   **Objet parent** : indique l’objet parent auquel appartient l’équipement.
     
@@ -136,9 +136,9 @@ Vous retrouvez ici toute la configuration de votre équipement :
     
 -   **Visible** : le rend visible sur le dashboard.
 
--   **Interaction avec Jeedom** : Pour activer les interactions avec cet équipement 
+-   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
     
--   **Channel** : Liste des Salons présents sur votre Discord.
+-   **Channels** : Liste des Salons présents sur votre Discord.
 
 **4.2) Commandes**
 Ci-dessous, vous retrouvez la liste des commandes :
