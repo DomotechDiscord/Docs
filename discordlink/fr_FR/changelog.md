@@ -1,6 +1,6 @@
 ## 1.5 (16/04/2020 à 20h00)
 - Mise a jours du system d'ASK (Plus de TimeOut normalement)
-- Ajout de la possibilité de send des message avec les fichier (Commande SendFile)
+- Ajout de la possibilité de send des messages avec les fichier (Commande SendFile)
 - Correction des embed sur Iphone
 
 ## 1.4 (15/04/2020 à 21h00)
