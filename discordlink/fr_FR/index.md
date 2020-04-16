@@ -11,14 +11,14 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Fonction Envoie Fichiers
  - Compatible avec les Interactions de Jeedom
 
-Pour cela il faut avoir son serveur Discord. <br>
+Pour cela, il faut avoir son serveur Discord. <br>
 
 ## 2 ) Paramètres obligatoires : 
 
 ### Son Serveur Discord :
 
 **Création de son serveur :** 
-Dans Discord menu de Gauche cliquez sur + pour créer votre Serveur Discord
+Dans Discord, menu de Gauche, cliquez sur + pour créer votre Serveur Discord
 
 **Récupération de son Token :** 
  - Allez sur le lien suivant: 
@@ -26,7 +26,7 @@ Dans Discord menu de Gauche cliquez sur + pour créer votre Serveur Discord
  
  ![Discord-Server1](../images/Discord-Server_1.PNG)
  
- Cliquer sur "New Application"
+ Cliquez sur "New Application"
   
  ![Discord-Server2](../images/Discord-Server_2.PNG)
 
@@ -38,11 +38,11 @@ Entrez le nom pour votre Bot et cliquez sur "Create"
 
  ![Discord-Server4](../images/Discord-Server_4.PNG)
 
-Votre Bot est crée vous pouvez lui affecter un avatar
+Votre Bot est créé, vous pouvez lui affecter un avatar
 
  ![Discord-Server5](../images/Discord-Server_5.PNG)
 
-Cliquez sur le menu de gauche sur "Bot" et cliquez a droite sur "Add Bot"
+Cliquez sur le menu de gauche sur "Bot" et cliquez à droite sur "Add Bot"
 
  ![Discord-Server6](../images/Discord-Server_6.PNG)
 
@@ -50,11 +50,11 @@ Cliquez sur "Yes, do it!"
 
  ![Discord-Server7](../images/Discord-Server_7.PNG)
 
-Voilà votre Bot est crée, Cliquez sur "Click to Reveal Token"
+Voilà, votre Bot est créé, cliquez sur "Click to Reveal Token"
 
  ![Discord-Server8](../images/Discord-Server_8.PNG)
 
-Copiez collez votre Token dans un bloc note, vous en aurez besoin plus loin.
+Copiez-collez votre Token dans un bloc-note, vous en aurez besoin plus loin.
 
 ## 3) Configuration du Plugin
 Après le téléchargement du plugin, il vous suffit de l’activer et de le configurer.
@@ -79,7 +79,7 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
-Entrez votre token précédemment mis de côté dans un bloc note et cliquez sur "Ajouter votre bot à votre serveur discord"
+Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur discord"
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
 **3.3) Démon**
@@ -104,7 +104,7 @@ Le démon local et l’ensemble des démons déportés seront affichés avec leu
 
 Cette partie permet de choisir le niveau de log ainsi que d’en consulter le contenu.
  ![Discord-Plugin5](../images/Discord-Plugin_5.PNG)
-Sélectionner le niveau puis sauvegarder, le démon sera alors relancé avec les instructions et traces sélectionnées.
+Sélectionnez le niveau puis sauvegardez, le démon sera alors relancé avec les instructions et traces sélectionnées.
 
 Le niveau **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi le démon plante ou ne remonte pas une valeur.
 
@@ -126,7 +126,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
  ![Discord-Equipement3](../images/Discord-Equipement_3.png)
 
--   **Nom du channels** : nom de votre Equipement.
+-   **Nom du channels** : nom de votre équipement.
     
 -   **Objet parent** : indique l’objet parent auquel appartient l’équipement.
     
@@ -136,12 +136,12 @@ Vous retrouvez ici toute la configuration de votre équipement :
     
 -   **Visible** : le rend visible sur le dashboard.
 
--   **Interaction avec Jeedom** : Pour activer les interaction avec cet équipement 
+-   **Interaction avec Jeedom** : Pour activer les interactions avec cet équipement 
     
--   **Channel** : Liste des Salons présent sur votre Discord.
+-   **Channel** : Liste des Salons présents sur votre Discord.
 
 **4.2) Commandes**
-Ci-dessous vous retrouvez la liste des commandes :
+Ci-dessous, vous retrouvez la liste des commandes :
 
  ![Discord-Equipement4](../images/Discord-Equipement_4.png)
 
@@ -171,7 +171,7 @@ Résultat sur votre discord
  ![Discord-Scenario5](../images/Discord-Scenario_5.png)
 Résultat sur votre discord
  ![Discord-Scenario6](../images/Discord-Scenario_6.png)
-il vous suffit de cliquer sur la réponse dans le carré rouge
+Il vous suffit de cliquer sur la réponse dans le carré rouge
 
 **5.4) Fonction SendFile**
 
@@ -181,7 +181,7 @@ il vous suffit de cliquer sur la réponse dans le carré rouge
  
  ![Discord-Scenario8](../images/Discord-Scenario_8.png)
 
-- Envoi d'une video de 5 secondes avec l'envoi de la première image en photo
+- Envoi d'une vidéo de 5 secondes avec l'envoi de la première image en photo
 
 nbSnap=5 delay=0,01 title='Camera' message='Video' movie=1 sendFirstSnap=1
 
@@ -193,15 +193,15 @@ Résultat sur votre discord
 ## 6) Astuces
 **6.1) Emoji**
   
- Pour ajouter un emojis il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
- liste des emoji avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
+ Pour ajouter un emoji, il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
+ liste des emojis avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
 
 **6.2) Mentionner quelqu'un dans un message**
-Ont mets la mention sur discord. Ont mets un anti slach devant comme ceci :
+On met la mention sur discord. On met un anti-slash devant comme ceci :
 
 ![Discord-Astuce1](../images/Discord-Astuce_1.png)
 
-Ensuite quand on envoies ça doit donner un truc comme ça :
+Ensuite, quand on envoie, ça doit donner un truc comme ça :
 ![Discord-Astuce2](../images/Discord-Astuce_2.png)
 
 Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159794636685xxx>
