@@ -8,7 +8,7 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Messages TTS
  - Gestion des Channels ( Salon )
  - Fonction ASK
- - Fonction Envoie Fichiers
+ - Fonction Envoi de Fichiers
  - Compatible avec les Interactions de Jeedom
 
 Pour cela, il faut avoir son serveur Discord. <br>
@@ -126,7 +126,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
  ![Discord-Equipement3](../images/Discord-Equipement_3.png)
 
--   **Nom du channels** : nom de votre équipement.
+-   **Nom du channel** : nom de votre équipement.
     
 -   **Objet parent** : indique l’objet parent auquel appartient l’équipement.
     
@@ -136,9 +136,9 @@ Vous retrouvez ici toute la configuration de votre équipement :
     
 -   **Visible** : le rend visible sur le dashboard.
 
--   **Interaction avec Jeedom** : Pour activer les interactions avec cet équipement 
+-   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
     
--   **Channel** : Liste des Salons présents sur votre Discord.
+-   **Channels** : Liste des Salons présents sur votre Discord.
 
 **4.2) Commandes**
 Ci-dessous, vous retrouvez la liste des commandes :
@@ -191,10 +191,11 @@ Résultat sur votre discord
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
 
 ## 6) Astuces
-**6.1) Emoji**
+**6.1) Emojis**
   
  Pour ajouter un emoji, il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
- liste des emojis avec leur texte https://www.webfx.com/tools/emoji-cheat-sheet/
+ 
+ Liste des emojis avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
 **6.2) Mentionner quelqu'un dans un message**
