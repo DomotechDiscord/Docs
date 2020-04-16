@@ -60,7 +60,9 @@ Copiez collez votre Token dans un bloc note, vous en aurez besoin plus loin.
 Après le téléchargement du plugin, il vous suffit de l’activer et de le configurer.
  ![Discord-Plugin1](../images/Discord-Plugin_1.PNG)
 Une fois activé, il faut le configurer.
+
 **3.1) Dépendances** 
+
 Cette partie permet de valider et d’installer les dépendances requises au bon fonctionnement du plugin Discord Link 
  ![Discord-Plugin2](../images/Discord-Plugin_2.PNG)
 Cliquez sur "Relancer" et attendre la fin de l'installation des Dépendances.
@@ -73,14 +75,14 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 > 
 > La mise à jour des dépendances est normalement à effectuer seulement si le Statut est **NOK**, mais il est toutefois possible, pour régler certains problèmes, d’être appelé à refaire l’installation des dépendances.
 
-**3.1) Configuration** 
+**3.2) Configuration** 
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
 Entrez votre token précédemment mis de côté dans un bloc note et cliquez sur "Ajouter votre bot à votre serveur discord"
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
-**3.2) Démon**
+**3.3) Démon**
 
  Cette partie permet de valider l’état actuel du ou des démons et de configurer la gestion automatique de ceux-ci.
  ![Discord-Plugin4](../images/Discord-Plugin_4.PNG)
@@ -98,7 +100,7 @@ Le démon local et l’ensemble des démons déportés seront affichés avec leu
     
 -   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connu du demon.
 
-**3.3) Log**
+**3.4) Log**
 
 Cette partie permet de choisir le niveau de log ainsi que d’en consulter le contenu.
  ![Discord-Plugin5](../images/Discord-Plugin_5.PNG)
