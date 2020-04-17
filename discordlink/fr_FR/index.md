@@ -38,7 +38,7 @@ Entrez le nom pour votre Bot et cliquez sur "Create"
 
  ![Discord-Server4](../images/Discord-Server_4.PNG)
 
-Votre Bot est créé, vous pouvez lui affecter un avatar
+Votre Bot est créé, vous pouvez lui affecter un avatar et n'oubliez pas de sauvegarder.
 
  ![Discord-Server5](../images/Discord-Server_5.PNG)
 
@@ -138,7 +138,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 -   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
     
--   **Channels** : Liste des Salons présents sur votre Discord.
+-   **Channels** : Liste des Salons présents sur votre Discord. C'est içi que vous seléctionnez le salon que vous avez crée dans votre Discord, vous devez créer autant d'equipement que vous avez de salon.
 
 **4.2) Commandes**
 Ci-dessous, vous retrouvez la liste des commandes :
