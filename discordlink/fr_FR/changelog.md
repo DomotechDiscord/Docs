@@ -1,6 +1,6 @@
 ## 1.7 (BETA)
-- Mise a jours de l'historique de 1 message a 3 message.
-- Ajout des information des deamon (Pas besoin de Jeedom Link)
+- Mises à jours de l'historique de 1 message a 3 messages.
+- Ajout des informations des deamons (Pas besoin de Jeedom Link)
 
 ## xxxxx (18/04/2020 à 00h15)
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
@@ -34,4 +34,3 @@
 
 ## 1.0 (03/04/2020)
 - Création du plugin 
-
