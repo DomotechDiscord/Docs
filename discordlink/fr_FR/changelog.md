@@ -1,5 +1,6 @@
 ## 1.6 (BETA)
 - Mise a jours de l'historique de 1 message a 3 message.
+- Ajout des information des deamon (Pas besoin de Jeedom Link)
 
 ## xxxxx (18/04/2020 à 00h15)
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
