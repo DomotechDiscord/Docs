@@ -3,7 +3,7 @@
 - Mises à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des deamons (Pas besoin de Jeedom Link)
 =======
-- Mises à jours de l'historique de 1 message a 3 messages.
+- Mises à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des deamons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
 - Ajout des informations des dépendances.
 
