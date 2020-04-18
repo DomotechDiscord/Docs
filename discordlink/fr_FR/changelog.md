@@ -1,11 +1,11 @@
-## 1.6 (BETA)
+## 1.7 (BETA)
 - Mise a jours de l'historique de 1 message a 3 message.
 - Ajout des information des deamon (Pas besoin de Jeedom Link)
 
 ## xxxxx (18/04/2020 à 00h15)
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
 
-## 1.5 (17/04/2020 à 12h30)
+## 1.6 (17/04/2020 à 12h30)
 - Debug du system d'ASK
 - Correction des fautes d'orthographes (Merci à noodom)
 
