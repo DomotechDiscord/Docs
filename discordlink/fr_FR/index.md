@@ -9,7 +9,7 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Gestion des Channels ( Salon )
  - Fonction ASK
  - Fonction Envoi de Fichiers
- - Compatible avec les Interactions de Jeedom
+ - Compatible avec les interactions de Jeedom
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -79,8 +79,7 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
-Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur discord"
-N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
+Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur discord". N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
 **3.3) Démon**
 
@@ -98,7 +97,7 @@ Le démon local et l’ensemble des démons déportés seront affichés avec leu
     
 -   La **Gestion automatique** permet à Jeedom de lancer automatiquement le démon au démarrage de Jeedom, ainsi que de le relancer en cas de problème.
     
--   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connu du demon.
+-   Le **Dernier lancement** est comme son nom l’indique la date du dernier lancement connu du démon.
 
 **3.4) Log**
 
@@ -110,7 +109,7 @@ Le niveau **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi le
 
 > **Important**
 > 
-> En mode **Debug** le démon est très verbeux, il est recommandé d’utiliser ce mode seulement si vous devez diagnostiquer un problème particulier. Il n’est pas recommandé de laisser tourner le démon en **Debug** en permanence, si on utilise une **SD-Card**. Une fois le debug terminé, il ne faut pas oublier de retourner sur un niveau moins élevé comme le niveau **Error** qui ne remonte que d’éventuelles erreurs.
+> En mode **Debug**, le démon est très verbeux, il est recommandé d’utiliser ce mode seulement si vous devez diagnostiquer un problème particulier. Il n’est pas recommandé de laisser tourner le démon en **Debug** en permanence, si on utilise une **SD-Card**. Une fois le debug terminé, il ne faut pas oublier de retourner sur un niveau moins élevé comme le niveau **Error** qui ne remonte que d’éventuelles erreurs.
 
 ## 4) Configuration des équipements
 La configuration des équipements Discord Link est accessible à partir du menu plugin :
@@ -138,7 +137,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 -   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
     
--   **Channels** : Liste des Salons présents sur votre Discord. C'est içi que vous seléctionnez le salon que vous avez crée dans votre Discord, vous devez créer autant d'equipement que vous avez de salon.
+-   **Channels** : Liste des Salons présents sur votre Discord. C'est ici que vous sélectionnez le salon que vous avez créé dans votre Discord. Vous devez créer autant d'équipements que vous avez de salon.
 
 **4.2) Commandes**
 Ci-dessous, vous retrouvez la liste des commandes :
@@ -193,7 +192,7 @@ Résultat sur votre discord
 ## 6) Astuces
 **6.1) Emojis**
   
- Pour ajouter un emoji, il faut le faire en mode text dans l'exemple c'est :joy: : joy : (ne pas mettre d'espace)
+ Pour ajouter un emoji, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
  
  Liste des emojis avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
 
