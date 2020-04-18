@@ -1,5 +1,5 @@
 ## 1.7 (BETA)
-- Mises à jours de l'historique de 1 message a 3 messages.
+- Mises à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des deamons (Pas besoin de Jeedom Link)
 
 ## xxxxx (18/04/2020 à 00h15)
