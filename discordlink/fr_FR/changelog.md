@@ -1,6 +1,7 @@
 ## 1.7 (BETA)
 - Mises à jours de l'historique de 1 message a 3 messages.
-- Ajout des informations des deamons (Pas besoin de Jeedom Link) (Merci a fx33 pour sont idée)
+- Ajout des informations des deamons. (Pas besoin de Jeedom Link) (Merci a fx33 pour sont idée)
+- Ajout des informations des dépendance.
 
 ## xxxxx (18/04/2020 à 00h15)
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
