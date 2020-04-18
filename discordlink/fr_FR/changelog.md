@@ -1,5 +1,5 @@
 ## xxxxx (18/04/2020 à 00h15)
-- Mise a jours indésiré. Aucune modification na eux lieux
+- Mise à jour indésirée. Aucune modification n'a eu lieu.
 
 ## 1.5 (17/04/2020 à 12h30)
 - Debug du system d'ASK
