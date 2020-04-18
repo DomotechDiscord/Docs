@@ -1,5 +1,5 @@
 ## 1.7 (BETA)
-<<<<<<< HEAD
+
 - Mises à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des deamons (Pas besoin de Jeedom Link)
 =======
