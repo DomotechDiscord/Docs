@@ -1,7 +1,7 @@
 ## 1.7 (BETA)
 - Mises à jours de l'historique de 1 message à 3 messages.
-- Ajout des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
-- Ajout des informations des dépendances.
+- Ajouts des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
+- Ajouts des informations des dépendances.
 - Ajout du Global Summary.
 
 ## xxxxx (18/04/2020 à 00h15)
@@ -9,7 +9,7 @@
 
 ## 1.6 (17/04/2020 à 12h30)
 - Débug du system d'ASK
-- Correction des fautes d'orthographe (Merci à noodom)
+- Correction des fautes d'orthographes (Merci à noodom)
 
 ## 1.5 (16/04/2020 à 20h00)
 - Mise à jour du system d'ASK (Plus de TimeOut normalement)
@@ -17,10 +17,10 @@
 - Correction des embed sur Iphone
 
 ## 1.4 (15/04/2020 à 21h00)
-- Correction des fautes d'orthographe (Merci à Domotech)
+- Corrections des fautes d'orthographes (Merci à Domotech)
 
 ## 1.3 (15/04/2020 à 14h00)
-- Correction des fautes d'orthographe (Merci à noodom)
+- Corrections des fautes d'orthographes (Merci à noodom)
 
 ## 1.2 (11/04/2020 à 21h00)
 
