@@ -1,5 +1,5 @@
 ## 1.7 (BETA)
-- Mise à jours de l'historique de 1 message à 3 messages.
+- Mises à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
 - Ajout des informations des dépendances.
 - Ajout du Global Summary.
@@ -8,7 +8,7 @@
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
 
 ## 1.6 (17/04/2020 à 12h30)
-- Debug du system d'ASK
+- Débug du system d'ASK
 - Correction des fautes d'orthographe (Merci à noodom)
 
 ## 1.5 (16/04/2020 à 20h00)
