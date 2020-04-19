@@ -84,6 +84,7 @@ Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
 Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur discord". 
 Ensuite vous pouvez choisir un theme pour les commandes etat des demons et des dépendances ( Theme 1 ou 2 ) je vous laisse tester l'un ou l'autres.
+
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
 **3.3) Démon**
