@@ -12,7 +12,7 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Compatible avec les interactions de Jeedom
  - Fonction Etat des Démons de Jeedom
  - Fonction Etat des Dépendances des plugins Jeedom
- - Fonction Etat du résumé Global
+ - Fonction Etat du résumé global
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -82,8 +82,8 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
-Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur discord". 
-Ensuite vous pouvez choisir un theme pour les commandes etat des demons et des dépendances ( Theme 1 ou 2 ) je vous laisse tester l'un ou l'autres.
+Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur Discord". 
+Ensuite, vous pouvez choisir un thème pour les commandes état des démons et des dépendances ( Thème 1 ou 2 ). Je vous laisse tester l'un ou l'autre.
 
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
@@ -91,7 +91,7 @@ N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous ef
 
  Cette partie permet de valider l’état actuel du ou des démons et de configurer la gestion automatique de ceux-ci.
  ![Discord-Plugin4](../images/Discord-Plugin_4.PNG)
-Le démon local et l’ensemble des démons déportés seront affichés avec leurs différentes informations
+Le démon local et l’ensemble des démons déportés seront affichés avec leurs différentes informations.
 
 -   Le **Statut** indique que le démon est actuellement en fonction.
     
@@ -158,17 +158,17 @@ Ci-dessous, vous retrouvez la liste des commandes :
 
 -   Envoi fichier ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo)
 
--   Etat des démons ( envoyer sur votre channel l'état des démons des plugins installés)
+-   Etat des démons ( Envoyer sur votre channel l'état des démons des plugins installés)
 
--   Etat des dépendances ( envoyer sur votre channel l'état des dépendances des plugins installés)
+-   Etat des dépendances ( Envoyer sur votre channel l'état des dépendances des plugins installés)
 
--   Résumé général ( envoyer sur votre channel l'état du résumé Global de votre installation)
+-   Résumé général ( Envoyer sur votre channel l'état du résumé global de votre installation)
 
--   Dernier message ( Info pour recuperer le dernier message reçu sur votre channel)
+-   Dernier message ( Info pour récuperer le dernier message reçu sur votre channel)
 
--   Avant dernier message ( Info pour recuperer l'avant dernier message reçu sur votre channel)
+-   Avant dernier message ( Info pour récuperer l'avant-dernier message reçu sur votre channel)
 
--   Avant Avant dernier message (Info pour recuperer l'avant avant dernier message reçu sur votre channel)
+-   Avant Avant dernier message (Info pour récuperer l'avant-avant-dernier message reçu sur votre channel)
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
@@ -207,7 +207,7 @@ Résultat sur votre discord
 
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
  
- **5.5) Etat des démons, Etat des dépendances,Résumé général**
+ **5.5) Etat des démons, Etat des dépendances, Résumé général**
  
  vous ajoutez simplement ces commandes dans un scénario:
 
