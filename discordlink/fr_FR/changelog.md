@@ -1,4 +1,4 @@
-## 1.7 (BETA)
+## 1.7 (19/04/2020 à 14h10)
 - Mises à jours de l'historique de 1 message à 3 messages.
 - Ajouts des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
 - Ajouts des informations des dépendances.
