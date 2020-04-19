@@ -1,3 +1,6 @@
+## 1.8 (19/04/2020 à 22h30)
+- ASK : Après temps maximal dépassé, le message ce delete
+
 ## 1.7 (19/04/2020 à 14h10)
 - Mises à jours de l'historique de 1 message à 3 messages.
 - Ajouts des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
