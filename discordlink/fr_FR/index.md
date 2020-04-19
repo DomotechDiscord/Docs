@@ -10,6 +10,9 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Fonction ASK
  - Fonction Envoi de Fichiers
  - Compatible avec les interactions de Jeedom
+ - Fonction Etat des Démons de Jeedom
+ - Fonction Etat des Dépendances des plugins Jeedom
+ - Fonction Etat du résumé Global
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -144,24 +147,36 @@ Ci-dessous, vous retrouvez la liste des commandes :
 
  ![Discord-Equipement4](../images/Discord-Equipement_4.png)
 
--   Send Embed Message ( Message évolué )
+-   Envoi message ( Message simple )
     
--   Send message ( Message simple )
+-   Envoi message évolué ( Message Personalisable )
     
--   Send message TTS ( Message lu par Discord )
+-   Envoi message TTS ( Message lu par Discord )
 
--   Send File ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo )
+-   Envoi fichier ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo)
+
+-   Etat des démons ( envoyer sur votre channel l'état des démons des plugins installés)
+
+-   Etat des dépendances ( envoyer sur votre channel l'état des dépendances des plugins installés)
+
+-   Résumé général ( envoyer sur votre channel l'état du résumé Global de votre installation)
+
+-   Dernier message ( Info pour recuperer le dernier message reçu sur votre channel)
+
+-   Avant dernier message ( Info pour recuperer l'avant dernier message reçu sur votre channel)
+
+-   Avant Avant dernier message (Info pour recuperer l'avant avant dernier message reçu sur votre channel)
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
 ## 5) Utilisations dans un scénario
 
-**5.1) Message Simple**
+**5.1) Envoi message**
  ![Discord-Scenario1](../images/Discord-Scenario_1.png)
 Résultat sur votre discord
  ![Discord-Scenario2](../images/Discord-Scenario_2.png)
 
-**5.2) Message Embed**
+**5.2) Envoi message évolué**
  ![Discord-Scenario3](../images/Discord-Scenario_3.png)
 Résultat sur votre discord
  ![Discord-Scenario4](../images/Discord-Scenario_4.png)
@@ -172,7 +187,7 @@ Résultat sur votre discord
  ![Discord-Scenario6](../images/Discord-Scenario_6.png)
 Il vous suffit de cliquer sur la réponse dans le carré rouge
 
-**5.4) Fonction SendFile**
+**5.4) Envoi fichier**
 
 - Envoi d'une photo d'une Caméra
  ![Discord-Scenario7](../images/Discord-Scenario_7.png)
@@ -188,7 +203,17 @@ nbSnap=5 delay=0,01 title='Camera' message='Video' movie=1 sendFirstSnap=1
 Résultat sur votre discord
 
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
+ 
+ **5.5) Etat des démons, Etat des dépendances,Résumé général**
+ 
+ vous ajoutez simplement ces commandes dans un scénario:
 
+ ![Discord-Scenario11](../images/Discord-Scenario_11.png)
+ 
+ Résultat :
+ 
+ ![Discord-Scenario12](../images/Discord-Scenario_12.png)
+ 
 ## 6) Astuces
 **6.1) Emojis**
   
