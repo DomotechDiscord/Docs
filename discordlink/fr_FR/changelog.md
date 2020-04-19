@@ -1,11 +1,8 @@
 ## 1.7 (BETA)
-
-- Mise à jours de l'historique de 1 message à 3 messages.
-- Ajout des informations des démons (Pas besoin de Jeedom Link)
-=======
 - Mise à jours de l'historique de 1 message à 3 messages.
 - Ajout des informations des démons. (Pas besoin de Jeedom Link) (Merci à fx33 pour son idée)
 - Ajout des informations des dépendances.
+- Ajout du Global Summary.
 
 ## xxxxx (18/04/2020 à 00h15)
 - Mise à jour indésirée. Aucune modification n'a eu lieu.
