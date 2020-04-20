@@ -1,3 +1,6 @@
+## 1.9 (20/04/2020 à 22h00)
+- ASK : Correction de message en trois exemplaire
+
 ## 1.8 (19/04/2020 à 22h30)
 - ASK : Après temps maximal dépassé, le message ce delete
 
