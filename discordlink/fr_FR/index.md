@@ -236,5 +236,8 @@ Ensuite, quand on envoie, ça doit donner un truc comme ça :
 
 Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159794636685xxx>
 
+**6.3) Articles avec des exemples**
+Vous pouvez retrouver des exemple pratiques sur cet article : https://youdom.net/2020/04/21/installer-et-configurer-jeedom-discord-link/
+
 ## Faq
 A venir
