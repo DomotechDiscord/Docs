@@ -1,5 +1,6 @@
 ## 2.0 (BETA)
-### Update des dependance a faire
+
+### Update des dépendances à faire
 - Mise à jour du Global Summary pour prendre les resumés custom
 - Mise à jour de l'api sur la dernière version stable (Node js V12 minimum)
 - Optimisation des performances
