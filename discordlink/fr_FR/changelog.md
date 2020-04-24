@@ -1,3 +1,8 @@
+## 2.0 (BETA)
+- Mise a jours du Global Summary pour prendre les resumée custom
+- Mise a jours de l'api sur la dernière version stable (Node js V12 minimum)
+- Optimisation des performance
+
 ## 1.9 (20/04/2020 à 22h00)
 - ASK : Correction de message en trois exemplaire
 
