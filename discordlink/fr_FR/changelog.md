@@ -1,9 +1,8 @@
-## 2.0 (BETA)
-
-### Update des dépendances à faire
+## 2.0 (25/04/2020 à 21h27)
 - Mise à jour du Global Summary pour prendre les resumés custom
 - Mise à jour de l'api sur la dernière version stable (Node js V12 minimum)
 - Optimisation des performances
+- Correction de plein de petit bug
 
 ## 1.9 (20/04/2020 à 22h00)
 - ASK : Correction des messages en trois exemplaires
