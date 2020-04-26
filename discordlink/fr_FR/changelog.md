@@ -1,3 +1,6 @@
+## 2.0 (26/04/2020 à 16h30)
+- Debug Roue Infinie
+
 ## 2.0 (25/04/2020 à 21h27)
 - Mise à jour du Global Summary pour prendre les resumés custom
 - Mise à jour de l'api sur la dernière version stable (Node js V12 minimum)
