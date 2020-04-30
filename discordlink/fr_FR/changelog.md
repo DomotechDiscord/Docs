@@ -1,3 +1,7 @@
+## 2.1 (BETA !!!!!)
+- Ajout du choix du message du jeux du BOT (Merci Alexande)
+- Ajout de l'user id sur les interaction #userid#
+
 ## 2.0 (26/04/2020 à 16h30)
 - Debug Roue Infinie
 
