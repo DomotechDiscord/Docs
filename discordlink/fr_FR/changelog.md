@@ -1,15 +1,15 @@
 ## 2.1 (BETA !!!!!)
 - Ajout du choix du message du jeux du BOT (Merci Alexande)
-- Ajout de l'user id sur les interaction #userid#
+- Ajout de l'user id sur les intéractions #userid#
 
 ## 2.0 (26/04/2020 à 16h30)
-- Debug Roue Infinie
+- Debug roue infinie
 
 ## 2.0 (25/04/2020 à 21h27)
 - Mise à jour du Global Summary pour prendre les resumés custom
-- Mise à jour de l'api sur la dernière version stable (Node js V12 minimum)
+- Mise à jour de l'API sur la dernière version stable (Node js V12 minimum)
 - Optimisation des performances
-- Correction de plein de petit bug
+- Correction d'une multitude de petits bugs
 
 ## 1.9 (20/04/2020 à 22h00)
 - ASK : Correction des messages en trois exemplaires
