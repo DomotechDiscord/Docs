@@ -1,5 +1,5 @@
 ## 2.1 (BETA !!!!!)
-- Ajout du choix du message du jeux du BOT (Merci Alexande)
+- Ajout du choix du message du jeux du BOT (Merci Alexandre)
 - Ajout de l'user id sur les intéractions #userid#
 - Ajout d'un résumé par Pièce / Object
 - Ajout d'un résumé des état des batteriz
