@@ -1,6 +1,8 @@
 ## 2.1 (BETA !!!!!)
 - Ajout du choix du message du jeux du BOT (Merci Alexande)
 - Ajout de l'user id sur les intéractions #userid#
+- Ajout d'un résumé par Pièce / Object
+- Ajout d'un résumé des état des batteriz
 
 ## 2.0 (26/04/2020 à 16h30)
 - Debug roue infinie
