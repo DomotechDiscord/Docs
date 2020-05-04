@@ -2,7 +2,7 @@
 - Ajout du choix du message du jeux du BOT (Merci Alexandre)
 - Ajout de l'user id sur les intéractions #userid#
 - Ajout d'un résumé par Pièce / Object
-- Ajout d'un résumé des état des batteriz
+- Ajout d'un résumé de l'état des batteries
 
 ## 2.0 (26/04/2020 à 16h30)
 - Debug roue infinie
