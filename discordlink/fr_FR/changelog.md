@@ -3,8 +3,8 @@
 - Ajout de l'user id sur les intéractions #userid#
 - Ajout d'un résumé par Pièce / Object
 - Ajout d'un résumé de l'état des batteries
-- Ajout d'un résumé des dernier contact des module Zwave (Si le plugin est activé)
-- Ajout des antenne du plubin BLEA
+- Ajout d'un résumé des derniers contacts des modules Zwave (Si le plugin est activé)
+- Ajout des antennes du plubin BLEA
 
 ## 2.0 (26/04/2020 à 16h30)
 - Debug roue infinie
