@@ -7,6 +7,8 @@
 - Ajout des antennes du plubin BLEA
 - Ajout du choix des emojy sur les message préfais
 - Ajout des emojy perso sur les message prefais
+- Refonte du system de channel (Plus d'erreur si le deamon est NOK)
+- Refonte du system d'invite (Auto actualisation ainsi que save de l'invite)
 
 ## 2.0 (26/04/2020 à 16h30)
 - Debug roue infinie
