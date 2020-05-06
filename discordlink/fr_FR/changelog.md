@@ -5,6 +5,8 @@
 - Ajout d'un résumé de l'état des batteries
 - Ajout d'un résumé des derniers contacts des modules Zwave (Si le plugin est activé)
 - Ajout des antennes du plubin BLEA
+- Ajout du choix des emojy sur les message préfais
+- Ajout des emojy perso sur les message prefais
 
 ## 2.0 (26/04/2020 à 16h30)
 - Debug roue infinie
