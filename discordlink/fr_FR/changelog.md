@@ -4,9 +4,9 @@
 - Ajout d'un résumé par Pièce / Object
 - Ajout d'un résumé de l'état des batteries
 - Ajout d'un résumé des derniers contacts des modules Zwave (Si le plugin est activé)
-- Ajout des antennes du plubin BLEA
-- Ajout du choix des emojy sur les message préfais
-- Ajout des emojy perso sur les message prefais
+- Ajout des antennes du plugin BLEA
+- Ajout du choix des émojy sur les messages préfaits
+- Ajout des émojy perso sur les messages préfaits
 - Refonte du system de channel (Plus d'erreur si le deamon est NOK)
 - Refonte du system d'invite (Auto actualisation ainsi que save de l'invite)
 
