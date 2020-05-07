@@ -1,4 +1,4 @@
-## 2.1 (BETA !!!!!)
+## 3.0 (BETA !!!!!)
 - Ajout du choix du message du jeux du BOT (Merci Alexandre)
 - Ajout de l'user id sur les intéractions #userid#
 - Ajout d'un résumé par Pièce / Object
@@ -7,10 +7,14 @@
 - Ajout des antennes du plubin BLEA
 - Ajout du choix des emojy sur les message préfais
 - Ajout des emojy perso sur les message prefais
+- Ajout du reset des emojy
+- Ajout des emojy personaliser dans la description des message evoluer
+- Ajout Auto Send Message deamon dependance et info zwave si erreur (Configuration du Channel)
 - Refonte du system de channel (Plus d'erreur si le deamon est NOK)
 - Refonte du system d'invite (Auto actualisation ainsi que save de l'invite)
+- Optimisation des performance
 
-## 2.0 (26/04/2020 à 16h30)
+## 2.1 (26/04/2020 à 16h30)
 - Debug roue infinie
 
 ## 2.0 (25/04/2020 à 21h27)
