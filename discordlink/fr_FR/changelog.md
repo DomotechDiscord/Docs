@@ -8,11 +8,11 @@
 - Ajout du choix des émojy sur les messages préfaits
 - Ajout des émojy perso sur les messages préfaits
 - Ajout du reset des emojy
-- Ajout des emojy personaliser dans la description des message evoluer
+- Ajout des emojy personaliser dans la description des messages évolués
 - Ajout Auto Send Message deamon dependance et info zwave si erreur (Configuration du Channel)
 - Refonte du system de channel (Plus d'erreur si le deamon est NOK)
 - Refonte du system d'invite (Auto actualisation ainsi que save de l'invite)
-- Optimisation des performance
+- Optimisation des performances
 
 ## 2.1 (26/04/2020 à 16h30)
 - Debug roue infinie
