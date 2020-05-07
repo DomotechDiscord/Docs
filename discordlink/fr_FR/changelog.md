@@ -1,4 +1,4 @@
-## 3.0 (BETA !!!!!)
+## 3.0 (07/05/2020 à 22h16)
 - Ajout du choix du message du jeux du BOT (Merci Alexandre)
 - Ajout de l'user id sur les intéractions #userid#
 - Ajout d'un résumé par Pièce / Object
