@@ -10,6 +10,7 @@
 - Ajout du reset des emojy
 - Ajout des emojy personaliser dans la description des messages évolués
 - Ajout Auto Send Message deamon dependance et info zwave si erreur (Configuration du Channel)
+- Ajout d'info dans la page santé de jeedom
 - Refonte du system de channel (Plus d'erreur si le deamon est NOK)
 - Refonte du system d'invite (Auto actualisation ainsi que save de l'invite)
 - Optimisation des performances
