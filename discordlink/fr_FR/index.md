@@ -151,7 +151,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 -   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
 
--   **Deamon Check | Dependance Check | Zwave Check** : Permet d'activer la fonction envoie des etats coché Si erreur détécté.
+-   **Deamon Check / Dependance Check / Zwave Check** : Permet d'activer la fonction envoie des etats coché Si erreur détécté.
     
 -   **Channels** : Liste des Salons présents sur votre Discord. C'est ici que vous sélectionnez le salon que vous avez créé dans votre Discord. Vous devez créer autant d'équipements que vous avez de salon.
 
