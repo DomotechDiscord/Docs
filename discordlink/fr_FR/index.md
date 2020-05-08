@@ -17,7 +17,7 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Fonction Etat des batteries
  - Fonction Etat des communication des modules Zwave
  - Fonction Envoie des etats des deamon, dépendances et zwave si erreur
- - Personalisation des Emojis pour les résumés et les messages
+ - Personalisation des Emojys pour les résumés et les messages
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -194,7 +194,7 @@ Si vous voulez personaliser les emojys des resumés automatique allez sur "Emojy
 
 ![Discord-Equipement8](../images/Discord-Plugin_8.PNG)
 
-dans la colonne Verte vous mettez l'emojy que vous souhaitez, pour remettre les emoji par defaut cliquer sur "Reset Emojy"
+dans la colonne Verte vous mettez l'emojy que vous souhaitez, pour remettre les emojy par defaut cliquer sur "Reset Emojy"
 
 Cliquer sur "Sauvegarder" pour prendre en compte les modifications
 
@@ -250,11 +250,11 @@ Résultat sur votre discord
  ![Discord-Scenario12](../images/Discord-Scenario_14.png)
  
 ## 7) Astuces
-**7.1) Emojis**
+**7.1) Emojys**
   
- Pour ajouter un emoji, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
+ Pour ajouter un emojy, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
  
- Liste des emojis avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
+ Liste des emojys avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
 **7.2) Mentionner quelqu'un dans un message**
