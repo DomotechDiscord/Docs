@@ -17,7 +17,7 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Fonction Etat des batteries
  - Fonction Etat des communication des modules Zwave
  - Fonction Envoie des etats des deamon, dépendances et zwave si erreur
- - Personnalisation des Emojis pour les résumés et les messages
+ - Personalisation des Emojis pour les résumés et les messages
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
