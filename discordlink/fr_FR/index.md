@@ -254,7 +254,7 @@ Résultat sur votre discord
   
  Pour ajouter un emojy, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
  
- Liste des emojys avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
+ Liste des emojys avec leur texte :  [https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 **7.2) Mentionner quelqu'un dans un message**
@@ -270,7 +270,7 @@ Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159
 
 **7.3) Articles avec des exemples**
 
-Vous pouvez retrouver des exemples pratiques sur cet article : https://youdom.net/2020/04/21/installer-et-configurer-jeedom-discord-link/
+Vous pouvez retrouver des exemples pratiques sur cet article : [https://youdom.net/2020/04/21/installer-et-configurer-jeedom-discord-link/](https://youdom.net/2020/04/21/installer-et-configurer-jeedom-discord-link/)
 
 ## Faq
 A venir
