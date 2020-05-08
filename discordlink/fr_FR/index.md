@@ -7,12 +7,17 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Messages Evolués
  - Messages TTS
  - Gestion des Channels ( Salon )
+ - Compatible avec les interactions de Jeedom
  - Fonction ASK
  - Fonction Envoi de Fichiers
- - Compatible avec les interactions de Jeedom
- - Fonction Etat des Démons de Jeedom
+ - Fonction Etat des Démons de Jeedom et des antenne Blea
  - Fonction Etat des Dépendances des plugins Jeedom
  - Fonction Etat du résumé global
+ - Fonction Etat de résumé par Pièce / Object
+ - Fonction Etat des batteries
+ - Fonction Etat des communication des modules Zwave
+ - Fonction Envoie des etats des deamon, dépendances et zwave si erreur
+ - Personnalisation des Emojis pour les résumés et les messages
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -82,8 +87,11 @@ Un Statut **OK** confirme que les dépendances sont satisfaites.
 
 Cette partie permet de configurer les paramètres généraux du plugin
 ![Discord-Plugin3](../images/Discord-Plugin_3.PNG)
-Entrez votre token précédemment mis de côté dans un bloc-note et cliquez sur "Ajouter votre bot à votre serveur Discord". 
-Ensuite, vous pouvez choisir un thème pour les commandes état des démons et des dépendances ( Thème 1 ou 2 ). Je vous laisse tester l'un ou l'autre.
+Entrez votre token précédemment mis de côté dans un bloc-note
+Cliquez sur **"Ajouter votre bot à votre serveur Discord"**.
+
+Vous pouvez personaliser la phrase envoyé par votre Bot sur votre Serveur Joue à : .
+
 
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
 
@@ -142,6 +150,8 @@ Vous retrouvez ici toute la configuration de votre équipement :
 -   **Visible** : le rend visible sur le dashboard.
 
 -   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
+
+-   **Deamon Check | Dependance Check | Zwave Check** : Permet d'activer la fonction envoie des etats coché Si erreur détécté.
     
 -   **Channels** : Liste des Salons présents sur votre Discord. C'est ici que vous sélectionnez le salon que vous avez créé dans votre Discord. Vous devez créer autant d'équipements que vous avez de salon.
 
@@ -151,11 +161,11 @@ Ci-dessous, vous retrouvez la liste des commandes :
  ![Discord-Equipement4](../images/Discord-Equipement_4.png)
 
 -   Envoi message ( Message simple )
+
+-   Envoi message TTS ( Message lu par Discord )
     
 -   Envoi message évolué ( Message Personalisable )
     
--   Envoi message TTS ( Message lu par Discord )
-
 -   Envoi fichier ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo)
 
 -   Etat des démons ( Envoyer sur votre channel l'état des démons des plugins installés)
@@ -163,6 +173,10 @@ Ci-dessous, vous retrouvez la liste des commandes :
 -   Etat des dépendances ( Envoyer sur votre channel l'état des dépendances des plugins installés)
 
 -   Résumé général ( Envoyer sur votre channel l'état du résumé global de votre installation)
+
+-   Résumé par object ( Envoyer sur votre channel l'état du résumé d'un objet de votre installation)
+
+-   Résumé des batteries ( Envoyer sur votre channel l'état des batteries de votre installation)
 
 -   Dernier message ( Info pour récuperer le dernier message reçu sur votre channel)
 
@@ -172,25 +186,39 @@ Ci-dessous, vous retrouvez la liste des commandes :
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
-## 5) Utilisations dans un scénario
+## 5) Personalisation des Emojys pour les résumés
 
-**5.1) Envoi message**
+Si vous voulez personaliser les emojys des resumés automatique allez sur "Emojy setting"
+
+![Discord-Equipement7](../images/Discord-Equipement_7.png)
+
+![Discord-Equipement8](../images/Discord-Equipement_8.png)
+
+dans la colonne Verte vous mettez l'emojy que vous souhaitez, pour remettre les emoji par defaut cliquer sur "Reset Emojy"
+
+Cliquer sur "Sauvegarder" pour prendre en compte les modifications
+
+Cliquer sur "Retours à Discord Link" pour revenir a la page précedente.
+
+## 6) Utilisations dans un scénario
+
+**6.1) Envoi message**
  ![Discord-Scenario1](../images/Discord-Scenario_1.png)
 Résultat sur votre discord
  ![Discord-Scenario2](../images/Discord-Scenario_2.png)
 
-**5.2) Envoi message évolué**
+**6.2) Envoi message évolué**
  ![Discord-Scenario3](../images/Discord-Scenario_3.png)
 Résultat sur votre discord
  ![Discord-Scenario4](../images/Discord-Scenario_4.png)
  
-**5.3) Fonction ASK**
+**6.3) Fonction ASK**
  ![Discord-Scenario5](../images/Discord-Scenario_5.png)
 Résultat sur votre discord
  ![Discord-Scenario6](../images/Discord-Scenario_6.png)
 Il vous suffit de cliquer sur la réponse dans le carré rouge
 
-**5.4) Envoi fichier**
+**6.4) Envoi fichier**
 
 - Envoi d'une photo d'une Caméra
  ![Discord-Scenario7](../images/Discord-Scenario_7.png)
@@ -207,7 +235,7 @@ Résultat sur votre discord
 
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
  
- **5.5) Etat des démons, Etat des dépendances, Résumé général**
+ **6.5) Résumé général, Etat des démons, Etat des dépendances, Etat des batteries, Etat des modules Zwave**
  
  vous ajoutez simplement ces commandes dans un scénario:
 
@@ -216,16 +244,18 @@ Résultat sur votre discord
  Résultat :
  
  ![Discord-Scenario12](../images/Discord-Scenario_12.png)
+ ![Discord-Scenario12](../images/Discord-Scenario_13.png)
+ ![Discord-Scenario12](../images/Discord-Scenario_14.png)
  
-## 6) Astuces
-**6.1) Emojis**
+## 7) Astuces
+**7.1) Emojis**
   
  Pour ajouter un emoji, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
  
  Liste des emojis avec leur texte : https://www.webfx.com/tools/emoji-cheat-sheet/
 
 
-**6.2) Mentionner quelqu'un dans un message**
+**7.2) Mentionner quelqu'un dans un message**
 
 On met la mention sur discord. On met un anti-slash devant comme ceci :
 
@@ -236,7 +266,8 @@ Ensuite, quand on envoie, ça doit donner un truc comme ça :
 
 Il suffit de mettre le message qui s’affiche pour qu’il mentionne : <@195159794636685xxx>
 
-**6.3) Articles avec des exemples**
+**7.3) Articles avec des exemples**
+
 Vous pouvez retrouver des exemples pratiques sur cet article : https://youdom.net/2020/04/21/installer-et-configurer-jeedom-discord-link/
 
 ## Faq
