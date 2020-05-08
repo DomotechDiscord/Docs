@@ -244,7 +244,9 @@ Résultat sur votre discord
  Résultat :
  
  ![Discord-Scenario12](../images/Discord-Scenario_12.png)
+ 
  ![Discord-Scenario12](../images/Discord-Scenario_13.png)
+ 
  ![Discord-Scenario12](../images/Discord-Scenario_14.png)
  
 ## 7) Astuces
