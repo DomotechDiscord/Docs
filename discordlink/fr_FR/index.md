@@ -190,9 +190,9 @@ Afficher : permet d’afficher la donnée sur le dashboard.
 
 Si vous voulez personaliser les emojys des resumés automatique allez sur "Emojy setting"
 
-![Discord-Equipement7](../images/Discord-Equipement_7.png)
+![Discord-Equipement7](../images/Discord-Plugin_7.PNG)
 
-![Discord-Equipement8](../images/Discord-Equipement_8.png)
+![Discord-Equipement8](../images/Discord-Plugin_8.PNG)
 
 dans la colonne Verte vous mettez l'emojy que vous souhaitez, pour remettre les emoji par defaut cliquer sur "Reset Emojy"
 
