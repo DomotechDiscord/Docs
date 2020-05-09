@@ -13,11 +13,11 @@ Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord :
  - Fonction Etat des Démons de Jeedom et des antenne Blea
  - Fonction Etat des Dépendances des plugins Jeedom
  - Fonction Etat du résumé global
- - Fonction Etat de résumé par Pièce / Object
+ - Fonction Etat de résumé par Pièce / Objet
  - Fonction Etat des batteries
- - Fonction Etat des communication des modules Zwave
- - Fonction Envoie des etats des deamon, dépendances et zwave si erreur
- - Personalisation des Emojys pour les résumés et les messages
+ - Fonction Etat des communications des modules Z-Wave
+ - Fonction Envoi des états des démons, dépendances et Z-Wave si erreur
+ - Personnalisation des Emojis pour les résumés et les messages
 
 Pour cela, il faut avoir son serveur Discord. <br>
 
@@ -90,7 +90,7 @@ Cette partie permet de configurer les paramètres généraux du plugin
 Entrez votre token précédemment mis de côté dans un bloc-note
 Cliquez sur **"Ajouter votre bot à votre serveur Discord"**.
 
-Vous pouvez personaliser la phrase envoyé par votre Bot sur votre Serveur Joue à : .
+Vous pouvez personnaliser la phrase envoyée par votre Bot sur votre Serveur Joue à : .
 
 
 N’oubliez pas de ![Discord-Plugin6](../images/Discord-Plugin_6.PNG) si vous effectuez une modification.
@@ -119,11 +119,11 @@ Cette partie permet de choisir le niveau de log ainsi que d’en consulter le co
  ![Discord-Plugin5](../images/Discord-Plugin_5.PNG)
 Sélectionnez le niveau puis sauvegardez, le démon sera alors relancé avec les instructions et traces sélectionnées.
 
-Le niveau **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi le démon plante ou ne remonte pas une valeur.
+Les niveaux **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi le démon plante ou ne remonte pas une valeur.
 
 > **Important**
 > 
-> En mode **Debug**, le démon est très verbeux, il est recommandé d’utiliser ce mode seulement si vous devez diagnostiquer un problème particulier. Il n’est pas recommandé de laisser tourner le démon en **Debug** en permanence, si on utilise une **SD-Card**. Une fois le debug terminé, il ne faut pas oublier de retourner sur un niveau moins élevé comme le niveau **Error** qui ne remonte que d’éventuelles erreurs.
+> En mode **Debug**, le démon est très verbeux, il est recommandé d’utiliser ce mode seulement si vous devez diagnostiquer un problème particulier. Il n’est pas recommandé de laisser tourner le démon en **Debug** en permanence si on utilise une **SD-Card**. Une fois le debug terminé, il ne faut pas oublier de retourner sur un niveau moins élevé comme le niveau **Error** qui ne remonte que d’éventuelles erreurs.
 
 ## 4) Configuration des équipements
 La configuration des équipements Discord Link est accessible à partir du menu plugin :
@@ -151,7 +151,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 -   **Interactions avec Jeedom** : Pour activer les interactions avec cet équipement 
 
--   **Deamon Check / Dependance Check / Zwave Check** : Permet d'activer la fonction envoie des etats coché Si erreur détécté.
+-   **Daemon Check / Dependances Check / Z-Wave Check** : Permet d'activer la fonction envoi des états cochés si erreur détectée.
     
 -   **Channels** : Liste des Salons présents sur votre Discord. C'est ici que vous sélectionnez le salon que vous avez créé dans votre Discord. Vous devez créer autant d'équipements que vous avez de salon.
 
@@ -174,55 +174,55 @@ Ci-dessous, vous retrouvez la liste des commandes :
 
 -   Résumé général ( Envoyer sur votre channel l'état du résumé global de votre installation)
 
--   Résumé par object ( Envoyer sur votre channel l'état du résumé d'un objet de votre installation)
+-   Résumé par objet ( Envoyer sur votre channel l'état du résumé d'un objet de votre installation)
 
 -   Résumé des batteries ( Envoyer sur votre channel l'état des batteries de votre installation)
 
--   Dernier message ( Info pour récuperer le dernier message reçu sur votre channel)
+-   Dernier message ( Info pour récupérer le dernier message reçu sur votre channel)
 
--   Avant dernier message ( Info pour récuperer l'avant-dernier message reçu sur votre channel)
+-   Avant dernier message ( Info pour récupérer l'avant-dernier message reçu sur votre channel)
 
--   Avant Avant dernier message (Info pour récuperer l'avant-avant-dernier message reçu sur votre channel)
+-   Avant Avant dernier message (Info pour récupérer l'avant-avant-dernier message reçu sur votre channel)
 
 Afficher : permet d’afficher la donnée sur le dashboard.
 
-## 5) Personalisation des Emojys pour les résumés
+## 5) Personnalisation des Emojis pour les résumés
 
-Si vous voulez personaliser les emojys des resumés automatique allez sur "Emojy setting"
+Si vous voulez personnaliser les emojis des resumés automatiques, allez sur "Emojis settings"
 
 ![Discord-Equipement7](../images/Discord-Plugin_7.PNG)
 
 ![Discord-Equipement8](../images/Discord-Plugin_8.PNG)
 
-dans la colonne Verte vous mettez l'emojy que vous souhaitez, pour remettre les emojy par defaut cliquer sur "Reset Emojy"
+Dans la colonne verte, vous mettez l'émoji que vous souhaitez. Pour remettre les émojis par défaut, cliquer sur "Reset Emojis"
 
-Cliquer sur "Sauvegarder" pour prendre en compte les modifications
+Cliquez sur "Sauvegarder" pour prendre en compte les modifications
 
-Cliquer sur "Retours à Discord Link" pour revenir a la page précedente.
+Cliquez sur "Retour à Discord Link" pour revenir à la page précédente.
 
 ## 6) Utilisations dans un scénario
 
 **6.1) Envoi message**
  ![Discord-Scenario1](../images/Discord-Scenario_1.png)
-Résultat sur votre discord
+Résultat sur votre Discord
  ![Discord-Scenario2](../images/Discord-Scenario_2.png)
 
 **6.2) Envoi message évolué**
  ![Discord-Scenario3](../images/Discord-Scenario_3.png)
-Résultat sur votre discord
+Résultat sur votre Discord
  ![Discord-Scenario4](../images/Discord-Scenario_4.png)
  
 **6.3) Fonction ASK**
  ![Discord-Scenario5](../images/Discord-Scenario_5.png)
-Résultat sur votre discord
+Résultat sur votre Discord
  ![Discord-Scenario6](../images/Discord-Scenario_6.png)
 Il vous suffit de cliquer sur la réponse dans le carré rouge
 
 **6.4) Envoi fichier**
 
-- Envoi d'une photo d'une Caméra
+- Envoi d'une photo d'une caméra
  ![Discord-Scenario7](../images/Discord-Scenario_7.png)
- Résultat sur votre discord
+ Résultat sur votre Discord
  
  ![Discord-Scenario8](../images/Discord-Scenario_8.png)
 
@@ -231,11 +231,11 @@ Il vous suffit de cliquer sur la réponse dans le carré rouge
 nbSnap=5 delay=0,01 title='Camera' message='Video' movie=1 sendFirstSnap=1
 
  ![Discord-Scenario9](../images/Discord-Scenario_9.png)
-Résultat sur votre discord
+Résultat sur votre Discord
 
  ![Discord-Scenario10](../images/Discord-Scenario_10.png)
  
- **6.5) Résumé général, Etat des démons, Etat des dépendances, Etat des batteries, Etat des modules Zwave**
+ **6.5) Résumé général, Etat des démons, Etat des dépendances, Etat des batteries, Etat des modules Z-Wave**
  
  vous ajoutez simplement ces commandes dans un scénario:
 
@@ -250,16 +250,16 @@ Résultat sur votre discord
  ![Discord-Scenario12](../images/Discord-Scenario_14.png)
  
 ## 7) Astuces
-**7.1) Emojys**
+**7.1) Emojis**
   
- Pour ajouter un emojy, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
+ Pour ajouter un emoji, il faut le faire en mode texte. Dans l'exemple, c'est :joy: : joy : (ne pas mettre d'espace)
  
- Liste des emojys avec leur texte :  [https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/)
+ Liste des emojis avec leur texte :  [https://www.webfx.com/tools/emoji-cheat-sheet/](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 
 **7.2) Mentionner quelqu'un dans un message**
 
-On met la mention sur discord. On met un anti-slash devant comme ceci :
+On met la mention sur Discord. On met un anti-slash devant comme ceci :
 
 ![Discord-Astuce1](../images/Discord-Astuce_1.png)
 
