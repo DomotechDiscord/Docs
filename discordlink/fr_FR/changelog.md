@@ -1,3 +1,6 @@
+## 3.1.1 (09/05/2020 à 03h51)
+- Correction des fautes d'orthographes (Merci à noodom)
+
 ## 3.1 (08/05/2020 à 15h32)
 - Debug des channel contenant des emojy
 
