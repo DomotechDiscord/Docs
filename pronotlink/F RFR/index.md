@@ -116,6 +116,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 -   **Type de Comptes** : Choisir le type de compte Eleve/Parent.
 
 **4.2) Commandes**
+
 **4.2.1) Commandes**
 Ci-dessous, vous retrouvez la liste des commandes :
 
@@ -134,10 +135,15 @@ Ci-dessous, vous retrouvez la liste des commandes :
 -   Last Success Error ( Envoyer sur votre channel l'état des dépendances des plugins installés)
 
 Afficher : permet d’afficher la donnée sur le dashboard.
+
 **4.2.2) Actions Notes**
+
 **4.2.3) Actions Absence**
+
 **4.2.4) Actions Devoirs**
+
 **4.2.5) Actions EDT**
+
 **4.2.6) Actions Bulletins**
 
 ## 5) Présentation du panel
