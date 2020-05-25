@@ -18,6 +18,7 @@ Pour cela, il faut avoir son accès a Pronote et/ou ENT. <br>
 
 **Connaître son Académie:** 
 Le plugin est compatible avec : 
+
 ![Pronote-Conf1](../images/Pronote-Configuration_1.PNG)
 
 **Récupération de son URL :** 
@@ -30,12 +31,14 @@ Récupérer votre Url : [https://091XXXxx.index-education.net/pronote/](https://
 
 ## 3) Configuration du Plugin
 Après le téléchargement du plugin, il vous suffit de l’activer et de le configurer.
+
 ![Pronote-Conf3](../images/Pronote-Configuration_3.PNG)
 Une fois activé, il faut le configurer.
 
 **3.1) Dépendances** 
 
 Cette partie permet de valider et d’installer les dépendances requises au bon fonctionnement du plugin Discord Link 
+
  ![Pronote-Conf4](../images/Pronote-Configuration_4.PNG)
 Cliquez sur "Relancer" et attendre la fin de l'installation des Dépendances.
 Un Statut **OK** confirme que les dépendances sont satisfaites.
