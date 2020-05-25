@@ -118,6 +118,7 @@ Vous retrouvez ici toute la configuration de votre équipement :
 **4.2) Commandes**
 
 **4.2.1) Commandes**
+
 Ci-dessous, vous retrouvez la liste des commandes :
 
 ![Pronote-Conf10](../images/Pronote-Configuration_10.PNG)
