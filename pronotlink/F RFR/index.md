@@ -37,7 +37,7 @@ Une fois activé, il faut le configurer.
 
 **3.1) Dépendances** 
 
-Cette partie permet de valider et d’installer les dépendances requises au bon fonctionnement du plugin Discord Link 
+Cette partie permet de valider et d’installer les dépendances requises au bon fonctionnement du plugin Pronote Link 
 
  ![Pronote-Conf4](../images/Pronote-Configuration_4.PNG)
 Cliquez sur "Relancer" et attendre la fin de l'installation des Dépendances.
