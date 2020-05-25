@@ -19,7 +19,25 @@ Pour cela, il faut avoir son accès a Pronote et/ou ENT. <br>
 **Connaître son Académie:** 
 Le plugin est compatible avec : 
 
-![Pronote-Conf1](../images/Pronote-Configuration_1.PNG)
+  **La Connection direct (Manuel)**
+  **Les ent suivante :**
+  - ENT "Île de France"
+  - ENT "Hauts-de-France"
+  - ENT "Seine-et-Marne"
+  - ATEN "Académie de Besançon"
+  - ATEN "Nantes"
+  - ATEN "Académie de Reims"
+  - ATEN "Académie de Strasbourg"
+  - ATEN "Académie de Caen"
+  - ATEN "Académie de Rouen"
+  - ATEN "Académie de Montpellier"
+  - ATEN "Académie de Toulouse"
+  - NetOCentre "Académie d'Orleans-Tours"
+  - Ma Classe "Académie de Clermont-Ferrand"
+  - Ma Classe "Académie de Grenoble"
+  - Ma Classe "Académie de Lyon"
+  - Arsene "Académie de Rouen"
+  - Toutatice "Académie de Rennes"
 
 **Récupération de son URL :** 
  - Allez sur votre ENT, une fois connecté allez sur Pronote
