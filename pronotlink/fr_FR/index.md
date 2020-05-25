@@ -20,6 +20,7 @@ Pour cela, il faut avoir son accès a Pronote et/ou ENT. <br>
 Le plugin est compatible avec : 
 
   **La Connection direct (Manuel)**
+  
   **Les ent suivante :**
   - ENT "Île de France"
   - ENT "Hauts-de-France"
