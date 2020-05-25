@@ -90,6 +90,7 @@ Ci-dessous un exemple d’une page du plugin Pronote Link (présentée avec quel
 ![Pronote-Conf8](../images/Pronote-Configuration_8.PNG)
 
 **4.1) Général**
+
 Vous retrouvez ici toute la configuration de votre équipement :
 
 ![Pronote-Conf9](../images/Pronote-Configuration_9.PNG)
