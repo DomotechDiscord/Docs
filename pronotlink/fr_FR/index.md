@@ -33,6 +33,7 @@ Le plugin est compatible avec :
   - ATEN "Académie de Rouen"
   - ATEN "Académie de Montpellier"
   - ATEN "Académie de Toulouse"
+  - ATEN "Académie de Lille"
   - NetOCentre "Académie d'Orleans-Tours"
   - Ma Classe "Académie de Clermont-Ferrand"
   - Ma Classe "Académie de Grenoble"
