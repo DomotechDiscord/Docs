@@ -1,4 +1,4 @@
-## 3.2 (01/06/2020 à 23h35)
+## 3.2 (BETA !!!!)
 - Ajout des cron perso pour les check
 - Ajout des exclusion de node Z-Wave
 - Ajout de la config de temps de check des modulule Zwave
