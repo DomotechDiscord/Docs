@@ -1,3 +1,9 @@
+## 3.2.1 (01/06/2020 à 23h35)
+- Ajout des cron perso pour les check
+- Ajout des exclusion de node Z-Wave
+- Ajout de la config de temps de check des modulule Zwave
+- Ajout d'une commande "Centre de messages" By jcamus86
+
 ## 3.1.1 (09/05/2020 à 03h51)
 - Correction des fautes d'orthographes (Merci à noodom)
 
