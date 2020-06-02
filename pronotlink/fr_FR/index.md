@@ -45,7 +45,7 @@ Le plugin est compatible avec :
  - Allez sur votre ENT, une fois connecté allez sur Pronote
   ![Pronote-Conf2](../images/Pronote-Configuration_2.PNG)
 
-Récupérer votre Url : [https://091XXXxx.index-education.net/pronote/](https://0910727w.index-education.net/pronote/)
+Récupérer votre Url : [https://XXXXXXxx.index-education.net/pronote/](https://XXXXXXXX.index-education.net/pronote/)
 
  
 
@@ -99,6 +99,12 @@ Les niveaux **Debug** ou **Info** peuvent être utiles pour comprendre pourquoi 
 > **Important**
 > 
 > En mode **Debug**, le démon est très verbeux, il est recommandé d’utiliser ce mode seulement si vous devez diagnostiquer un problème particulier. Il n’est pas recommandé de laisser tourner le démon en **Debug** en permanence si on utilise une **SD-Card**. Une fois le debug terminé, il ne faut pas oublier de retourner sur un niveau moins élevé comme le niveau **Error** qui ne remonte que d’éventuelles erreurs.
+
+**3.5) Panel**
+
+Important pronote utilise le panel pour afficher les informations, il est donc important de cocher la case.
+
+ ![Pronote-Conf6Bis](../images/Pronote-Configuration_6_Bis.PNG)
 
 ## 4) Configuration des équipements
 La configuration des équipements Pronote Link est accessible à partir du menu plugin :
