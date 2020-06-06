@@ -1,11 +1,14 @@
-## 3.2 (BETA !!!!)
+## 3.2 (06/06/2020 à 16h20)
 - Ajout des cron perso pour les check
 - Ajout des exclusion de node Z-Wave
 - Ajout de la config de temps de check des modulule Zwave
 - Ajout d'une commande "Centre de messages" By jcamus86
 - Ajout d'une commande "Dernière Connexions utilisateurs" by Yasu
+- Ajout de notification automatique sur la commande "Dernière Connexions utilisateurs" by Yasu
 - Ajout d'un tag contenant l'id du channel dans une interaction
+- Update des interface
 - Correction d'un message d'erreur de TimeOut
+
 
 ## 3.1.1 (09/05/2020 à 03h51)
 - Correction des fautes d'orthographes (Merci à noodom)
