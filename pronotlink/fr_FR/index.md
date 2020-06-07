@@ -39,7 +39,6 @@ Le plugin est compatible avec :
   - Ma Classe "Académie de Grenoble"
   - Ma Classe "Académie de Lyon"
   - Arsene "Académie de Rouen"
-  - Toutatice "Académie de Rennes"
 
 **Récupération de son URL :** 
  - Allez sur votre ENT, une fois connecté allez sur Pronote
