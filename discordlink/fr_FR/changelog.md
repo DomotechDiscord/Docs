@@ -1,3 +1,6 @@
+## 3.2.1 (12/06/2020 à 20h15)
+- Ajout de log en mod debug pour les channel et l'invite.
+
 ## 3.2 (06/06/2020 à 16h20)
 - Ajout des cron perso pour les check
 - Ajout des exclusion de node Z-Wave
