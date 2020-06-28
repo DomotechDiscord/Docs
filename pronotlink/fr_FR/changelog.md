@@ -1,4 +1,5 @@
 ## 1.0 (BETA !!!!)
+- Ajout de l'academie ENT "Collège Somme"
 - Ajout de l'onglet "Actions Notes"
 - Ajout de l'onglet "Actions Absence"
 - Ajout de l'onglet "Actions Devoirs"
