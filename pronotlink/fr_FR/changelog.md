@@ -5,6 +5,7 @@
 - Ajout de l'onglet "Actions EDT"
 - Ajout de l'onglet "Actions Bulletins"
 - Ajout de tag dans les senario executer grace a l'onglet "Actions Notes" ('title' (Intitulée devoir), 'subject' (Matière), 'maxnote' (Note maximum possible Default 20), 'note' (La note de l'élève))
+- Ajout de tag dans les senario executer grace a l'onglet "Actions Absence" ('from' (Minute de debus), 'to' (Minutes de fin), 'solved' (Si c'est resolu), 'justified' (Si c'est justifiée) 'reason' (La raison ;)))
 
 ## 0.5 (28/05/2020 à 22h00)
 - Ajout de l'academie de lille
