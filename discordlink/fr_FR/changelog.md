@@ -1,3 +1,6 @@
+## 3.2.1 (03/07/2020 à 18h05)
+- Nouveaux system sur les invite et sur les channel discord
+
 ## 3.2.1 (12/06/2020 à 20h11)
 - Ajout de log en mod debug pour les channel et l'invite.
 
