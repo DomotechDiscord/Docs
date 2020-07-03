@@ -1,3 +1,6 @@
+## 3.2.3 (BETA!!!)
+- Update du system de "Dernière Connexions utilisateurs"
+
 ## 3.2.2 (03/07/2020 à 18h05)
 - Nouveaux system sur les invite et sur les channel discord
 
