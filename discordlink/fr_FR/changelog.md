@@ -1,3 +1,6 @@
+## 3.2.4 (04/07/2020 à 14h17)
+- Correction de l'erreur 500 a la creation de l'équipement
+
 ## 3.2.3 (03/07/2020 à 21h45)
 - Update du system de "Dernière Connexions utilisateurs" By Yasu et Jcamus86
 
