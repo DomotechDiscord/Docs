@@ -1,3 +1,11 @@
+## 3.2.5 (BETA !!!!)
+- Ajout d'une fonction pour les createur de scénario ou developpeur.
+#### discordlink::addemojy("ID Emojis","Emojis Creation");
+Elle permet au developpeur de crée des Emojis dans la page "Emojis Settings". Elle retourne soit l'Emojis suite a la creation soit celui modifier par l'utilisateur.
+Elle n'ésessite que le Emojis ID. Elle retournera l'Emojis set a cette id ou alors des point d'interogation en cas de création.
+Le parametre "Emojis Creation" est optionel, mais si il est specifier, si creation de l'emojy il sera set a la valeur definie
+- Migration du "Dernière Connexions utilisateurs" By Yasu et Jcamus86" en emojy editable par l'utiulisateur.
+
 ## 3.2.4 (04/07/2020 à 14h17)
 - Correction de l'erreur 500 a la creation de l'équipement
 
