@@ -6,11 +6,11 @@ Le plugin Pronote Link permet de récupérer les informations provenant du site 
  - Emploi du temps
  - Devoirs
  - Notes
- - Bulletins
+ - Bulletins de notes
  - Compétences
  - Absences
  
-Pour cela, il faut avoir son accès a Pronote et/ou ENT. <br>
+Pour cela, il faut avoir son accès à Pronote et/ou ENT. <br>
 
 ## 2 ) Paramètres obligatoires : 
 
@@ -21,7 +21,7 @@ Le plugin est compatible avec :
 
   **La Connection direct (Manuel)**
   
-  **Les ent suivante :**
+  **Les ent suivantes :**
   - ENT "Île de France"
   - ENT "Hauts-de-France"
   - ENT "Seine-et-Marne"
