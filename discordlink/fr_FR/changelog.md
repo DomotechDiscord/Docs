@@ -4,13 +4,13 @@
 Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création soit celui modifié par l'utilisateur.
 Il nésessite que l'émoji ID. Il retournera l'émoji set à cette id ou alors des points d'interrogations en cas de création.
 Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si création de l'émojy il sera set à la valeur définie
-- Migration du "Dernière connexion utilisateur" By Yasu et Jcamus86" en émojy éditable par l'utilisateur.
+- Migration de la "Dernière connexion de l'utilisateur" By Yasu et Jcamus86" en émojy éditable par l'utilisateur.
 
 ## 3.2.4 (04/07/2020 à 14h17)
 - Correction de l'erreur 500 à la création de l'équipement
 
 ## 3.2.3 (03/07/2020 à 21h45)
-- Update du system de "Dernière Connexion utilisateur" By Yasu et Jcamus86
+- Update du system "Dernière Connexion utilisateur" By Yasu et Jcamus86
 
 ## 3.2.2 (03/07/2020 à 18h05)
 - Nouveaux système sur les invites et sur les channels discord
