@@ -10,13 +10,13 @@ Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si cr�
 - Correction de l'erreur 500 à la création de l'équipement
 
 ## 3.2.3 (03/07/2020 à 21h45)
-- Update du system "Dernière Connexion utilisateur" By Yasu et Jcamus86
+- Update du system "Dernière connexion de l'utilisateur" By Yasu et Jcamus86
 
 ## 3.2.2 (03/07/2020 à 18h05)
-- Nouveaux système sur les invites et sur les channels discord
+- Nouveaux système sur les invites et channels discord
 
 ## 3.2.1 (12/06/2020 à 20h11)
-- Ajout de log en mode debug pour les channels et l'invite.
+- Ajout de logs en mode debug pour les channels et l'invite.
 
 ## 3.2 (06/06/2020 à 16h20)
 - Ajout des cron persos pour les checks
