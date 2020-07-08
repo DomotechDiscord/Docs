@@ -19,12 +19,12 @@ Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si cr�
 - Ajout de logs en mode debug pour les channels et l'invite.
 
 ## 3.2 (06/06/2020 à 16h20)
-- Ajout des cron persos pour les checks
-- Ajout des exclusion de node Z-Wave
-- Ajout de la config de temps de check des modulules Zwave
+- Ajout des crons persos pour les checks
+- Ajout des exclusions de node Z-Wave
+- Ajout de la config de temps de check des modules Zwave
 - Ajout d'une commande "Centre de messages" By jcamus86
-- Ajout d'une commande "Dernière connexion utilisateur" by Yasu
-- Ajout de notification automatique sur la commande "Dernière connexion utilisateur" by Yasu
+- Ajout d'une commande "Dernière connexion de l'utilisateur" by Yasu
+- Ajout de notification automatique sur la commande "Dernière connexion de l'utilisateur" by Yasu
 - Ajout d'un tag contenant l'id du channel dans une intéraction
 - Update des interfaces
 - Correction d'un message d'erreur de TimeOut
