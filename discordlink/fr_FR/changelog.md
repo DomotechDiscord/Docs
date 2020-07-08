@@ -1,32 +1,32 @@
 ## 3.2.5 (BETA !!!!)
-- Ajout d'une fonction pour les createur de scénario ou developpeur.
-#### discordlink::addemojy("ID Emojis","Emojis Creation");
-Elle permet au developpeur de crée des Emojis dans la page "Emojis Settings". Elle retourne soit l'Emojis suite a la creation soit celui modifier par l'utilisateur.
-Elle n'ésessite que le Emojis ID. Elle retournera l'Emojis set a cette id ou alors des point d'interogation en cas de création.
-Le parametre "Emojis Creation" est optionel, mais si il est specifier, si creation de l'emojy il sera set a la valeur definie
-- Migration du "Dernière Connexions utilisateurs" By Yasu et Jcamus86" en emojy editable par l'utiulisateur.
+- Ajout d'une fonction pour les créateurs de scénario ou developpeur.
+#### discordlink::add émojys ("ID Emojis","Emojis Création");
+Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création soit celui modifié par l'utilisateur.
+Il nésessite que l'émoji ID. Il retournera l'émoji set à cette id ou alors des points d'interrogations en cas de création.
+Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si création de l'émojy il sera set à la valeur définie
+- Migration du "Dernière connexion utilisateur" By Yasu et Jcamus86" en émojy éditable par l'utilisateur.
 
 ## 3.2.4 (04/07/2020 à 14h17)
-- Correction de l'erreur 500 a la creation de l'équipement
+- Correction de l'erreur 500 à la création de l'équipement
 
 ## 3.2.3 (03/07/2020 à 21h45)
-- Update du system de "Dernière Connexions utilisateurs" By Yasu et Jcamus86
+- Update du system de "Dernière Connexion utilisateur" By Yasu et Jcamus86
 
 ## 3.2.2 (03/07/2020 à 18h05)
-- Nouveaux system sur les invite et sur les channel discord
+- Nouveaux système sur les invites et sur les channels discord
 
 ## 3.2.1 (12/06/2020 à 20h11)
-- Ajout de log en mod debug pour les channel et l'invite.
+- Ajout de log en mode debug pour les channels et l'invite.
 
 ## 3.2 (06/06/2020 à 16h20)
-- Ajout des cron perso pour les check
+- Ajout des cron persos pour les checks
 - Ajout des exclusion de node Z-Wave
-- Ajout de la config de temps de check des modulule Zwave
+- Ajout de la config de temps de check des modulules Zwave
 - Ajout d'une commande "Centre de messages" By jcamus86
-- Ajout d'une commande "Dernière Connexions utilisateurs" by Yasu
-- Ajout de notification automatique sur la commande "Dernière Connexions utilisateurs" by Yasu
-- Ajout d'un tag contenant l'id du channel dans une interaction
-- Update des interface
+- Ajout d'une commande "Dernière connexion utilisateur" by Yasu
+- Ajout de notification automatique sur la commande "Dernière connexion utilisateur" by Yasu
+- Ajout d'un tag contenant l'id du channel dans une intéraction
+- Update des interfaces
 - Correction d'un message d'erreur de TimeOut
 
 
@@ -34,7 +34,7 @@ Le parametre "Emojis Creation" est optionel, mais si il est specifier, si creati
 - Correction des fautes d'orthographes (Merci à noodom)
 
 ## 3.1 (08/05/2020 à 15h32)
-- Debug des channel contenant des emojy
+- Debug des channels contenant des emojys
 
 ## 3.0 (07/05/2020 à 22h16)
 - Ajout du choix du message du jeux du BOT (Merci Alexandre)
