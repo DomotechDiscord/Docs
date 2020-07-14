@@ -1,7 +1,7 @@
 ## 3.2.5 (13/07/2020 à 21h37)
 - Ajout d'une fonction pour les créateurs de scénario ou developpeur.
 
-#### discordlink::add émojys ("ID Emojis","Emojis Création");
+#### discordlink::addemojy("ID Emojis","Emojis Création");
 Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création soit celui modifié par l'utilisateur.
 Il nésessite que l'émoji ID. Il retournera l'émoji set à cette id ou alors des points d'interrogations en cas de création.
 Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si création de l'émojy il sera set à la valeur définie
