@@ -1,5 +1,5 @@
 ## 3.2.6 (31/07/2020 à 9h30)
-- Mise a jours des dependance.
+- Mise à jour des dépendances.
 
 ## 3.2.5 (13/07/2020 à 21h37)
 - Ajout d'une fonction pour les créateurs de scénario ou developpeur.
