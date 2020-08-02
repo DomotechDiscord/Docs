@@ -1,3 +1,7 @@
+## *** (02/08/2020)
+- Update Lien docs
+- Update Repository
+
 ## 0.7 (14/05/2020 à 20h40)
 - Mise a jours des lien de la docs et du changelog
 
