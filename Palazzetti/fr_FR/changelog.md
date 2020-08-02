@@ -1,3 +1,7 @@
+## *** (02/08/2020)
+- Update Lien docs
+- Update Repository
+
 ## 1.0 (14/07/2020 à 23h42)
 - Mise en place des modification de @pm2036  pour la prise en compte du nouveaux firmware.
 - Application des modifications de @JAG  pour la prise en compte de PHP 7.3.
