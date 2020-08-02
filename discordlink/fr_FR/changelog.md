@@ -1,17 +1,17 @@
 ## *** (02/08/2020)
-- Update Lien docs
-- Update Repository
+- Update lien docs
+- Update repository
 
 ## 3.2.6 (31/07/2020 à 9h30)
 - Mise à jour des dépendances.
 
 ## 3.2.5 (13/07/2020 à 21h37)
-- Ajout d'une fonction pour les créateurs de scénario ou developpeur.
+- Ajout d'une fonction pour les créateurs de scénario et les developpeurs.
 
 #### discordlink::addemojy("ID Emojis","Emojis Création");
-Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création soit celui modifié par l'utilisateur.
+Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création, soit celui modifié par l'utilisateur.
 Il nésessite que l'émoji ID. Il retournera l'émoji set à cette id ou alors des points d'interrogations en cas de création.
-Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si création de l'émojy il sera set à la valeur définie
+Le paramètre "Emojis Création" est optionel, mais s'il est spécifié, si création de l'émojy il sera set à la valeur définie
 - Migration de la "Dernière connexion de l'utilisateur" By Yasu et Jcamus86" en émojy éditable par l'utilisateur.
 
 ## 3.2.4 (04/07/2020 à 14h17)
@@ -21,7 +21,7 @@ Le paramètre "Emojis Création" est optionel, mais si il est spécifié, si cr�
 - Update du system "Dernière connexion de l'utilisateur" By Yasu et Jcamus86
 
 ## 3.2.2 (03/07/2020 à 18h05)
-- Nouveaux système sur les invites et channels discord
+- Nouveau système sur les invites et channels discord
 
 ## 3.2.1 (12/06/2020 à 20h11)
 - Ajout de logs en mode debug pour les channels et l'invite.
