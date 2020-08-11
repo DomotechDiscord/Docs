@@ -1,3 +1,7 @@
+## 1.1 (BETA!!!)
+- Mise a jour de font (Merci @JAG)
+- Update Github : https://github.com/DomotechDiscord/Jeedom_Palazzetti
+
 ## *** (02/08/2020)
 - Update Lien docs
 - Update Repository
@@ -8,7 +12,7 @@
 - Mise a jour des liens de documentation
 - Mise a jour des visuels
 - Refonte du widget By Domotech.
-- Changement de repository GitHub : https://github.com/trmaud/Jeedom_Palazzetti
+- Changement de repository GitHub : https://github.com/DomotechDiscord/Jeedom_Palazzetti
 
 ## 0.1 (01/06/2020 à 17h00)
 - Deplacement de l'ancien repo au nouveaux
