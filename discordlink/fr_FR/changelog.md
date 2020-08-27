@@ -1,3 +1,7 @@
+## 3.3 BETA!!!!!!
+- Mise a jours de icon font (Merci @Jag)
+- Ajout d'une fonction pour delete les ancien message (Message compris entre -14 et -2 jours)
+
 ## *** (02/08/2020)
 - Update Lien docs
 - Update Repository
