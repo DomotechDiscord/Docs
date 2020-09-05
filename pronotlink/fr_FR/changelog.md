@@ -1,3 +1,15 @@
+## 2.0 (05/09/2020)
+- Mise a jours de l'Api pour Pronote 2020/2021
+- Ajout du support multi enfant pour les parent
+- Ajours du CAS : ENT "Haute-Garonne"
+- Ajours du CAS : ENT "Collège Somme"
+- Ajours du CAS : ATEN "Académie de Limoges"
+- Ajours du CAS : ATEN "Académie de Nancy-Metz"
+- Ajours du CAS : ATEN "Académie de Bordeaux"
+- Ajours du CAS : Eclat-BCF "Académie de Dijon"
+- Ajours du CAS : Toutatice "Académie de Rennes"
+
+
 ## *** (02/08/2020)
 - Update Lien docs
 - Update Repository

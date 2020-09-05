@@ -22,23 +22,32 @@ Le plugin est compatible avec :
   **La Connection direct (Manuel)**
   
   **Les ent suivantes :**
+
   - ENT "Île de France"
   - ENT "Hauts-de-France"
   - ENT "Seine-et-Marne"
+  - ENT "Haute-Garonne"
+  - ENT "Collège Somme"
   - ATEN "Académie de Besançon"
+  - ATEN "Académie de Lille"
   - ATEN "Nantes"
   - ATEN "Académie de Reims"
+  - ATEN "Académie de Nancy-Metz"
   - ATEN "Académie de Strasbourg"
   - ATEN "Académie de Caen"
   - ATEN "Académie de Rouen"
   - ATEN "Académie de Montpellier"
   - ATEN "Académie de Toulouse"
-  - ATEN "Académie de Lille"
-  - NetOCentre "Académie d'Orleans-Tours"
+  - ATEN "Académie de Bordeaux"
+  - ATEN "Académie de Limoges"
+  - ATEN "Académie de Poitiers"
   - Ma Classe "Académie de Clermont-Ferrand"
   - Ma Classe "Académie de Grenoble"
   - Ma Classe "Académie de Lyon"
+  - Eclat-BCF "Académie de Dijon"
   - Arsene "Académie de Rouen"
+  - Toutatice "Académie de Rennes"
+  - NetOCentre "Académie d'Orleans-Tours"
 
 **Récupération de son URL :** 
  - Allez sur votre ENT, une fois connecté allez sur Pronote
