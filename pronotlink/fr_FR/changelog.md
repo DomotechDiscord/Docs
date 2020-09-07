@@ -3,6 +3,9 @@
 - Correction de l'erreur de PROXY (Accademie de lyon)
 - Correction de l'expiration de session
 - Correction d'erreur si la fonctionalité n'est pas activée sur pronote
+- Correction de plusieur erreur de connection
+- Correction d'une boucle infinie
+- Panel : Hide des button des notes et competence si celle-ci sont vide
 
 ## 2.0 (05/09/2020)
 - Mise a jours de l'Api pour Pronote 2020/2021
