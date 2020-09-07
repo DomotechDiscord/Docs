@@ -45,6 +45,7 @@ Le plugin est compatible avec :
   - Ma Classe "Académie de Grenoble"
   - Ma Classe "Académie de Lyon"
   - Eclat-BCF "Académie de Dijon"
+  - Agora 06 "Académie de Nice" (BETA !!!)
   - Arsene "Académie de Rouen"
   - Toutatice "Académie de Rennes"
   - NetOCentre "Académie d'Orleans-Tours"
