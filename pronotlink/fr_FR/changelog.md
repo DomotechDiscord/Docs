@@ -1,15 +1,15 @@
 ## 2.1 (08/09/2020)
-- Ajours du CAS : Agora 06 "Académie de Nice"
-- Correction de l'erreur de PROXY (Accademie de lyon)
-- Correction de l'expiration de session
-- Correction d'erreur si la fonctionalité n'est pas activée sur pronote
-- Correction de plusieur erreur de connection
-- Correction d'une boucle infinie
-- Panel : Hide des button des notes et competence si celle-ci sont vide
-- Panel : Ajout de la Categorie vie Scolaire (Absence, Retard, Punnition et autre)
-- Panel (EDT) :  Ajout d'une fonction pour decaler les heure.
-- Panel (EDT) : Ajout de couleur en fonction des info du cours (Absence Prof, Absence Classe et retenu)
-- Panel (EDT) : Ajout de text avec des info du cours
+- Ajout du CAS : Agora 06 “Académie de Nice”
+- Correction de l’erreur de PROXY (Académie de lyon)
+- Correction de l’expiration de session
+- Correction d’erreur si la fonctionnalité n’est pas activée sur pronote
+- Correction de plusieurs erreurs de connection
+- Correction d’une boucle infinie
+- Panel : Hide des boutons des notes et compétences si celles-ci sont vides
+- Panel : Ajout de la catégorie vie Scolaire (Absence, Retard, Punnition et autre)
+- Panel (EDT) : Ajout d’une fonction pour décaler les heure.
+- Panel (EDT) : Ajout de couleur en fonction des informations du cours (Absence Prof, Absence Classe et retenue)
+- Panel (EDT) : Ajout de texte avec des informations du cours
 
 ## 2.0 (05/09/2020)
 - Mise a jours de l'Api pour Pronote 2020/2021
