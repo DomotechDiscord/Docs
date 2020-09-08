@@ -1,4 +1,4 @@
-## 2.5 (BETA!!!)
+## 2.1 (08/09/2020)
 - Ajours du CAS : Agora 06 "Académie de Nice"
 - Correction de l'erreur de PROXY (Accademie de lyon)
 - Correction de l'expiration de session
