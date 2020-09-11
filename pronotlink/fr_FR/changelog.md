@@ -6,7 +6,7 @@
 - Ajout de la commande : Dernier cour demain
 ### Ajout de l'onglet Action notes : 
 - Execution des action a chaque Notes
-- Ajout des scenario preremplis avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #min#, Classe Max : #max#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#
+- Ajout des scenario préremplis  avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #min#, Classe Max : #max#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#
 
 
 
