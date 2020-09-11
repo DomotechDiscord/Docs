@@ -1,3 +1,15 @@
+## 2.2 (BETA!!!)
+- Ajout du CAS : La Classe "Académie de Lyon"
+- Ajout de la commande : Premièr cour aujourdhui
+- Ajout de la commande : Dernier cour aujourdhui
+- Ajout de la commande : Premièr cour demain
+- Ajout de la commande : Dernier cour demain
+### Ajout de l'onglet Action notes : 
+- Execution des action a chaque Notes
+- Ajout des scenario preremplis avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #min#, Classe Max : #max#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#
+
+
+
 ## 2.1 (08/09/2020)
 - Ajout du CAS : Agora 06 “Académie de Nice”
 - Correction de l’erreur de PROXY (Académie de lyon)
