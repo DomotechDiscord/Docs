@@ -54,7 +54,7 @@ Le plugin est compatible avec :
  - Allez sur votre ENT, une fois connecté allez sur Pronote
   ![Pronote-Conf2](../images/Pronote-Configuration_2.PNG)
 
-Récupérer votre Url : [https://XXXXXXxx.index-education.net/pronote/](https://XXXXXXXX.index-education.net/pronote/)
+Récupérez votre Url : [https://XXXXXXxx.index-education.net/pronote/](https://XXXXXXXX.index-education.net/pronote/)
 
  
 
@@ -142,11 +142,11 @@ Vous retrouvez ici toute la configuration de votre équipement :
 
 -   **Mode de connexion** : Choisir son académie ou Manuel
 
--   **Nom d'utilisateur** : Login utilisé sur pronote.
+-   **Nom d'utilisateur** : Login utilisé sur Pronote.
     
--   **Mots de passe** : Mot de passe utilisé sur pronote
+-   **Mots de passe** : Mot de passe utilisé sur Pronote
 
--  **Url de la page pronote** : Mettre l'Url récupéré au début de l'article .
+-  **Url de la page pronote** : Mettre l'Url récupérée au début de l'article .
 
 -   **Type de Comptes** : Choisir le type de compte Eleve/Parent.
 
@@ -162,7 +162,7 @@ Ci-dessous, vous retrouvez la liste des commandes :
 
 -   Dernière Absence ( Message lu par Discord )
     
--   Dernier Devoirs ( Message Personalisable )
+-   Dernier Devoir ( Message Personnalisable )
     
 -   Json API ( Envoyer une pièce jointe ou une photo de caméra ou une vidéo)
 
