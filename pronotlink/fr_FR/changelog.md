@@ -14,6 +14,7 @@
 - Ajout de la commande : Dernier Cour Demain Fin
 - DEBUG : Error `plugins/pronotlink/desktop/php/panel/panel_dashbord.php on line 49`
 - DEBUG : CAS de Caen
+- DEBUG : Notation max sur une notes
 
 ### Ajout de l'onglet Action notes : 
 - Execution des action a chaque Notes
