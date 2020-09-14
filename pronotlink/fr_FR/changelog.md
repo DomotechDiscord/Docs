@@ -4,6 +4,17 @@
 - Ajout de la commande : Dernier cour aujourdhui
 - Ajout de la commande : Premièr cour demain
 - Ajout de la commande : Dernier cour demain
+- Ajout de la commande : Première Cour Aujourdhui Début
+- Ajout de la commande : Dernier Cour Aujourdhui Début
+- Ajout de la commande : Première Cour Aujourdhui Fin
+- Ajout de la commande : Dernier Cour Aujourdhui Fin
+- Ajout de la commande : Première Cour Demain Début
+- Ajout de la commande : Dernier Cour Demain Début
+- Ajout de la commande : Première Cour Demain Fin
+- Ajout de la commande : Dernier Cour Demain Fin
+- DEBUG : Error `plugins/pronotlink/desktop/php/panel/panel_dashbord.php on line 49`
+- DEBUG : CAS de Caen
+
 ### Ajout de l'onglet Action notes : 
 - Execution des action a chaque Notes
 - Ajout des scenario préremplis  avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #min#, Classe Max : #max#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#
