@@ -1,8 +1,10 @@
 # Palazzetti
 
+<!> Votre poêle nécessite une Cbox (Connection box) pour pouvoir être piloté. Cette box est vendue séparemment du poêle. Nous vous conseillons de l'acheter sur le site officiel (Prix le plus bas trouvé : http://cbox.palazzetti.it/store/?lang=fr). 
+
 ## 1 ) Description
 
-Le plugin Palazzetti permet d'intégrer dans votre système domotique Jeedom les poêles à pellets de la marque Palazzetti au moyen de la passerelle Connection Box. 
+Le plugin Palazzetti permet d'intégrer dans votre système domotique Jeedom, les poêles à pellets de la marque Palazzetti au moyen de la passerelle Connection Box. 
 
 Les fonctionnalités proposées par le plugin sont identiques à celles de l'application mobile officielle Palazzetti App. 
 
