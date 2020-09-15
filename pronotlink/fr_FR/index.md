@@ -14,12 +14,12 @@ Pour cela, il faut avoir son accès à Pronote et/ou ENT. <br>
 
 ## 2 ) Paramètres obligatoires : 
 
-### Ses Accès Pronote :
+### Ses accès Pronote :
 
 **Connaître son Académie:** 
 Le plugin est compatible avec : 
 
-  **La Connection direct (Manuel)**
+  **La Connexion directe (Manuel)**
   
   **Les ent suivantes :**
 
@@ -58,7 +58,7 @@ Récupérez votre Url : [https://XXXXXXxx.index-education.net/pronote/](https://
 
  
 
-## 3) Configuration du Plugin
+## 3) Configuration du plugin
 Après le téléchargement du plugin, il vous suffit de l’activer et de le configurer.
 
 ![Pronote-Conf3](../images/Pronote-Configuration_3.PNG)
@@ -69,7 +69,7 @@ Une fois activé, il faut le configurer.
 Cette partie permet de valider et d’installer les dépendances requises au bon fonctionnement du plugin Pronote Link 
 
  ![Pronote-Conf4](../images/Pronote-Configuration_4.PNG)
-Cliquez sur "Relancer" et attendre la fin de l'installation des Dépendances.
+Cliquez sur "Relancer" et attendre la fin de l'installation des dépendances.
 Un Statut **OK** confirme que les dépendances sont satisfaites.
 > **Tip**
 > 
@@ -184,7 +184,7 @@ Afficher : permet d’afficher la donnée sur le dashboard.
 
 ## 5) Présentation du panel
 
-Pour ce rendre sur le Panel
+Pour ce rendre sur le panel
 
 ![Pronote-Conf11](../images/Pronote-Configuration_11.PNG)
 
