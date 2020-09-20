@@ -184,7 +184,7 @@ Afficher : permet d’afficher la donnée sur le dashboard.
 
 ## 5) Présentation du panel
 
-Pour ce rendre sur le panel
+Pour se rendre sur le panel
 
 ![Pronote-Conf11](../images/Pronote-Configuration_11.PNG)
 
