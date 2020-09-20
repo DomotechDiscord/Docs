@@ -12,14 +12,18 @@
 - Ajout de la commande : Dernier Cour Demain Début
 - Ajout de la commande : Première Cour Demain Fin
 - Ajout de la commande : Dernier Cour Demain Fin
+- Modification : Les devoirs recup seront entre -1 jours et +21 jours
+- DEBUG : Debug Notes ecran Principal
+- DEBUG : Correction  des erreur du panel ("Invalid argument supplied for foreach())
 - DEBUG : Error `plugins/pronotlink/desktop/php/panel/panel_dashbord.php on line 49`
 - DEBUG : CAS de Caen
 - DEBUG : Notation max sur une notes
+- DEBUG : Correction  de plusieur probleme de refresh
 
 ### Ajout de l'onglet Action notes : 
 - Execution des action a chaque Notes
-- Ajout des scenario préremplis  avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #min#, Classe Max : #max#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#
-
+- Ajout des scenario préremplis  avec les tag suivant :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #minClasse#, Classe Max : #maxClasse#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#, Notes Maximal : #max#, Equipement ID : #equip#
+- Ajout d'un bouton pour test les scenario
 
 
 ## 2.1 (08/09/2020)
