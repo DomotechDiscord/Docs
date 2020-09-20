@@ -1,6 +1,6 @@
 ## 3.3 BETA!!!!!!
-- Mise a jours de icon font (Merci @Jag)
-- Ajout d'une fonction pour delete les ancien message (Message compris entre -14 et -2 jours)
+- Mise à jour de icon font (Merci @Jag)
+- Ajout d'une fonction pour delete les anciens messages (Messages compris entre -14 et -2 jours)
 
 ## *** (02/08/2020)
 - Update lien docs
@@ -10,13 +10,13 @@
 - Mise à jour des dépendances.
 
 ## 3.2.5 (13/07/2020 à 21h37)
-- Ajout d'une fonction pour les créateurs de scénario et les developpeurs.
+- Ajout d'une fonction pour les créateurs de scénarios et les développeurs.
 
 #### discordlink::addemojy("ID Emojis","Emojis Création");
-Elle permet aux developpeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création, soit celui modifié par l'utilisateur.
-Il nésessite que l'émoji ID. Il retournera l'émoji set à cette id ou alors des points d'interrogations en cas de création.
-Le paramètre "Emojis Création" est optionel, mais s'il est spécifié, si création de l'émojy il sera set à la valeur définie
-- Migration de la "Dernière connexion de l'utilisateur" By Yasu et Jcamus86" en émojy éditable par l'utilisateur.
+Elle permet aux développeurs de créer des émojis dans la page "Emojis Settings". Elle retourne soit l'émoji suite à la création, soit celui modifié par l'utilisateur.
+Il ne nécessite que l'émoji ID. Il retournera l'émoji set à cet id ou alors des points d'interrogations en cas de création.
+Le paramètre "Emojis Création" est optionnel, mais s'il est spécifié, si création de l'émoji il sera set à la valeur définie
+- Migration de la "Dernière connexion de l'utilisateur" By Yasu et Jcamus86" en émoji éditable par l'utilisateur.
 
 ## 3.2.4 (04/07/2020 à 14h17)
 - Correction de l'erreur 500 à la création de l'équipement
