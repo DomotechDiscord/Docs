@@ -3,7 +3,7 @@
 - Ajout d'une fonction pour delete les anciens messages (Messages compris entre -14 et -2 jours)
 
 ## *** (02/08/2020)
-- Update lien docs
+- Update lien doc
 - Update repository
 
 ## 3.2.6 (31/07/2020 à 9h30)
