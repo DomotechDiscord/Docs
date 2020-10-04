@@ -25,6 +25,11 @@
 - Ajout des scenarios préremplis  avec les tags suivants :  Date : #date#, Titre : #title#, Sujet : #subject#, Classe Min : #minClasse#, Classe Max : #maxClasse#, Classe Moyen : #moyenne#, Coef : #coef#, Notes : #note#, Notes Maximal : #max#, Equipement ID : #equip#
 - Ajout d'un bouton pour tester les scénarios
 
+### Ajout de l'onglet Action Competence : 
+- Exécution des actions à chaque note
+- Ajout des scenarios préremplis  avec les tags suivants : Date : #date#, Name: #name#, Subject: #subject#,  Long: #long#, Short: #short#, Coef : #coef#,  Equip : #equip#
+- Ajout d'un bouton pour tester les scénarios
+
 
 ## 2.1 (08/09/2020)
 - Ajout du CAS : Agora 06 “Académie de Nice”
