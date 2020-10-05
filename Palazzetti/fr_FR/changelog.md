@@ -1,4 +1,5 @@
 ## 1.1 (BETA!!!)
+- Correction du widget mobile
 - Mise a jour de font (Merci @JAG)
 - Update Github : https://github.com/DomotechDiscord/Jeedom_Palazzetti
 
