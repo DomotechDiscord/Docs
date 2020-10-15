@@ -1,4 +1,4 @@
-## 2.2 (BETA!!!)
+## 2.2 (15/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
 - Ajout de la commande : Premier cour aujourdhui
 - Ajout de la commande : Dernier cour aujourdhui
