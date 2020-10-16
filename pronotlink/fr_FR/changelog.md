@@ -1,4 +1,4 @@
-## 2.2 (15/10/2020)
+## 2.2 (16/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
 - Ajout du CAS : ENT "Paris Classe Numerique"
 - Ajout du CAS : ATEN "Académie de Bordeaux (idp-fim-ts.ac-bordeaux.fr)"
