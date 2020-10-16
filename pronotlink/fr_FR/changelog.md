@@ -1,5 +1,7 @@
 ## 2.2 (15/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
+- Ajout du CAS : ENT "Paris Classe Numerique"
+- Ajout du CAS : ATEN "Académie de Bordeaux (idp-fim-ts.ac-bordeaux.fr)"
 - Ajout de la commande : Premier cour aujourdhui
 - Ajout de la commande : Dernier cour aujourdhui
 - Ajout de la commande : Premier cour demain
@@ -14,7 +16,7 @@
 - Ajout de la commande : Dernier Cour Demain Fin
 - Modification : Les devoirs recup seront entre -1 jour et +21 jours
 - DEBUG : Debug Notes ecran Principal
-- DEBUG : Correction  des erreurs du panel ("Invalid argument supplied for foreach())
+- DEBUG : Correction des erreurs du panel ("Invalid argument supplied for foreach())
 - DEBUG : Error `plugins/pronotlink/desktop/php/panel/panel_dashbord.php on line 49`
 - DEBUG : CAS de Caen
 - DEBUG : Notation max sur une note
