@@ -47,8 +47,10 @@ Le plugin est compatible avec :
   - Eclat-BCF "Académie de Dijon"
   - Agora 06 "Académie de Nice" (BETA !!!)
   - Arsene "Académie de Rouen"
-  - Toutatice "Académie de Rennes"
   - NetOCentre "Académie d'Orleans-Tours"
+  
+  Ne fonctionne pas actuelement : 
+  - Toutatice "Académie de Rennes"
 
 **Récupération de son URL :** 
  - Allez sur votre ENT, une fois connecté allez sur Pronote
