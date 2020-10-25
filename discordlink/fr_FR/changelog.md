@@ -1,6 +1,7 @@
-## 3.3 BETA!!!!!!
+## 3.5 (20/10/2020)
 - Mise à jour de icon font (Merci @Jag)
 - Ajout d'une fonction pour delete les anciens messages (Messages compris entre -14 et -2 jours)
+- Update des depandance
 
 ## *** (02/08/2020)
 - Update lien doc
