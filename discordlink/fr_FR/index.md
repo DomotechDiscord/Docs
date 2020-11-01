@@ -248,6 +248,25 @@ Résultat sur votre Discord
  ![Discord-Scenario12](../images/Discord-Scenario_13.png)
  
  ![Discord-Scenario12](../images/Discord-Scenario_14.png)
+
+ **6.6) Attestation Covid**
+
+Prérequis : 
+
+Allez a cette emplacement dans la page principale du plugin en haut : 
+
+![Discord-Covid1](../images/Discord-Covid_2.png)
+
+Remplissez comme si dessous : 
+![Discord-Covid2](../images/Discord-Covid_1.png)
+
+Allez définir votre adresse dans votre jeedom : 
+Allez dans la configuration de votre jeedom, puis remplissez les champs cordonnés : 
+
+Attention en V4 c'est dans l'onglet Général et en V3 dans l'onglet information.
+
+![Discord-Covid3](../images/Discord-Covid_3.png)
+
  
 ## 7) Astuces
 **7.1) Emojis**
