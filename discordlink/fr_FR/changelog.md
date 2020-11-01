@@ -1,6 +1,9 @@
-## 3.5.Covid (BETA !!! 01/11/2020)
-- Ajout d'une commande scénario qui permet de send les attestations Covid (Sauvgarde obligatoire des équipements)
-(Dans les settings de jeedom votre adresse doit être renseignée, et vous devez créer un user dans la page principale du Plugin)
+## 3.5.Covid (02/11/2020)
+- Ajout d'une commande scénario qui permet de send les attestations Covid (Sauvgarde obligatoire des équipements) 
+(Dans les settings de jeedom votre adresse doit être renseignée, et vous devez créer un user dans la page principale du plugin)
+
+Merci à @Noodom et au discord pour la création des scénarios et l'édition du site de génération.
+Lien du github du serveur qui genre les attestations : https://github.com/DomotechDiscord/Covid19
 
 ## 3.5 (20/10/2020)
 - Mise à jour de icon font (Merci @Jag)
