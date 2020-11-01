@@ -251,7 +251,7 @@ Résultat sur votre Discord
 
  **6.6) Attestation Covid**
 
-Prérequis : 
+###Prérequis : 
 
 Allez a cette emplacement dans la page principale du plugin en haut : 
 
@@ -267,6 +267,18 @@ Attention en V4 c'est dans l'onglet Général et en V3 dans l'onglet information
 
 ![Discord-Covid3](../images/Discord-Covid_3.png)
 
+Utilisation : 
+
+[Scénario By Noodom](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+Seulement par scénario : 
+
+Choisir la commande send Attestation, choisir votre utilisateur, votre motif, votre date et heure de débuts de sortie (Attention au format)
+
+![Discord-Covid4](../images/Discord-Covid_4.png)
+
+Résultat : 
+![Discord-Covid5](../images/Discord-Covid_5.png)
  
 ## 7) Astuces
 **7.1) Emojis**
