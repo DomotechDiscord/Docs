@@ -1,3 +1,7 @@
+## 3.5.Covid (BETA !!! 01/11/2020)
+- Ajout d'une commande scénario qui permet de send les attestations Covid (Sauvgarde obligatoire des équipements)
+(Dans les settings de jeedom votre adresse doit être renseignée, et vous devez créer un user dans la page principale du Plugin)
+
 ## 3.5 (20/10/2020)
 - Mise à jour de icon font (Merci @Jag)
 - Ajout d'une fonction pour delete les anciens messages (Messages compris entre -14 et -2 jours)
