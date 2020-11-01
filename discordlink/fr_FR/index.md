@@ -278,6 +278,7 @@ Choisir la commande send Attestation, choisir votre utilisateur, votre motif, vo
 ![Discord-Covid4](../images/Discord-Covid_4.png)
 
 Résultat : 
+
 ![Discord-Covid5](../images/Discord-Covid_5.png)
  
 ## 7) Astuces
