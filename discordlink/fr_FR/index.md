@@ -269,7 +269,7 @@ Attention en V4 c'est dans l'onglet Général et en V3 dans l'onglet information
 
 Utilisation : 
 
-[Scénario By Noodom](https://github.com/noodom/jeedom_scenarios/blob/main/attestation_numerique_reconfinement/templates/ask%20Covid%20Discord.json)
+[Scénario By Noodom](https://github.com/noodom/jeedom_scenarios/blob/main/attestation_numerique_reconfinement/templates/ask_covid_discord.json)
 
 Seulement par scénario : 
 
