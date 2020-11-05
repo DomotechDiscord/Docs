@@ -2,6 +2,7 @@
 - ADD : Ajout de cron dedié au plugin
 - ADD : CAS ENT "Atrium-Sud"
 - ADD : CAS Cyber Colleges 42 "Académie de la Loire"
+- UPDATE : Mise à jour de l'api et des dépendances associer 
 - DEBUG : Correction de l'EDT en erreur
 - DEBUG : Correction de l'erreur de Vie Scolaire
 - DEBUG : Equipement parent choix de l'enfant
