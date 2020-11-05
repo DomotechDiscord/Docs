@@ -4,7 +4,8 @@
 - ADD : CAS Cyber Colleges 42 "Académie de la Loire"
 - DEBUG : Correction de l'EDT en erreur
 - DEBUG : Correction de l'erreur de Vie Scolaire
-- 
+- DEBUG : Equipement parent choix de l'enfant
+- DEBUG : Mise en conformité des objet avec la template du core
 
 ## 2.2 (16/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
