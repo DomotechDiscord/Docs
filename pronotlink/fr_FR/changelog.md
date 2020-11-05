@@ -1,3 +1,7 @@
+## 2.3 (BETA!!!)
+- ADD : Ajout de cron dedié au plugin
+- DEBUG : Correction de l'EDT en erreur
+
 ## 2.2 (16/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
 - Ajout du CAS : ENT "Paris Classe Numerique"
