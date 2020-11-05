@@ -1,6 +1,10 @@
 ## 2.3 (BETA!!!)
 - ADD : Ajout de cron dedié au plugin
+- ADD : CAS ENT "Atrium-Sud"
+- ADD : CAS Cyber Colleges 42 "Académie de la Loire"
 - DEBUG : Correction de l'EDT en erreur
+- DEBUG : Correction de l'erreur de Vie Scolaire
+- 
 
 ## 2.2 (16/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
