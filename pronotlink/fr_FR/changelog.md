@@ -7,6 +7,7 @@
 - DEBUG : Correction de l'erreur de Vie Scolaire
 - DEBUG : Equipement parent choix de l'enfant
 - DEBUG : Mise en conformité des objet avec la template du core
+- DEBUG : Mise a jours du visuel du panel
 
 ## 2.2 (16/10/2020)
 - Ajout du CAS : La Classe "Académie de Lyon"
