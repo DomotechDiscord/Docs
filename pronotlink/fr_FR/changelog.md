@@ -1,4 +1,4 @@
-## 2.3 (BETA!!!)
+## 2.3 (07/11/22020)
 - ADD : Ajout de cron dedié au plugin
 - ADD : CAS ENT "Atrium-Sud"
 - ADD : CAS Cyber Colleges 42 "Académie de la Loire"
