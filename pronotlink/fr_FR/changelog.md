@@ -3,7 +3,9 @@
 - ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué a distance Demain
 - ADD : Ajout d'une fonction qui cache les commande qui sont pas utile a l'utilisateur si il est dans un autre mode que DEBUG
 - ADD : Ajout du tag "timestamp" dans les event note qui contient le timestamp en miliseconde de la date de l'event
-- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain ;)
+- ADD : Ajout du tag "timestamp" dans les event competence qui contient le timestamp en miliseconde de la date de l'event
+- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les event note ;)
+- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les event competence ;)
 - UPDATE : Update du deamon
 
 ## 2.3 (07/11/22020)
