@@ -1,11 +1,12 @@
-## 2.4 (BETA !!!!)
-- ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué a distance aujourd'hui
-- ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué a distance Demain
-- ADD : Ajout d'une fonction qui cache les commande qui sont pas utile a l'utilisateur si il est dans un autre mode que DEBUG
-- ADD : Ajout du tag "timestamp" dans les event note qui contient le timestamp en miliseconde de la date de l'event
-- ADD : Ajout du tag "timestamp" dans les event competence qui contient le timestamp en miliseconde de la date de l'event
-- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les event note ;)
-- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les event competence ;)
+## 2.4 (BETA !!!!) (Last Update : 20/11/2020)
+- ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué à distance aujourd'hui
+- ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué à distance Demain
+- ADD : Ajout d'une fonction qui cache les commandes qui ne sont pas utiles à l'utilisateur s'il est dans un autre mode que DEBUG
+- ADD : Ajout du tag "timestamp" dans les events note qui contient le timestamp en millisecondes de la date de l'event
+- ADD : Ajout du tag "timestamp" dans les events compétence qui contiennent le timestamp en millisecondes de la date de l'event
+- ADD : Ajout de la commande "Prochains devoirs" contenant les infos des devoir mis en forme. (Peut-être mis en tant que parramettre pour être send via discord ou autres)
+- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events note ;) 
+- UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events compétence ;) 
 - UPDATE : Update du deamon
 
 ## 2.3 (07/11/22020)
