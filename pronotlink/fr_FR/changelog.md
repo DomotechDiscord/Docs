@@ -1,3 +1,9 @@
+## 2.4 (BETA !!!!)
+- ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué a distance aujourd'hui
+- ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué a distance Demain
+- ADD : Ajout d'une fonction qui cache les commande qui sont pas utile a l'utilisateur si il est dans un autre mode que DEBUG
+- UPDATE : Update du deamon
+
 ## 2.3 (07/11/22020)
 - ADD : Ajout de cron dedié au plugin
 - ADD : CAS ENT "Atrium-Sud"
