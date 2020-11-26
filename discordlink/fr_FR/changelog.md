@@ -1,3 +1,6 @@
+## 3.6 (BETA!!!!)
+- Mise a jours de la dependance discord. (Test pour fix les problème de reaction.
+
 ## 3.5.Covid (02/11/2020)
 - Ajout d'une commande scénario qui permet de send les attestations Covid (Sauvgarde obligatoire des équipements) 
 (Dans les settings de jeedom votre adresse doit être renseignée, et vous devez créer un user dans la page principale du plugin)
