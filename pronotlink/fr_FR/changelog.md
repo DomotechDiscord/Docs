@@ -5,9 +5,11 @@
 - ADD : Ajout du tag "timestamp" dans les events note qui contient le timestamp en millisecondes de la date de l'event
 - ADD : Ajout du tag "timestamp" dans les events compétence qui contiennent le timestamp en millisecondes de la date de l'event
 - ADD : Ajout de la commande "Prochains devoirs" contenant les infos des devoir mis en forme. (Peut-être mis en tant que parramettre pour être send via discord ou autres)
+- ADD : Ajout des event d'absence. Tag en cours de reflexion
 - UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events note ;) 
 - UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events compétence ;) 
 - UPDATE : Update du deamon
+- DEBUG : Fix Multiple error
 
 ## 2.3 (07/11/22020)
 - ADD : Ajout de cron dedié au plugin
