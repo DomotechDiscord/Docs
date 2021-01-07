@@ -4,11 +4,13 @@
 - ADD : Ajout d'une fonction qui cache les commandes qui ne sont pas utiles à l'utilisateur s'il est dans un autre mode que DEBUG
 - ADD : Ajout du tag "timestamp" dans les events note qui contient le timestamp en millisecondes de la date de l'event
 - ADD : Ajout du tag "timestamp" dans les events compétence qui contiennent le timestamp en millisecondes de la date de l'event
-- ADD : Ajout de la commande "Prochains devoirs" contenant les infos des devoir mis en forme. (Peut-être mis en tant que parramettre pour être send via discord ou autres)
+- ADD : Ajout de la commande "Prochains devoirs" contenant les infos des devoir mis en forme. (Peut-être mis en tant que parameter pour être send via discord ou autres)
 - ADD : Ajout des event d'absence. Tag en cours de reflexion
+- ADD : Plus de CAS
 - UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events note ;) 
 - UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events compétence ;) 
 - UPDATE : Update du deamon
+- UPDATE : Update de la doc pour correspondre a la BETA
 - DEBUG : Fix Multiple error
 
 ## 2.3 (07/11/22020)
