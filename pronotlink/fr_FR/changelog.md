@@ -1,4 +1,4 @@
-## 2.4 (BETA !!!!) (Last Update : 20/11/2020)
+## 2.4 (BETA !!!!) (Last Update : 07/01/2021)
 - ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué à distance aujourd'hui
 - ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué à distance Demain
 - ADD : Ajout d'une fonction qui cache les commandes qui ne sont pas utiles à l'utilisateur s'il est dans un autre mode que DEBUG
