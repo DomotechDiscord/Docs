@@ -14,6 +14,7 @@
 - UPDATE : Update du tag "date" pour le rendre dans un format lisible par un humain dans les events compétence ;) 
 - UPDATE : Update du deamon
 - UPDATE : Update de la doc pour correspondre a la BETA
+- UPDATE : Update de la doc
 - DEBUG : Fix Multiple error
 
 ## 2.3 (07/11/22020)
