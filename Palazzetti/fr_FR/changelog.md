@@ -1,4 +1,4 @@
-## 1.2 (26/01/2020 à 14h40)
+## 1.2 (26/01/2020 à 14h40) (BETA!!!)
 - Ajout d'une gestion des erreur sur les requette
 - Mise a jours des template
 
