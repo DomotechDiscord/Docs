@@ -1,3 +1,7 @@
+## 1.2 (26/01/2020 à 14h40)
+- Ajout d'une gestion des erreur sur les requette
+- Mise a jours des template
+
 ## 1.1 (05/10/2020 à 13h25)
 - Correction du widget mobile
 - Mise a jour de font (Merci @JAG)
