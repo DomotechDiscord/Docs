@@ -1,6 +1,9 @@
 ## 2.5 (BETA!!!) (Last Update : 07/01/2021)
 - Rien pour l'instant
 
+## 2.4.1 (27/01//2021)
+- ADD : Ajout d'option dans le décalage des EDT
+
 ## 2.4 (13/01//2021)
 - ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué à distance aujourd'hui
 - ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué à distance Demain
