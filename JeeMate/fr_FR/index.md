@@ -2,6 +2,7 @@ Plugin officiel de l'application JeeMate sur Android.
 Et dans le Futur sur Android TV et IOS
 
 ![JeeMate Icon](../images/jeemate_icon.png)
+
 Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
 Présentation de l'application
