@@ -1,10 +1,8 @@
 Plugin JeeMate
 ==============================
 
-V1.0
--
-
-* Première version du plugin
+## V0.8 (02/02/2020)
+* Ajout de la timeline
 
 App Android JeeMate
 ==============================
