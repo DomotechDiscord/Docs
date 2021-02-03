@@ -1,4 +1,5 @@
-#L'application n'est pas encore publique. Elle arrive.
+# L'application n'est pas encore publique. Elle arrive.
+=======================================================
 
    Bonjour, le plugin vient de passer en stable, l'application elle est encore en cours de validation chez Google.
    Elle devrait donc être disponible au courant de la semaine prochaine.
