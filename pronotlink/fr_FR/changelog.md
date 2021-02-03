@@ -1,6 +1,9 @@
 ## 2.5 (BETA!!!) (Last Update : 07/01/2021)
 - Rien pour l'instant
 
+## 2.4.2 (03/02//2021)
+- ADD : CAS ENT "Mon collège Essonne" "www.moncollege-ent.essonne.fr"
+
 ## 2.4.1 (27/01//2021)
 - ADD : Ajout d'option dans le décalage des EDT
 
