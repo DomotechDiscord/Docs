@@ -1,3 +1,16 @@
+#L'application n'est pas encore publique. Elle arrive.
+
+   Bonjour, le plugin vient de passer en stable, l'application elle est encore en cours de validation chez Google.
+   Elle devrait donc être disponible au courant de la semaine prochaine.
+
+   Pendant ce temps je vous laisse configurer vos devices et leur générique type.   
+   Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.
+
+   Cordialement
+   L'équipe de dev de l'application
+   Thibaut Et Pascal
+
+
 Plugin officiel de l'application JeeMate sur Android.
 Et dans le Futur sur Android TV et IOS
 
