@@ -115,25 +115,30 @@ JeeMate gère certains plugins Jeedom Officiels, ainsi que d'autres développés
 Compatibilité avec les plugins Jeedom
 ==============================
 
-| Nom du plugin | Compatible ?                      |
-| ------------- | --------------------------------- |
-| Alarme        | Oui                               |
-| AndroidTV     | Télécommandes                     |
-| Caméra        | Oui                               |
-| FreeboxTelec  | Oui                               |
-| Interactions  | Oui                               |
-| JeeOrangeTv   | Télécommande                      |
-| JeeRhasspy    | Oui/Intents                       |
-| JMQTT         | Oui                               |
-| Météo France  | En cours                          |
-| Mode          | Oui                               |
-| Squeezebox    | Dispo/En cours                    |
-| Thermostat    | Oui                               |
-| Virtuel       | Oui                               |
-| Weather       | Oui                               |
-| Weatherbit    | Oui                               |
-| Pronote       | Futur                             |
-| Suivi Conso   | Futur                             |
+| Nom du plugin   | Compatible ?                      |
+| --------------- | --------------------------------- |
+| Alarme          | Oui                               |
+| Caméra          | Oui                               |
+| FreeboxTelec    | Oui                               |
+| Interactions    | Oui                               |
+| JMQTT           | Oui                               |
+| Mode            | Oui                               |
+| Thermostat      | Oui                               |
+| Virtuel         | Oui                               |
+| Weather         | Oui                               |
+| Weatherbit      | Oui                               |
+| Sonos           | Oui                               |
+| Squeeze         | Oui                               |
+| Wifilight       | Oui                               |
+| JeeRhasspy      | Oui/Intents                       |
+| JeeOrangeTv     | Télécommande                      |
+| AndroidTV       | Télécommandes                     |
+| Squeezebox      | Dispo/En cours                    |
+| Météo France    | En cours                          |
+| nuki            | En cours                          |
+| alexa smarthome | En cours                          |
+| Pronote         | Futur                             |
+| Suivi Conso     | Futur                             |
 
 
 Tableau des compatibilités
@@ -523,8 +528,6 @@ TTS Speak est une commande de type message que vous pouvez utiliser depuis votre
 | Paramètre | Valeur      |
 | --------- | ---------   | 
 | Message   | Le message à envoyer    |
-
-Note : vous pouvez aussi faire parler l'application mobile, sans utiliser le Mini-Serveur, en envoyant une notification PUSH, et en ayant au préalable activé les notifications TTS dans la page de Configuration > Notifications de l'application mobile.
 
 ## Send Action
 
