@@ -280,7 +280,7 @@ Ensuite, vous devez **créer un équipement**. Pour cela :
 Premier lancement de l'app JeeMate
 ==============================
 
-Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://play.google.com/store/apps?hl=fr). 
+Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://e.pcloud.link/publink/show?code=XZ7HWkZWis2exbarTzvn0w4ysNEOBdsiRIy). 
 Puis :
 
 1. Suivez les étapes proposées dans l'assistant si elles n'ont pas déjà été faites précédemment
