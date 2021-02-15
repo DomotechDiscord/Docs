@@ -1,6 +1,9 @@
 Plugin JeeMate
 ==============================
 
+## V0.9.1 (15/02/2020 à 20h00)
+* Correction pour les equipement du plugin KNX
+
 ## V0.9 (14/02/2020)
 * Mise en stable pour la compatibilité du plugin avec L'app au lancement de du bêta
 
