@@ -1,14 +1,11 @@
-# L'application n'est pas encore publique. Elle arrive.
+# L'application est public.
 
-   Bonjour, le plugin vient de passer en stable, l'application est encore en cours de validation chez Google.
-   Elle devrait donc être disponible au courant de la semaine prochaine.
+Lien de l'APK version android : ![Vive L'APK ANDROID](https://github.com/JeeMateTeam/JeeMate-Project/tree/main)
 
-   Pendant ce temps je vous laisse configurer vos devices et leur générique type.   
-   Pour les personnes sous IOS, la version de l'app devrait arriver d'ici 1 mois ou 2.
+Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
 
-   Cordialement
-   L'équipe de dev de l'application
-   Thibaut Et Pascal
+Cordialement
+Thibaut Et Pascal
    
    
    
@@ -280,7 +277,7 @@ Ensuite, vous devez **créer un équipement**. Pour cela :
 Premier lancement de l'app JeeMate
 ==============================
 
-Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://e.pcloud.link/publink/show?code=XZ7HWkZWis2exbarTzvn0w4ysNEOBdsiRIy). 
+Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://github.com/JeeMateTeam/JeeMate-Project/tree/main). 
 Puis :
 
 1. Suivez les étapes proposées dans l'assistant si elles n'ont pas déjà été faites précédemment
