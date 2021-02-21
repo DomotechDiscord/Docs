@@ -1,6 +1,6 @@
 # L'application est public.
 
-Lien de l'APK version android : ![Vive L'APK ANDROID](https://jeemate.les2t.fr/)
+Lien de l'APK version android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
 
 Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
 
