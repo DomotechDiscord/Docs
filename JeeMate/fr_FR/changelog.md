@@ -5,7 +5,7 @@ Plugin JeeMate
 * Update lien APK
 * Update des event sans action
 * Update du system de GeoLoc
-* Add System de notification personalisée : https://github.com/JeeMateTeam/JeeMate-Project/issues/72
+* Add System de notification personalisée : [Issue](https://github.com/JeeMateTeam/JeeMate-Project/issues/72)
 
 ## V0.9.1 (15/02/2020 à 20h00)
 * Correction pour les equipement du plugin KNX
