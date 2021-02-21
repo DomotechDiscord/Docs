@@ -1,6 +1,6 @@
 # L'application est public.
 
-Lien de l'APK version android : ![Vive L'APK ANDROID](https://github.com/JeeMateTeam/JeeMate-Project/tree/main)
+Lien de l'APK version android : ![Vive L'APK ANDROID](https://jeemate.les2t.fr/)
 
 Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
 
@@ -277,7 +277,7 @@ Ensuite, vous devez **créer un équipement**. Pour cela :
 Premier lancement de l'app JeeMate
 ==============================
 
-Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://github.com/JeeMateTeam/JeeMate-Project/tree/main). 
+Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://jeemate.les2t.fr/). 
 Puis :
 
 1. Suivez les étapes proposées dans l'assistant si elles n'ont pas déjà été faites précédemment
