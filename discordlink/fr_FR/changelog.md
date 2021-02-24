@@ -1,8 +1,9 @@
-## 3.6 (BETA!!!!)
+## 3.6 (24/02/2021)
 
 - Mise a jours de la dependance discord. (Test pour fix les problème de reaction.)
-- Mise à jour de l'affichage des commandes pour être compatible avec le core V4
+- Mise à jour de l'affichage des commandes pour être compatible avec le core V4.1
 - Mise à jour des widgets scénarios
+- Mise à jour de l'affichage des commandes pour être compatible avec le core V4.2 
 
 ## 3.5.Covid (02/11/2020)
 
