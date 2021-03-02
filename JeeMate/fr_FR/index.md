@@ -1,8 +1,8 @@
-# L'application est public.
+# L'application est publique.
 
-Lien de l'APK version android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
+Lien de l'APK version Android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
 
-Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
+Pour les personnes sous iOS, la version de l'app devrait arriver d'ici 1 mois ou 2.<br>
 
 Cordialement
 Thibaut Et Pascal
@@ -12,11 +12,11 @@ Thibaut Et Pascal
 
 
 Plugin officiel de l'application JeeMate sur Android.
-Et dans le Futur sur Android TV et IOS
+Et dans le Futur sur Android TV et iOS
 
 ![JeeMate Icon](../images/jeemate_icon.png)
 
-Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
+Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. Afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
 Présentation de l'application
 ==============================
@@ -31,21 +31,21 @@ Depuis n'importe où, vous pourrez :
 - Gérer la présence et automatiser des actions en fonction de votre localisation
 - Visualiser vos caméras, ou streams externes en Live
 - Visualiser l'historique de vos équipements si préalablement activés dans Jeedom
-- Envoyer des commandes vocales à votre serveur Jeedom, sans passer par les serveurs cloud, avec écoute en continue ou non, et hotword custom
+- Envoyer des commandes vocales à votre serveur Jeedom, sans passer par les serveurs Cloud, avec écoute en continue ou non, et hotword custom
 - Utiliser l'application en mode tablette de contrôle à la maison, et utiliser des fonctions d'intelligence artificielles de la caméra
 - Envoyer et recevoir des sms
 - etc.
 
 Grâce à son interface customisable, vous pourrez aussi :
 - Définir des équipements et scènes favoris
-- Filtrer l'affichage dans vos Favoris et Pièces, par type
+- Filtrer l'affichage dans vos Favoris et Pièces, par types
 - Réorganiser l'ordre d'affichage
 - Customiser vos widgets
-- Customiser l'affichage global ou par Pièces
+- Customiser l'affichage global ou par pièces
 - Customiser certaines parties de l'interface
 - Changer complètement l'interface, grâce aux différents thèmes ainsi que leurs variantes Jour/Nuit aka "Light/dark"
-- Sécuriser l'accès à chaque équipements! Grâce à un digicode ou la reconnaissance biométrique (faciale ou empreinte digitale)
-- Afficher vos designs Jeedom et autres pages favorites, comme des pages persos grafana ou autres
+- Sécuriser l'accès à chaque équipement! Grâce à un digicode ou la reconnaissance biométrique (faciale ou empreinte digitale)
+- Afficher vos designs Jeedom et autres pages favorites, comme des pages persos Grafana ou autres
 - Ou encore créer des scénarios grâce à son éditeur.
 - etc.
 
@@ -67,7 +67,7 @@ Fonctionnalités
 
 Découvrez ci-dessous toutes les différences entre les versions Free et Premium.
 
-(Liste non representative de la lise final)
+(Liste non représentative de la lise finale)
 
 | JeeMate                                  | Free     | Premium  |
 | ---------------------------------------- | -------- | -------- |
@@ -85,7 +85,7 @@ Découvrez ci-dessous toutes les différences entre les versions Free et Premium
 | Service de GeoFencing                    | Non      | Oui      |
 | Service de Camera ML                     | Non      | Oui      |
 | Service de géolocalisation               | Non      | Oui      |
-| Service de Reconnaissance Vocal          | Non      | Oui      |
+| Service de Reconnaissance Vocale          | Non      | Oui      |
 | Service d'envoi de SMS                   | Non      | Oui      |
 | Service SIP                              | Non      | Oui      |
 | Création de Groupes                      | Non      | Oui      |
@@ -265,13 +265,13 @@ Ensuite, vous devez **créer un équipement**. Pour cela :
 4. Par défaut, l'équipement est automatiquement activé avec la configuration adéquate :
    
    - Activé : par défaut, afin de vous épargner un clic
-   - Clé API : il est préférable de laisser la valeur par défaut. Ne modifiez cette valeur que si vous souhaitez recevoir des notifications sur votre iPhone depuis 2 serveurs jeedom. Voir section "Réception des notifications depuis 2 serveurs JEEDOM"
+   - Clé API : il est préférable de laisser la valeur par défaut. Ne modifiez cette valeur que si vous souhaitez recevoir des notifications sur votre iPhone depuis 2 serveurs Jeedom. Voir section "Réception des notifications depuis 2 serveurs JEEDOM"
    - Utilisateur : permet de définir quel utilisateur se connecte à l'application
    - QRCode : le QR code qui s'affiche à la droite de la fenêtre vous permettra de configurer l'application sur votre téléphone ou tablette.
 
    Une fois ces étapes réalisées, vous pouvez lancer l'application JeeMate sur votre appareil.
 
-**Note** : Pour chaque équipement créé, une liste de commande est disponible (cf section ci-dessous)
+**Note** : Pour chaque équipement créé, une liste de commandes est disponible (cf section ci-dessous)
 
 
 Premier lancement de l'app JeeMate
@@ -347,7 +347,7 @@ L'écran contient trois sections:
 - Equipements
 - Caméras
 
-Il est possible de customiser l'affichage pour chaque pièces en cliquant sur l'icone d'édition en haut à droite dans la barre d'outils JeeMate
+Il est possible de customiser l'affichage pour chaque pièce en cliquant sur l'icone d'édition en haut à droite dans la barre d'outils JeeMate
 Il sera alors possible de :
 - Renommer la pièce
 - Choisir une image de fond
@@ -407,7 +407,7 @@ Le menu "Configuration" permet de paramétrer :
 - le lien JeeMate<->Jeedom. Ici rien à configurer. Mais ce menu permet de synchroniser JeeMate avec votre serveur Jeedom et de mettre à jour de nouveaux équipements. Il permet sinon, de réapparairer votre téléphone, ou bien de remettre à zéro l'interface graphique
 - Activer la détection d'objet de la caméra de votre appareil et plus tard envoyer la vidéo vers Jeedom
 - Activer le service SMS pour recevoir ou envoyer des SMS, avec gestion d'une liste blanche des contacts
-- Active le service SIP. Pour l'instant testé uniquement avec Asterisk. Sert à communiquer en audio+vidéo avec par exemple des portiers vidéos, softphones etc
+- Activer le service SIP. Pour l'instant testé uniquement avec Asterisk. Sert à communiquer en audio+vidéo avec par exemple des portiers vidéos, softphones etc
 - Sécurité (Activer ou non les biométriques, digicode etc). Afin d'empêcher que quelqu'un d'autre n'utilise JeeMate.
 - Thèmes&Langues. Entre autres, afficher une image, ou des dégradés de couleurs, en fond d'écran, activer le thème jour/nuit, choisir les fonds d'écran pour chaque mode etc
 - Sauver/Importer App. Permet de sauvegarder la configuration, les favoris, pièces etc de JeeMate dans votre serveur Jeedom. Importer permet donc de réimporter une sauvegarde.
@@ -439,7 +439,7 @@ Le menu "Configuration" permet de paramétrer :
 - La précision de la reconnaissance (score mini)
 
 ## Reconnaissance vocale
-JeeMate permet de contrôler votre Jeedom, en mode offline. C'est-à-dire que la reconnaissance du hotword ainsi que la transcription de la voix en texte est faite sur votre appareil, et ne passe pas par le cloud.
+JeeMate permet de contrôler votre Jeedom, en mode offline. C'est-à-dire que la reconnaissance du hotword ainsi que la transcription de la voix en texte est faite sur votre appareil, et ne passe pas par le Cloud.
 
 Rappel: pour cela, il suffit de cliquer sur l'icone micro en haut à droite dans JeeMate.
 
