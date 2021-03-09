@@ -80,10 +80,10 @@ Découvrez ci-dessous toutes les différences entre les versions Free et Premium
 | Création de favoris                      | Oui      | Oui      |
 | Recherche d'équipements                  | Oui      | Oui      |
 | Timeline                                 | Oui      | Oui      |
+| Service de géolocalisation               | Oui      | Oui      |
 | Synthèse                                 | Non      | Oui      |
 | Service de GeoFencing                    | Non      | Oui      |
 | Service de Camera ML                     | Non      | Oui      |
-| Service de géolocalisation               | Non      | Oui      |
 | Service de Reconnaissance Vocal          | Non      | Oui      |
 | Service d'envoi de SMS                   | Non      | Oui      |
 | Service SIP                              | Non      | Oui      |
