@@ -16,7 +16,7 @@ Et dans le Futur sur Android TV et IOS
 
 ![JeeMate Icon](../images/jeemate_icon.png)
 
-Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
+Ce plugin permet d'appairer JeeMate avec votre serveur Jeedom, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
 Présentation de l'application
 ==============================
@@ -59,19 +59,20 @@ JeeMate gère aussi les droits utilisateurs et mots de passe Jeedom sur les comm
 
 **Note: L'utilisation continue du GPS en tâche de fond peut réduire la durée de vie de la batterie. JeeMate contient des paramètres afin d'optimiser ceci (cf doc ci-dessous)**
 
+Afin de pouvoir utiliser certaines fonctions avancées, et supporter le développement du projet, il est possible d'acheter le plugin JeeMate Premium dans votre Jeedom.
+
 JeeMate est une application Freemium. Il est ainsi possible d'utiliser de nombreuses fonctions de base gratuitement. Il est possible d'acheter la version Premium et de supporter le développement du projet, afin de bénéficier de toutes les fonctionnalités.
 
 
 Fonctionnalités
 ==============================
 
-Découvrez ci-dessous toutes les différences entre les versions Free et Premium.
+(Liste non representative de la liste final)
 
-(Liste non representative de la lise final)
-
-| JeeMate                                  | Free     | Premium  |
+| JeeMate Plugin                           | Free     | Premium  |
 | ---------------------------------------- | -------- | -------- |
 | Nombre d'équipements connectés en simultané | Illimité | Illimité |
+| Service de géolocalisation               | Oui      | Oui      |
 | Tri des objets et des équipements        | Oui      | Oui      |
 | Envoi de notifications PUSH              | Oui      | Oui      |
 | Récupération de l'état des équipements   | Oui      | Oui      |
@@ -80,10 +81,10 @@ Découvrez ci-dessous toutes les différences entre les versions Free et Premium
 | Création de favoris                      | Oui      | Oui      |
 | Recherche d'équipements                  | Oui      | Oui      |
 | Timeline                                 | Oui      | Oui      |
-| Service de géolocalisation               | Oui      | Oui      |
 | Synthèse                                 | Non      | Oui      |
 | Service de GeoFencing                    | Non      | Oui      |
 | Service de Camera ML                     | Non      | Oui      |
+| Service de géolocalisation               | Non      | Oui      |
 | Service de Reconnaissance Vocal          | Non      | Oui      |
 | Service d'envoi de SMS                   | Non      | Oui      |
 | Service SIP                              | Non      | Oui      |
@@ -475,7 +476,9 @@ Quand le module Géolocalisation détecte que l'activité est immobile, il rentr
 
 Vous avez la possibilité de configurer certains paramètres selon votre usage.
 
-**Important : Pour un bon fonctionnement, vous devez avoir les autorisations correctement configurées pour JeeMate dans votre appareil**
+**Important : Pour un bon fonctionnement, vous devez avoir les autorisations correctement configurées, ainsi que les optimisations batterie désactivées pour JeeMate dans les paramètres Android de votre appareil**
+https://dontkillmyapp.com/
+
 
 ![Vue geoloc settings](../images/jeemate_geoloc_settings.jpg)
 
@@ -526,7 +529,7 @@ La procédure à suivre est simple, et nécessite **un équipement Virtuel par m
 
 ![Vue virtuel presence](../images/virtuel_presence.jpg)
 
-Dans cette équipement, créer 2 commandes infos comme sur la capture ci-dessus
+Dans cet équipement, créer 2 commandes infos comme sur la capture ci-dessus
 
 - Présence : que vous pouvez lier à n'importe quel autre info provenant d'un autre plugin, ou à une info de géofence d'un équipement JeeMate.
 Cette info doit être de **type Binaire**, avec le type générique **Info Générique**
@@ -545,7 +548,7 @@ Puis cliquer sur la roue crantée de la commande pour aller dans sa page de conf
 
 ![Vue presence2](../images/virtuel_presence_display2.jpg)
 
-**Note** : si un utilisateur ne souhaite pas être suivi, alors il suffit de ne pas saisir d'info Position dans l'équipement Virtuel. Dans ce cas, seul sa présence ou non, sera indiqué dans l'application mobile.
+**Note** : si un utilisateur ne souhaite pas être suivi, alors il suffit d'enlever le type générique pour la commande Position dans l'équipement Virtuel. Dans ce cas, seul sa présence ou non, sera indiqué dans l'application mobile.
 
 **Important** : lorsque vous effectuez un changement dans la configuration d'un équipement Jeedom, alors il faut réimporter/regénérer l'interface dans l'application mobile.
 
@@ -573,7 +576,7 @@ Exemple de carte avec tracé :
 ![jeemate camera settings](../images/jeemate_intcam_settings.jpg)
 
 - Streaming (pas encore disponible)
-- Activer la reconnaissance d'objets, pour par exemple la détection d'humains
+- Activer la reconnaissance d'objets (exemple: détection humain)
 - La précision de la reconnaissance (score mini)
 
 ## Reconnaissance vocale
@@ -635,7 +638,8 @@ Exemple d'un appel softphone Windows (PC sans webcam) vers JeeMate
 - Activer/Désactiver le changement automatique de thème Jour/Nuit
 - Choix du Dégradé pour le thème Jour
 - Choix du Dégradé pour le thème Nuit
-- Sous-thème pour les pages de Widgets : Morphic ou Glass
+- Thème : Morphic ou Glass
+- Mode : Jour ou Nuit
 
 Très bientot, d'autres possibilités de customisation seront disponibles.
 
@@ -661,7 +665,7 @@ Vous pouvez ensuite en sélectionner un autre en cliquant sur le nom en haut de 
 
 Il est aussi possible d'afficher l'historique de température en cliquant en haut à droite sur la Température.
 
-Sur tablette, un simple clic sur un thermostat dans le Panneau "Thermostat" suffit.
+Sur tablette, un simple clic sur un thermostat dans le Panneau "Thermostats" suffit.
 
 ![tablet thermostat paysage](../images/tablet_thermostat_paysage.png)
 
