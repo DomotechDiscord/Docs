@@ -59,13 +59,11 @@ JeeMate gère aussi les droits utilisateurs et mots de passe Jeedom sur les comm
 
 **Note: L'utilisation continue du GPS en tâche de fond peut réduire la durée de vie de la batterie. JeeMate contient des paramètres afin d'optimiser ceci (cf doc ci-dessous)**
 
-Afin de pouvoir utiliser certaines fonctions avancées, et supporter le développement du projet, il est possible d'acheter le plugin JeeMate Premium dans votre Jeedom.
-
-JeeMate est une application Freemium. Il est ainsi possible d'utiliser de nombreuses fonctions de base gratuitement. Il est possible d'acheter la version Premium et de supporter le développement du projet, afin de bénéficier de toutes les fonctionnalités.
-
 
 Fonctionnalités
 ==============================
+
+Afin de pouvoir utiliser certaines fonctions avancées, et supporter le développement du projet, il est possible d'acheter le plugin Jeedom JeeMate Premium.
 
 (Liste non representative de la liste final)
 
@@ -82,12 +80,11 @@ Fonctionnalités
 | Recherche d'équipements                  | Oui      | Oui      |
 | Timeline                                 | Oui      | Oui      |
 | Synthèse                                 | Non      | Oui      |
-| Service de GeoFencing                    | Non      | Oui      |
-| Service de Camera ML                     | Non      | Oui      |
-| Service de géolocalisation               | Non      | Oui      |
-| Service de Reconnaissance Vocal          | Non      | Oui      |
-| Service d'envoi de SMS                   | Non      | Oui      |
-| Service SIP                              | Non      | Oui      |
+| GeoFencing                               | Non      | Oui      |
+| Reconnaissance objets Caméra             | Non      | Oui      |
+| Reconnaissance Vocal                     | Non      | Oui      |
+| Passerelle SMS                           | Non      | Oui      |
+| SIP                                      | Non      | Oui      |
 | Création de Groupes                      | Non      | Oui      |
 | Onglet Pièces                            | Non      | Oui      |
 | Onglet Cameras                           | Non      | Oui      |
