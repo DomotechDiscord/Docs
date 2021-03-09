@@ -1,8 +1,8 @@
-# L'application est publique.
+# L'application est public.
 
-Lien de l'APK version Android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
+Lien de l'APK version android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
 
-Pour les personnes sous iOS, la version de l'app devrait arriver d'ici 1 mois ou 2.<br>
+Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
 
 Cordialement
 Thibaut Et Pascal
@@ -12,11 +12,11 @@ Thibaut Et Pascal
 
 
 Plugin officiel de l'application JeeMate sur Android.
-Et dans le Futur sur Android TV et iOS
+Et dans le Futur sur Android TV et IOS
 
 ![JeeMate Icon](../images/jeemate_icon.png)
 
-Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. Afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
+Ce plugin permet d'appairer JeeMate avec votre serveur JeeMate, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
 Présentation de l'application
 ==============================
@@ -31,21 +31,21 @@ Depuis n'importe où, vous pourrez :
 - Gérer la présence et automatiser des actions en fonction de votre localisation
 - Visualiser vos caméras, ou streams externes en Live
 - Visualiser l'historique de vos équipements si préalablement activés dans Jeedom
-- Envoyer des commandes vocales à votre serveur Jeedom, sans passer par les serveurs Cloud, avec écoute en continue ou non, et hotword custom
+- Envoyer des commandes vocales à votre serveur Jeedom, sans passer par les serveurs cloud, avec écoute en continue ou non, et hotword custom
 - Utiliser l'application en mode tablette de contrôle à la maison, et utiliser des fonctions d'intelligence artificielles de la caméra
 - Envoyer et recevoir des sms
 - etc.
 
 Grâce à son interface customisable, vous pourrez aussi :
 - Définir des équipements et scènes favoris
-- Filtrer l'affichage dans vos Favoris et Pièces, par types
+- Filtrer l'affichage dans vos Favoris et Pièces, par type
 - Réorganiser l'ordre d'affichage
 - Customiser vos widgets
-- Customiser l'affichage global ou par pièces
+- Customiser l'affichage global ou par Pièces
 - Customiser certaines parties de l'interface
 - Changer complètement l'interface, grâce aux différents thèmes ainsi que leurs variantes Jour/Nuit aka "Light/dark"
-- Sécuriser l'accès à chaque équipement! Grâce à un digicode ou la reconnaissance biométrique (faciale ou empreinte digitale)
-- Afficher vos designs Jeedom et autres pages favorites, comme des pages persos Grafana ou autres
+- Sécuriser l'accès à chaque équipements! Grâce à un digicode ou la reconnaissance biométrique (faciale ou empreinte digitale)
+- Afficher vos designs Jeedom et autres pages favorites, comme des pages persos grafana ou autres
 - Ou encore créer des scénarios grâce à son éditeur.
 - etc.
 
@@ -67,7 +67,7 @@ Fonctionnalités
 
 Découvrez ci-dessous toutes les différences entre les versions Free et Premium.
 
-(Liste non représentative de la lise finale)
+(Liste non representative de la lise final)
 
 | JeeMate                                  | Free     | Premium  |
 | ---------------------------------------- | -------- | -------- |
@@ -85,7 +85,7 @@ Découvrez ci-dessous toutes les différences entre les versions Free et Premium
 | Service de GeoFencing                    | Non      | Oui      |
 | Service de Camera ML                     | Non      | Oui      |
 | Service de géolocalisation               | Non      | Oui      |
-| Service de Reconnaissance Vocale          | Non      | Oui      |
+| Service de Reconnaissance Vocal          | Non      | Oui      |
 | Service d'envoi de SMS                   | Non      | Oui      |
 | Service SIP                              | Non      | Oui      |
 | Création de Groupes                      | Non      | Oui      |
@@ -112,30 +112,31 @@ JeeMate gère certains plugins Jeedom Officiels, ainsi que d'autres développés
 Compatibilité avec les plugins Jeedom
 ==============================
 
-| Nom du plugin   | Compatible ?                      |
-| --------------- | --------------------------------- |
-| Alarme          | Oui                               |
-| Caméra          | Oui                               |
-| FreeboxTelec    | Oui                               |
-| Interactions    | Oui                               |
-| JMQTT           | Oui                               |
-| Mode            | Oui                               |
-| Thermostat      | Oui                               |
-| Virtuel         | Oui                               |
-| Weather         | Oui                               |
-| Weatherbit      | Oui                               |
-| Sonos           | Oui                               |
-| Squeeze         | Oui                               |
-| Wifilight       | Oui                               |
-| JeeRhasspy      | Oui/Intents                       |
-| JeeOrangeTv     | Télécommande                      |
-| AndroidTV       | Télécommandes                     |
-| Squeezebox      | Dispo/En cours                    |
-| Météo France    | En cours                          |
-| nuki            | En cours                          |
-| alexa smarthome | En cours                          |
-| Pronote         | Futur                             |
-| Suivi Conso     | Futur                             |
+| Nom du plugin   | Compatible ?                                |
+| --------------- | ------------------------------------------- |
+| Alarme          | Oui                                         |
+| Caméra          | Oui                                         |
+| FreeboxTelec    | Oui                                         |
+| Interactions    | Oui                                         |
+| JMQTT           | Oui                                         |
+| Mode            | Oui                                         |
+| Thermostat      | Oui                                         |
+| Virtuel         | Oui                                         |
+| Weather         | Oui                                         |
+| Weatherbit      | Oui                                         |
+| Sonos           | Oui                                         |
+| Squeeze         | Oui                                         |
+| Wifilight       | Oui                                         |
+| JeeRhasspy      | Oui/Intents                                 |
+| JeeOrangeTv     | Télécommande                                |
+| AndroidTV       | Télécommandes                               |
+| Squeezebox      | Dispo/En cours                              |
+| Météo France    | En cours                                    |
+| Météo Full      | Compatible/pas d'icones dispo dans le plugin|
+| nuki            | En cours                                    |
+| alexa smarthome | En cours                                    |
+| Pronote         | Futur                                       |
+| Suivi Conso     | Futur                                       |
 
 
 Tableau des compatibilités
@@ -265,14 +266,18 @@ Ensuite, vous devez **créer un équipement**. Pour cela :
 4. Par défaut, l'équipement est automatiquement activé avec la configuration adéquate :
    
    - Activé : par défaut, afin de vous épargner un clic
-   - Clé API : il est préférable de laisser la valeur par défaut. Ne modifiez cette valeur que si vous souhaitez recevoir des notifications sur votre iPhone depuis 2 serveurs Jeedom. Voir section "Réception des notifications depuis 2 serveurs JEEDOM"
-   - Utilisateur : permet de définir quel utilisateur se connecte à l'application
+   - Utilisateur : permet de définir quel utilisateur Jeedom se connecte à l'application
+   - Droit de renommer : autorise l'utilisateur à renommer l'équipement depuis l'application mobile. Il s'agit d'un nom d'équipement alternatif, il n'écrase pas le nom que vous avez défini dans Jeedom.
+   - Droit de changer la visibilité : permet de choisir depuis l'application mobile les équipements visibles ou non
    - QRCode : le QR code qui s'affiche à la droite de la fenêtre vous permettra de configurer l'application sur votre téléphone ou tablette.
 
    Une fois ces étapes réalisées, vous pouvez lancer l'application JeeMate sur votre appareil.
 
-**Note** : Pour chaque équipement créé, une liste de commandes est disponible (cf section ci-dessous)
+Pour chaque équipement créé, une liste de commande est disponible (cf section ci-dessous)ainsi qu'un onglet "Backups" permettant de gérer les sauvegardes de la configuration de l'application mobile par utilisateur.
 
+5. Toujours depuis le plugin, sont disponibles :
+    - Configuration Génériques : permet de définir depuis le plugin quels équipements importer (peut aussi être géré depuis l'application mobile) ainsi que leurs types génériques. La page de configuration des génériques peut être pratique et éviter de multiples clics.
+    - Debug fonction : permet de nous fournir des informations concernant votre import pour le support
 
 Premier lancement de l'app JeeMate
 ==============================
@@ -287,24 +292,33 @@ Puis :
 **Note: JeeMate reconnaitra seulement les équipements visibles contenant des commandes avec types génériques. N'oubliez donc pas de renseigner les types génériques si ce n'est déjà fait.**
 
 
-![Affichage de votre serveur](../images/jeemate_jeedom_qrcode.png)
 
 Fonctionnalités 
 ==============================
 
 JeeMate a été conçu pour être facile à utiliser
 
-JeeMate est décomposé en quatre onglets :
+JeeMate est décomposé en quatre onglets, par défaut. Ils seront configurables dans le futur, et vous pourrez ainsi choisir vos pages personnalisées.
 - Favoris Maison
 - Pièces
 - Caméras
 - Designs Jeedom et pages web favorites
 
+![Vue générale](../images/jeemate_screenshot1.jpg)
+
 Pour naviguer entre les onglets, il est possible soit de cliquer sur les boutons dans la barre en bas de l'application, ou alors de faire un swipe gauche/droite sur l'écran
 
 Lorsque vous cliquez sur les boutons Pièces, ainsi que Designs, une liste apparaitra afin de sélectionner la Pièce ou le Design que vous souhaitez afficher
 
+Dans certaines pages, un bouton-icône "Info" est disponible. En cliquant dessus, vous aurez accès une aide pour la page en cours.
+
+Exemple : 
+![Vue générale](../images/jeemate_doc_inapp.jpg)
+
+
 #### Onglets Favoris Maison
+
+![Vue générale](../images/jeemate_home_sections.jpg)
 
 L'écran principal contient les sections suivantes :
 - Barre d'outil tout en haut. Permet d'accéder au menu de JeeMate, à la reconnaissance vocale ainsi qu'aux notifications.
@@ -312,13 +326,19 @@ L'écran principal contient les sections suivantes :
 - Widgets Spéciaux liés à certains plugins Jeedom (Météo, Télécommandes, Thermostat, Alarme, Volets, Modes)
 - Scénarios favoris
 - Equipements et applications Android favoris
+- barre d'onglets
 
 Les plugins sont automatiquempent paramétrés lors de la synchronisation de l'interface.
 
 **Ajout de favori**
 
-Pour ajouter un favori (Equipements, Scénarios, Groupes, Appli Android), cliquez sur le bouton "+" correspondant à la section, sur la gauche de l'écran
-Pour filter, les favoris par type d'équipement, cliquez sur l'icone "Filtre", sur la droite de l'écran
+Pour ajouter un favori (Equipements, Scénarios, Groupes, Appli Android), cliquez sur le bouton "+" correspondant à la section, sur la gauche de l'écran, puis choisir le type de favori que vous souhaitez ajouter
+
+![Vue générale](../images/jeemate_ajout_favori.jpg)
+
+Pour filter, les favoris par type d'équipement, cliquez sur l'icone "Filtre", sur la droite de l'écran, puis choisir les types de favoris que vous souhaitez afficher
+
+![Vue générale](../images/jeemate_favori_filtres.jpg)
 
 **Contrôle d'un équipement**
 
@@ -326,7 +346,7 @@ Pour filter, les favoris par type d'équipement, cliquez sur l'icone "Filtre", s
 Pour un équipement simple, comme par exemple ON/OFF, l'action sera immédiatement envoyée.
 Pour un équipement contenant plusieurs commandes, ou historiques, cela affichera une page avec des contrôles complémentaires.
 
-Note: Si un mot de passe a été défini sur la commande à exécuter dans Jeedom, alors il vous sera demandé à l'aide d'un digicode ou du fingerprint.
+***Note***: Si un mot de passe a été défini sur la commande à exécuter dans Jeedom, alors il vous sera demandé à l'aide d'un digicode ou du fingerprint.
 
 - Pour afficher le menu de réglages Customisation Tile, double cliquez sur l'équipement. Vous pourrez ainsi choisir de la verrouiller, ainsi que changer son widget.
 
@@ -341,13 +361,21 @@ En fonction de l'équipement, plusieurs pages différentes peuvent apparaitre :
 * Volets
 * Etc.
 
+Exemples : 
+
+![Vue générale](../images/page_widget_exemples.png)
+
+Ces pages sont détaillées plus bas.
+
 #### Onglet Pièces 
-L'écran contient trois sections:
+De la même manière que pour l'onglet Favoris, l'écran contient trois sections:
 - Scénarios
 - Equipements
 - Caméras
 
-Il est possible de customiser l'affichage pour chaque pièce en cliquant sur l'icone d'édition en haut à droite dans la barre d'outils JeeMate
+![Vue générale](../images/jeemate_onglet_piece.jpg)
+
+Il est possible de customiser l'affichage pour chaque pièces en cliquant sur l'icone d'édition en haut à droite dans la barre d'outils JeeMate
 Il sera alors possible de :
 - Renommer la pièce
 - Choisir une image de fond
@@ -358,21 +386,13 @@ Ainsi que de configurer certains paramètres pour vos équipements, comme:
 - ajouter aux Favoris Maison
 - sécuriser par digicode ou reconnaissance biométrique
 
-#### Onglet Caméras
-
-L'onglet Caméras permet de visualiser toutes les caméras disponibles dans Jeedom ou non.
-
-Cliquer sur le bouton "+" pour ajouter une caméra puis :
-- saisir un nom
-- et son url
-
-La caméra apparaitra alors dans JeeMate. Vous pourrez ensuite rééditer ses paramètres, ou bien la supprimer, en cliquant sur son icone "Roue crantée"
-
 #### Designs Jeedom et pages web favorites
 Cet onglet permet d'afficher des pages web. Telles que:
 - Designs Jeedom
 - Vos dashboards Grafana préférés
 - etc
+
+![Vue générale](../images/jeemate_onglet_design.jpg)
 
 Pour cela, il suffit de cliquer sur le bouton Onglet "Design" dans la barre en bas, puis sur l'icone "Roue crantée".
 
@@ -390,7 +410,28 @@ Pour ajouter un "design" ou url vers une page web, il suffit de cliquer sur le b
 - Saisir son url
 - La fréquence de rafraichissement si besoin
 
+#### Onglet Caméras
+
+L'onglet Caméras permet de visualiser toutes les caméras disponibles dans Jeedom ou non, et en Live! 
+Les caméras présentes dans Jeedom sont automatiquement importées.
+
+![Vue générale](../images/jeemate_onglet_camera.jpg)
+
+Cliquer sur le bouton "+" pour ajouter une caméra puis :
+- saisir un nom
+- et son url
+
+La caméra apparaitra alors dans JeeMate. Vous pourrez ensuite rééditer ses paramètres, ou bien la supprimer, en swipant sur son nom pour faire apparaître le menu de configuration.
+
+La liste des caméras peut être réorganisée. Pour cela, il suffit de d'appuyer pendant quelques secondes dessus et ensuite de la placer à l'endroit souhaité.
+
+Un clic simple sur la caméra permet de l'afficher en plein écran et avoir accès aux boutons PTZ.
+
+
 #### Menu JeeMate
+
+![Vue générale](../images/jeemate_burger.jpg)
+
 Accessible depuis le bouton Menu, dans la barre d'outils JeeMate, en haut, il permet :
 - d'afficher la page Synthèse Jeedom
 - d'afficher la page Timeline de Jeedom
@@ -401,13 +442,16 @@ Nous allons tout d'abord explorer les paramètres de configuration JeeMate, puis
 
 Configuration 
 ==============================
+
+![Vue générale](../images/jeemate_configuration.jpg)
+
 Le menu "Configuration" permet de paramétrer :
 - les notifications avec TTS ou non
 - la géolocalisation (Activer, définir des zones, affiner les réglages pour le géofencing et la durée de la batterie)
 - le lien JeeMate<->Jeedom. Ici rien à configurer. Mais ce menu permet de synchroniser JeeMate avec votre serveur Jeedom et de mettre à jour de nouveaux équipements. Il permet sinon, de réapparairer votre téléphone, ou bien de remettre à zéro l'interface graphique
 - Activer la détection d'objet de la caméra de votre appareil et plus tard envoyer la vidéo vers Jeedom
 - Activer le service SMS pour recevoir ou envoyer des SMS, avec gestion d'une liste blanche des contacts
-- Activer le service SIP. Pour l'instant testé uniquement avec Asterisk. Sert à communiquer en audio+vidéo avec par exemple des portiers vidéos, softphones etc
+- Active le service SIP. Pour l'instant testé uniquement avec Asterisk. Sert à communiquer en audio+vidéo avec par exemple des portiers vidéos, softphones etc
 - Sécurité (Activer ou non les biométriques, digicode etc). Afin d'empêcher que quelqu'un d'autre n'utilise JeeMate.
 - Thèmes&Langues. Entre autres, afficher une image, ou des dégradés de couleurs, en fond d'écran, activer le thème jour/nuit, choisir les fonds d'écran pour chaque mode etc
 - Sauver/Importer App. Permet de sauvegarder la configuration, les favoris, pièces etc de JeeMate dans votre serveur Jeedom. Importer permet donc de réimporter une sauvegarde.
@@ -415,31 +459,129 @@ Le menu "Configuration" permet de paramétrer :
 
 ## Notifications
 
+![Vue générale](../images/jeemate_notifications_settings.jpg)
+
 - Notifications : Active/désactive l'envoi depuis Jeedom des notifications PUSH
 - Notifications TTS : Active/désactive la lecture vocale de la notification PUSH
 
 ## Géoloc
+
+Le module suit la localisation de votre appareil de manière optimisée afin de limiter la consommation de la batterie. 
+Pour cette raison, la notion de détection de mouvement de l'appareil est très importante (mobile vs stationnaire). Le module lance le service uniquement lorsqu'il détecte du mouvement. Quand l'appareil reste stationnaire, les services de localisation sont stoppés.
+
+### Etats: Mobile & Stationnaire
+Le module Géolocalisation peut prendre deux états: mobile et stationnaire, et passe d'un état à l'autre en monitorant le service Activité natif de votre appareil (immobile, à pieds, courir, à vélo et en véhicule)
+
+Quand le module Geolocalisation détecte que l'activité est immobile, il rentre dans l'état stationnaire. Lorsqu'une activité est détectée (par exemple A vélo), alors il entre dans l'état Mobile, active les services géolocalisation et commence à enregistrer les positions GPS à chaque fois 'Distance Détection' est atteinte (cf. page de configuration).
+
+Vous avez la possibilité de configurer certains paramètres selon votre usage.
+
+**Important : Pour un bon fonctionnement, vous devez avoir les autorisations correctement configurées pour JeeMate dans votre appareil**
+
+![Vue générale](../images/jeemate_geoloc_settings.jpg)
+
 - Activer/Désactiver la géolocalisation
 - Définir des zones principales et secondaires.
-- Définir la précision de la localisation 
-- Intervalle capteur en secondes : permet de paramétrer l'intervalle de lecture du capteur GPS de votre appareil
-- Distance détection en mètres : permet de définir à partir de combien de mètres la lecture du capteur GPS doit se faire
+- Retour sonore: permet d’activer ou non un retour sonore sur les évenements de géoloc.
+- Forcer la géolocalisation : désactive la reconnaissance d’activité et force la géolocalisation. Cette option peut être utilisée lors d’un entrainement ou d’un « Jogging » mais forcément va consommer un peu plus de batterie puisque la géoloc est forcée.
+- Reconnaissance activité: Intervalle en secondes. Correspond aux moments où l’app vérifie qu’il y a une activité. Cette info est basée sur les différents capteurs du téléphone
+- Elasticité : permet d’activer ou non l’auto-adaptation de Distance Detection
+- Distance détection : correspond à la distance en mètres, que l’appareil doit parcourir afin de générer un évenement géoloc. Cette distance peut être « élastique » si « Activer Elasticité est cochée ».
+C’est-à-dire que quand Elasticité est active, Distance Détection augmente si la vitesse augmente et vice versa.
+Exemple:
+pour un vélo à 7.7m/sec, avec un Distance Détection de 30m, alors la distance ajustée est 60m.
+sur autoroute, à une vitesse de 27m/s, avec un Distance Détection de 50m, c’est ajusté à 300m.
+Ceci afin d’éviter les envois inutiles vers le serveur, car ce n’est pas forcément le GPS qui consomme le plus, la connexion et transfert de datas peuvent aussi beaucoup consommer.
+- Intervalle Capteur : le service de géoloc va activement essayer de mettre à jour la position à cet intervalle. Donc cela peut aussi avoir un impact sur l’autonomie de la batterie. Ce n’est pas un intervalle exact, dans le sens où il ne veut pas forcément dire que vous recevrez une update à ce moment exactement.
+- Précision de la géolocalisation : permet de configurer la précision vs consommation de batterie
+
+| Précision     | Mode                                  | Précision vs Autonomie                                    |
+| ------------- | ------------------------------------- | --------------------------------------------------------- |
+| NAVIGATION    | (iOS seulement) GPS + Wifi + Cellular | Consommation batterie   élevée; Meilleure précision       |
+| HIGH          | GPS + Wifi + Cellular                 | Consommation batterie plus  élevée; Meilleure précision   |
+| MEDIUM        | Wifi + Cellular                       | Consommation batterie moyenne; Précision moyenne          |
+| LOW           | Wifi (basse conso) + Cellular         | Consommation basse; Pas de GPS                            |
+| VERY LOW      | Cellular seulement                    | Consommation très basse ; Précision faible                |
+| LOWEST        | (iOS seulement)                       | Consommation la plus basse ; Précision la plus faible     |
+
+Donc, pour optimiser la batterie il est mieux d’avoir Elasticité active, Forcer la géoloc désactivée. Et dans ce cas, lorsqu’aucune activité n’est détectée, alors le GPS etc sont stoppés pour conserver la batterie.
+
+### Domicile et Zones (aka Geofencing)
+
+![Vue générale](../images/jeemate_geofencing.jpg)
+
+Pour définir des zones, il suffit de cliquer sur le bouton "Domicile et Zones". Puis :
+- déplacez-vous sur la carte, en tactile, ou bien effectuer une recherche par adresse.
+- effectuez un appui long sur la carte à l'endroit souhaité, et une page de configuration de la zone sera affichée.
+- De mêmte, pour éditer une zone, il suffit de zoomer dessus et effectuer un appui long, précisément en son centre.
+- 
+![Vue générale](../images/jeemate_geofencing_settings.jpg)
+
+### Gestion de la présence des membres, géoloc et tracés
+
+Il est possible, dans l'onglet Favori, d'afficher la présence des membres d'un foyer, leur géolocalisation, ainsi que leur trajet effectué.
+
+Pour ceci, nous avons décidé de ne pas faire cette configuration dans le plugin JeeMate, mais plutôt de se baser sur un équipement Virtuel. Ceci permet plus de flexiibilité, et ainsi avoir des infos d'équipements non-JeeMate.
+
+La procédure à suivre est simple, et nécessite **un équipement Virtuel par membre d'un foyer**
+
+![Vue générale](../images/virtuel_presence.jpg)
+
+Dans cette équipement, créer 2 commandes infos comme sur la capture ci-dessus
+- Présence : que vous pouvez lier à n'importe quel autre info géofence/zone, ou à une info de géofence d'un équipement JeeMate.
+Cette info doit être de **type Binaire**, avec le type générique **Info Générique**
+Puis cliquer sur la roue crantée de la commande pour aller dans sa page de configuration, et dans l'onglet Display ajouter la clé/valeur **jeematePresence** et le nom de l'utilisateur qui sera affiché dans l'application mobile.
+
+![Vue générale](../images/virtuel_presence_generique.jpg)
+
+![Vue générale](../images/virtuel_presence_display1.jpg)
+
+
+- Position : que vous pouvez lier à n'importe quel autre info géoloc, ou à à l'info de géoloc d'un équipement JeeMate.
+Cette info doit être de **type Autre**, avec le type générique **Info Générique**
+Puis cliquer sur la roue crantée de la commande pour aller dans sa page de configuration, et dans l'onglet Display ajouter la clé **jeemateGeoloc**.
+Historiser cette commande info si vous souhaitez obtenir le tracé dans l'application mobile.
+
+![Vue générale](../images/virtuel_presence_generique.jpg)
+
+![Vue générale](../images/virtuel_presence_display2.jpg)
+
+**Note** : si un utilisateur ne souhaite pas être "tracké", alors il suffit de ne pas saisir d'info Position dans l'équipement Virtuel. Alors seul sa présence ou non, sera indiqué dans l'application mobile.
+
+**Important** : lorsque vous effectuez un changement dans la configuration d'un équipement Jeedom, alors il faut réimporter/regénérer l'interface dans l'application mobile.
+
+Pour afficher la présence d'un utilisateur, dans l'onglet Favori, dans la barre de résumés, cliquer sur la première icöne, une liste des utilisateurs sera alors affichée. Cliquer sur un utilisateur dans la liste, et sera alors affichée la carte avec sa position, son tracé, la position des autres utilisateurs, ainsi que les différentes zones.
+
+Exemple de carte avec tracé : 
+
+![trace](../images/trace.jpg)
 
 ## Connecteur Jeedom
+
+![jeemate jeedom settings](../images/jeemate_jeedom_settings.jpg)
+
 - Activer/Désactiver la connexion avec votre serveur Jeedom
 - Paramètres de connexion à votre serveur Jeedom (adresse interne, externe etc) récupérés lors du scan de qrcode
+- Local Wifi : vous pouvez soit cliquer sur le bouton, soit saisir votre Nom de Wifi local.
 - Scanner le QR Code : permet de rescanner le QR Code de votre équipement dans le plugin JeeMate et ainsi mettre à jour la configuration ci-dessus
+- - Re-générer l'interface : importe vos équipements Jeedom dans JeeMate
 - Effacer les favoris : permet de réinitialiser l'affichage des favoris dans l'onglet Maison
 - Effacer l'interface : permet de réinitialiser complètement l'interface
 - Tester la connection : permet de tester la connexion entre l'application mobile et votre serveur Jeedom
 
 ## Caméra
+
+![jeemate jeedom settings](../images/jeemate_intcam_settings.jpg)
+
 - Streaming (pas encore disponible)
-- Activer la reconnaissance d'objets
+- Activer la reconnaissance d'objets, pour par exemple la détection d'humains
 - La précision de la reconnaissance (score mini)
 
 ## Reconnaissance vocale
-JeeMate permet de contrôler votre Jeedom, en mode offline. C'est-à-dire que la reconnaissance du hotword ainsi que la transcription de la voix en texte est faite sur votre appareil, et ne passe pas par le Cloud.
+
+![jeemate jeedom settings](../images/jeemate_recovocal_settings.jpg)
+
+JeeMate permet de contrôler votre Jeedom, en mode offline. C'est-à-dire que la reconnaissance du hotword ainsi que la transcription de la voix en texte est faite sur votre appareil, et ne passe pas par le cloud.
 
 Rappel: pour cela, il suffit de cliquer sur l'icone micro en haut à droite dans JeeMate.
 
@@ -451,25 +593,44 @@ Rappel: pour cela, il suffit de cliquer sur l'icone micro en haut à droite dans
 Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 
 ## Service SMS
+
+Il est possible d'utiliser un ancien mobile comme passerelle entre Jeedom et les SMS.
+
+![jeemate jeedom settings](../images/jeemate_sms_settings.jpg)
+
 - Autoriser ou non l'envoi de SMS depuis Jeedom
 - Autoriser ou non la réception de SMS
 - Interactions : si l'option est activée, le contenu du SMS est envoyé aux Interactions Jeedom
 - Rhasspy plugin : si l'option est activée, le contenu du SMS est envoyé au plugin Rhasspy
-- Liste blanche permet d'ajouter des contacts autorisés. Tout SMS, envoyé par un contact non présent dans cette liste blanche, ne sera pas transmis à Jeedom
+- Liste blanche permet d'ajouter/supprimer des contacts autorisés. Tout SMS, envoyé par un contact non présent dans cette liste blanche, ne sera pas transmis à Jeedom
 
 Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 
 ## Service SIP
+
+Il est possible de connecter JeeMate à un serveur compatible Asterisk, et d'effectuer ou recevoir des appels audios/vidéos SIP (softphones, portier vidéo etc)
+
+Exemple d'un appel softphone Windows (PC sans webcam) vers JeeMate
+
+![jeemate jeedom settings](../images/sip_call.png)
+
 - Paramètres de connexion à Asterisk
+- TODO faire la doc
 
 ## Sécurité
+
+![jeemate jeedom settings](../images/jeemate_security_settings.jpg)
+
 - Activer biométriques : permet d'activer la reconnaissance sur empreinte digitale, ou faciale
 - Activer digicode : permet d'activer l'utilisation d'un digicode
 - Digicode : saisir le code souhaité
 - Sécuriser lancement JeeMate : permet de sécuriser le lancement de l'app avec une des options ci-dessus
 
 ## Thème
-- Choix de la langue. Pour l'instant les langues disponibles sont Français et Anglais, bientôt Espagnol. D'autres seront ajoutées.
+
+![jeemate jeedom settings](../images/jeemate_theme_settings.jpg)
+
+- Choix de la langue. Pour l'instant les langues disponibles sont Français,  Anglais, et Espagnol. D'autres seront ajoutées. La langue est automatiquement sélectionnée en fonction de celle qui est configurée dans votre appareil mobile.  
 - Activer/désactiver Image de fond pour l'onglet Favoris Maison
 - Choix de l'image de fond pour l'onglet Favoris Maison
 - Activer/Désactiver le changement automatique de thème Jour/Nuit
@@ -477,9 +638,59 @@ Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 - Choix du Dégradé pour le thème Nuit
 - Sous-thème pour les pages de Widgets : Morphic ou Glass
 
+Très bientot, d'autres possibilités de customisation seront disponibles
+
 ## Sauver/Importer App
-- Sauvegarder : permet d'enregistrer toute la configuration de votre application mobile, paramètres et interface, dans votre serveur Jeedom
-- Restaurer : permet de récupérer dans votre serveur Jeedom la sauvegarde de votre application mobile
+
+![jeemate jeedom settings](../images/jeemate_backup.jpg)
+
+- Sauvegarder : permet d'enregistrer toute la configuration de votre application mobile, paramètres et interface, dans votre serveur Jeedom. Vous devez saisir un nom pourvotre sauvegarde.
+- Sauvegardes disponibles : permet de récupérer dans votre serveur Jeedom la sauvegarde de votre application mobile. List des sauvegardes disponibles est automatiquement rafraichi. Elle peut être rafraichi en cliquant sur "Sauvegardes disponibles"
+
+
+## Pages Widgets
+
+TODO terminer la description de toutes les pages
+
+### Thermostat
+
+Pour afficher la page Thermostat, vous pouvez soit cliquer sur une tuile, soit y accéder depuis l'onglet Favoris, barre "Plugins"
+
+![jeemate jeedom settings](../images/jeemate_screenshot22.jpg)
+
+Vous pouvez ensuite en sélectionner un autre en cliquant sur le nom en haut de la page afin d'afficher la liste des thermostats disponibles.
+
+Il est aussi possible d'afficher l'historique de température en cliquant en haut à droite sur la Température.
+
+Sur tablette, un simple clic sur un thermostat dans le Panneau "Thermostat" suffit.
+![jeemate jeedom settings](../images/tablet_thermostat_paysage.png)
+![jeemate jeedom settings](../images/tablet_thermostat_portrait.jpg)
+
+
+### Lumière
+
+Si une Lumière est juste binaire ON/OFF, alors un simple clic sur la tuile allumera ou non.
+
+Si par contre la lumière dispose de plus d'options (couleurs, variateur etc) alors la page s'affichera sur un clic tuile.
+
+En fonction des paramètres disponibles, vous pourrez :
+- faire varier l'intensité
+- faire varier la température des blancs
+- changer de couleur
+- définir des couleurs favorites
+
+Pour accéder à ces différents modes, il suffit de cliquer sur les boutons-icônes en bas de la page.
+
+Pour changer la couleur, vous pouvez soit : 
+- appuyer sur la bulle centrale
+- appuyer sur les autres bulles Couleurs Favorites
+ 
+Pour changer les favoris couleurs :
+- faire un appui long sur la bulle
+- sélectionner la nouvelle couleur
+- appuyer sur Sauvegarder pour valider
+- 
+![jeemate jeedom settings](../images/jeemate_favcouleur.jpg)
 
 
 Les commandes Infos/Actions disponibles dans un équipement JeeMate
