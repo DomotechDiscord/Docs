@@ -57,7 +57,7 @@ L'application mobile et son plugin ont été développés avec comme objectifs p
 
 JeeMate gère aussi les droits utilisateurs et mots de passe Jeedom sur les commandes, préalablement définis dans votre Jeedom.
 
-**Note: L'utilisation continue du GPS en tâche de fond peut réduire la durée de vie de la batterie. JeeMate contient des paramètres afin d'optimiser ceci (cf doc ci-dessous)**
+**Note : L'utilisation continue du GPS en tâche de fond peut réduire la durée de vie de la batterie. JeeMate contient des paramètres afin d'optimiser ceci (cf doc ci-dessous)**
 
 
 Fonctionnalités
@@ -139,7 +139,7 @@ Compatibilité avec les plugins Jeedom
 Tableau des compatibilités
 ==============================
 
-TODO: Ajouter les autres types, avec plus d'informations pour la configuration.
+TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 #### Chauffage
 
 | Type générique                  | Sous-type | Compatible ? |
@@ -286,7 +286,7 @@ Puis :
 2. Scanner le QR code présent sur l'équipement créé sur Jeedom.
 3. Finaliser la création du serveur, et voilà !
 
-**Note: JeeMate reconnaitra seulement les équipements visibles contenant des commandes avec types génériques. N'oubliez donc pas de renseigner les types génériques si ce n'est déjà fait.**
+**Note : JeeMate reconnaitra seulement les équipements visibles contenant des commandes avec types génériques. N'oubliez donc pas de renseigner les types génériques si ce n'est déjà fait.**
 
 
 
@@ -343,7 +343,7 @@ Pour filtrer, les favoris par type d'équipement, cliquez sur l'icone "Filtre", 
 Pour un équipement simple, comme par exemple ON/OFF, l'action sera immédiatement envoyée.
 Pour un équipement contenant plusieurs commandes, ou historiques, cela affichera une page avec des contrôles complémentaires.
 
-***Note***: Si un mot de passe a été défini sur la commande à exécuter dans Jeedom, alors il vous sera demandé à l'aide d'un digicode ou du fingerprint.
+***Note*** : Si un mot de passe a été défini sur la commande à exécuter dans Jeedom, alors il vous sera demandé à l'aide d'un digicode ou du fingerprint.
 
 - Pour afficher le menu de réglages Customisation Tile, double cliquez sur l'équipement. Vous pourrez ainsi choisir de la verrouiller, ainsi que changer son widget.
 
@@ -365,7 +365,7 @@ Exemples :
 Ces pages sont détaillées plus bas.
 
 #### Onglet Pièces 
-De la même manière que pour l'onglet Favoris, l'écran contient trois sections:
+De la même manière que pour l'onglet Favoris, l'écran contient trois sections :
 - Scénarios
 - Equipements
 - Caméras
@@ -378,13 +378,13 @@ Il sera alors possible de :
 - Choisir une image de fond
 - Choisir une couleur de fond
 - Utiliser le thème par défaut
-Ainsi que de configurer certains paramètres pour vos équipements, comme:
+Ainsi que de configurer certains paramètres pour vos équipements, comme :
 - rendre visible ou non
 - ajouter aux Favoris Maison
 - sécuriser par digicode ou reconnaissance biométrique
 
 #### Designs Jeedom et pages web favorites
-Cet onglet permet d'afficher des pages web. Telles que:
+Cet onglet permet d'afficher des pages web. Telles que :
 - Designs Jeedom
 - Vos dashboards Grafana préférés
 - etc
@@ -466,8 +466,8 @@ Le menu "Configuration" permet de paramétrer :
 Le module suit la localisation de votre appareil de manière optimisée afin de limiter la consommation de la batterie. 
 Pour cette raison, la notion de détection de mouvement de l'appareil est très importante (mobile vs stationnaire). Le module lance le service uniquement lorsqu'il détecte du mouvement. Quand l'appareil reste stationnaire, les services de localisation sont stoppés.
 
-### Etats: Mobile & Stationnaire
-Le module Géolocalisation peut prendre deux états: mobile et stationnaire, et passe d'un état à l'autre en monitorant le service Activité natif de votre appareil (immobile, à pieds, courir, à vélo et en véhicule)
+### Etats : Mobile & Stationnaire
+Le module Géolocalisation peut prendre deux états : mobile et stationnaire, et passe d'un état à l'autre en monitorant le service Activité natif de votre appareil (immobile, à pieds, courir, à vélo et en véhicule)
 
 Quand le module Géolocalisation détecte que l'activité est immobile, il rentre dans l'état stationnaire. Lorsqu'une activité est détectée (par exemple A vélo), alors il entre dans l'état Mobile, active les services géolocalisation et commence à enregistrer les positions GPS à chaque fois que 'Distance Détection' est atteinte (cf. page de configuration).
 
@@ -481,13 +481,13 @@ https://dontkillmyapp.com/
 
 - Activer/Désactiver la géolocalisation
 - Définir des zones principales et secondaires.
-- Retour sonore: permet d’activer ou non un retour sonore sur les évenements de géoloc.
+- Retour sonore : permet d’activer ou non un retour sonore sur les évenements de géoloc.
 - Forcer la géolocalisation : désactive la reconnaissance d’activité et force la géolocalisation. Cette option peut être utilisée lors d’un entrainement ou d’un « Jogging » mais forcément va consommer un peu plus de batterie puisque la géoloc est forcée.
-- Reconnaissance activité: Intervalle en secondes. Correspond aux moments où l’app vérifie qu’il y a une activité. Cette info est basée sur les différents capteurs du téléphone
+- Reconnaissance activité : Intervalle en secondes. Correspond aux moments où l’app vérifie qu’il y a une activité. Cette info est basée sur les différents capteurs du téléphone
 - Elasticité : permet d’activer ou non l’auto-adaptation de Distance Detection
 - Distance détection : correspond à la distance en mètres, que l’appareil doit parcourir afin de générer un évenement géoloc. Cette distance peut être « élastique » si « Activer Elasticité est cochée ».
 C’est-à-dire que quand Elasticité est active, Distance Détection augmente si la vitesse augmente et vice versa.
-Exemple:
+Exemple :
 pour un vélo à 7.7m/sec, avec un Distance Détection de 30m, alors la distance ajustée est 60m.
 sur autoroute, à une vitesse de 27m/s, avec un Distance Détection de 50m, c’est ajusté à 300m.
 Ceci afin d’éviter les envois inutiles vers le serveur, car ce n’est pas forcément le GPS qui consomme le plus, la connexion et transfert de datas peuvent aussi beaucoup consommer.
@@ -536,7 +536,7 @@ Puis cliquer sur la roue crantée de la commande pour aller dans sa page de conf
 
 ![Vue presence1](../images/virtuel_presence_display1.jpg)
 
-- Position : que vous pouvez lier à n'importe quel autre info géoloc, ou à à l'info de géoloc d'un équipement JeeMate.
+- Position : que vous pouvez lier à n'importe quel autre info géoloc, ou à l'info de géoloc d'un équipement JeeMate.
 Cette info doit être de **type Autre**, avec le type générique **Info Générique**
 Puis cliquer sur la roue crantée de la commande pour aller dans sa page de configuration, et dans l'onglet Display ajouter la clé **jeemateGeoloc**.
 - Historiser cette commande info de géoloc si vous souhaitez obtenir le tracé dans l'application mobile.
@@ -545,7 +545,7 @@ Puis cliquer sur la roue crantée de la commande pour aller dans sa page de conf
 
 ![Vue presence2](../images/virtuel_presence_display2.jpg)
 
-**Note** : si un utilisateur ne souhaite pas être suivi, alors il suffit d'enlever le type générique pour la commande Position dans l'équipement Virtuel. Dans ce cas, seul sa présence ou non, sera indiqué dans l'application mobile.
+**Note** : si un utilisateur ne souhaite pas être suivi, alors il suffit d'enlever le type générique pour la commande Position dans l'équipement Virtuel. Dans ce cas, seule sa présence ou non, sera indiqué dans l'application mobile.
 
 **Important** : lorsque vous effectuez un changement dans la configuration d'un équipement Jeedom, alors il faut réimporter/regénérer l'interface dans l'application mobile.
 
@@ -573,7 +573,7 @@ Exemple de carte avec tracé :
 ![jeemate camera settings](../images/jeemate_intcam_settings.jpg)
 
 - Streaming (pas encore disponible)
-- Activer la reconnaissance d'objets (exemple: détection humain)
+- Activer la reconnaissance d'objets (exemple : détection humain)
 - La précision de la reconnaissance (score mini)
 
 ## Reconnaissance vocale
@@ -582,12 +582,12 @@ Exemple de carte avec tracé :
 
 JeeMate permet de contrôler votre Jeedom, en mode offline. C'est-à-dire que la reconnaissance du hotword ainsi que la transcription de la voix en texte est faite sur votre appareil, et ne passe pas par le cloud.
 
-Rappel: pour cela, il suffit de cliquer sur l'icone micro en haut à droite dans JeeMate.
+Rappel : pour cela, il suffit de cliquer sur l'icone micro en haut à droite dans JeeMate.
 
 - Interactions : si l'option est activée, la commande vocale est envoyée aux Interactions Jeedom
 - Rhasspy plugin : si l'option est activée, la commande vocale est envoyée à Rhasspy
 - Toujours active : si l'option est activée, l'appareil reste en permanence sur écoute, en attente d'une commande. Dans ce mode, la configuration d'un hotword est obligatoire
-- Hotword : la phrase clé que vous souhaitez pour valider une commande. Exemple: "Jasper", "Dis Toto" etc
+- Hotword : la phrase clé que vous souhaitez pour valider une commande. Exemple : "Jasper", "Dis Toto" etc
 
 Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 
