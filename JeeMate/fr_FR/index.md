@@ -2,7 +2,7 @@
 
 Lien de l'APK version android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
 
-Pour les personnes sous IOS, la version de l'app devra arriver d'ici 1 mois ou 2.<br>
+Pour les personnes sous IOS, la version de l'app devrait arriver d'ici 1 mois ou 2.<br>
 
 Cordialement
 Thibaut Et Pascal
@@ -18,7 +18,61 @@ Et dans le Futur sur Android TV et IOS
 
 Ce plugin permet d'appairer JeeMate avec votre serveur Jeedom, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
-Présentation de l'application
+Sommaire
+==============================
+
+ - [Présentation de l'application](#paragraphe1)
+ - [Fonctionnalités](#paragraphe2)
+ - [Compatibilité avec Jeedom](#paragraphe3)
+ - [Compatibilité avec les plugins Jeedom](#paragraphe4)
+ - [Tableau des compatibilités](#paragraphe5)
+	 - [Chauffage](#paragraphe5-1)
+	 - [Généric](#paragraphe5-2)
+	 - [Lumière](#paragraphe5-3)
+	 - [Mode](#paragraphe5-4)
+	 - [Portail/Garage](#paragraphe5-5)
+	 - [Prise](#paragraphe5-6)
+	 - [Serrure](#paragraphe5-7)
+	 - [Sirène](#paragraphe5-8)
+	 - [Thermostat](#paragraphe5-9)
+	 - [Volet](#paragraphe5-10)
+	 - [Caméra](#paragraphe5-11)
+ - [Configuration du plugin JeeMate](#paragraphe6)
+ - [Premier lancement de l'app JeeMate](#paragraphe7)
+ - [Fonctionnalités](#paragraphe8)
+	 - [Onglets Favoris Maison ](#paragraphe8-1)
+	 - [Onglet Pièces ](#paragraphe8-2)
+	 - [Designs Jeedom et pages web favorites ](#paragraphe8-3)
+	 - [Onglet Caméras](#paragraphe8-4)
+	 - [Menu JeeMate ](#paragraphe8-5)
+ - [Configuration](#paragraphe9)
+	 - [Notifications](#paragraphe9-1)
+	 - [Géoloc](#paragraphe9-2)
+		 - [Etats : Mobile & Stationnaire](#paragraphe9-2-1)
+		 - [Domicile et Zones (aka Geofencing)](#paragraphe9-2-2)
+		 - [Gestion de la présence des membres, géoloc et tracés](#paragraphe9-2-3)
+	 - [Connecteur Jeedom](#paragraphe9-3)
+	 - [Caméra](#paragraphe9-4)
+	 - [Reconnaissance vocale](#paragraphe9-5)
+	 - [Service SMS](#paragraphe9-6)
+	 - [Service SIP](#paragraphe9-7)
+	 - [Sécurité](#paragraphe9-8)
+	 - [Thème](#paragraphe9-9)
+	 - [Sauver/Importer App](#paragraphe9-10)
+	 - [Pages Widgets](#paragraphe9-11)
+		 - [Thermostat](#paragraphe9-11-1)
+		 - [Lumière](#paragraphe9-11-2)
+ - [Les commandes Infos/Actions disponibles dans un équipement JeeMate](#paragraphe10)
+	 - [Notifications](#paragraphe10-1)
+	 - [Capteurs disponibles sur votre appareil JeeMate](#paragraphe10-2)
+	 - [Send SMS](#paragraphe10-3)
+	 - [TTS Speak](#paragraphe10-4)
+	 - [Send Action](#paragraphe10-5)
+ - [Questions fréquentes](#paragraphe11)
+
+
+
+Présentation de l'application <a name="paragraphe1"></a>
 ==============================
 
 JeeMate est une application mobile compatible avec Jeedom.<br/>Contrôlez facilement votre maison intelligente grâce à son interface intuitive et customisable.<br/>JeeMate dispose de nombreuses fonctionnalités, et est compatible avec de nombreux plugins Jeedom.<br/>JeeMate utilise les types génériques de Jeedom.
@@ -60,7 +114,7 @@ JeeMate gère aussi les droits utilisateurs et mots de passe Jeedom sur les comm
 **Note : L'utilisation continue du GPS en tâche de fond peut réduire la durée de vie de la batterie. JeeMate contient des paramètres afin d'optimiser ceci (cf doc ci-dessous)**
 
 
-Fonctionnalités
+Fonctionnalités <a name="paragraphe2"></a>
 ==============================
 
 Afin de pouvoir utiliser certaines fonctions avancées, et supporter le développement du projet, il est possible d'acheter le plugin Jeedom JeeMate Premium.
@@ -94,7 +148,7 @@ Afin de pouvoir utiliser certaines fonctions avancées, et supporter le dévelop
 | Soutien pour les développements futurs   | Non      | Oui ! <3 |
 
 
-Compatibilité avec Jeedom
+Compatibilité avec Jeedom <a name="paragraphe3"></a>
 ==============================
 
 JeeMate gère les types génériques définis dans JEEDOM et plus!
@@ -106,7 +160,7 @@ Dans certains cas, JeeMate va aussi au-delà des types génériques en rendant c
 JeeMate gère certains plugins Jeedom Officiels, ainsi que d'autres développés par la communauté.
 
 
-Compatibilité avec les plugins Jeedom
+Compatibilité avec les plugins Jeedom <a name="paragraphe4"></a>
 ==============================
 
 | Nom du plugin   | Compatible ?                                |
@@ -136,11 +190,11 @@ Compatibilité avec les plugins Jeedom
 | Suivi Conso     | Futur                                       |
 
 
-Tableau des compatibilités
+Tableau des compatibilités <a name="paragraphe5"></a>
 ==============================
 
 TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
-#### Chauffage
+#### Chauffage <a name="paragraphe5-1"></a>
 
 | Type générique                  | Sous-type | Compatible ? |
 | ------------------------------- | --------- | ------------ |
@@ -149,13 +203,13 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Chauffage fil pilote Bouton OFF | Action    | Oui          |
 | Chauffage fil pilote Bouton ON  | Action    | Oui          |
 
-#### Généric
+#### Généric <a name="paragraphe5-2"></a>
 
 | Type générique                        | Sous-type | Compatible ? |
 | ------------------------------------- | --------- | ------------ |
 | Tous                                  | Info      | Oui          |
 
-#### Lumière
+#### Lumière <a name="paragraphe5-3"></a>
 
 | Type générique     | Sous-type | Compatible ? |
 | ------------------ | --------- | ------------ |
@@ -168,14 +222,14 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Lumière Slider     | Action    | Oui          |
 | Lumière Toggle     | Action    | Oui          |
 
-#### Mode
+#### Mode <a name="paragraphe5-4"></a>
 
 | Type générique | Sous-type | Compatible ? |
 | -------------- | --------- | ------------ |
 | Mode Info      | Info      | Oui          |
 | Mode Action    | Action    | Oui          |
 
-#### Portail/Garage
+#### Portail/Garage <a name="paragraphe5-5"></a>
 
 | Type générique                  | Sous-type | Compatible ? |
 | ------------------------------- | --------- | ------------ |
@@ -183,7 +237,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Portail état ouvrant            | Info      | Oui          |
 | Portail ou garage bouton toggle | Action    | Oui          |
 
-#### Prise
+#### Prise <a name="paragraphe5-6"></a>
 
 | Type générique   | Sous-type | Compatible ? |
 | ---------------- | --------- | ------------ |
@@ -192,7 +246,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Prise Bouton On  | Action    | Oui          |
 | Prise Slider     | Action    | Oui          |
 
-#### Serrure
+#### Serrure <a name="paragraphe5-7"></a>
 
 | Type générique        | Sous-type | Compatible ? |
 | --------------------- | --------- | ------------ |
@@ -200,7 +254,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Serrure Bouton Fermer | Action    | Oui          |
 | Serrure Bouton Ouvrir | Action    | Oui          |
 
-#### Sirène
+#### Sirène <a name="paragraphe5-8"></a>
 
 | Type générique    | Sous-type | Compatible ? |
 | ----------------- | --------- | ------------ |
@@ -208,7 +262,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Sirène Bouton Off | Action    | Oui          |
 | Sirène Bouton On  | Action    | Oui          |
 
-#### Thermostat
+#### Thermostat <a name="paragraphe5-9"></a>
 
 | Type générique                  | Sous-type | Compatible ? |
 | ------------------------------- | --------- | ------------ |
@@ -218,7 +272,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Thermostat consigne             | Action    | Oui          |
 | Thermostat Mode                 | Action    | Oui          |
 
-#### Volet
+#### Volet <a name="paragraphe5-10"></a>
 
 | Type générique         | Sous-type | Compatible ? |
 | ---------------------- | --------- | ------------ |
@@ -231,7 +285,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Volet Bouton Slider    | Action    | Oui          |
 | Volet Bouton Stop      | Action    | Oui          |
 
-#### Caméra
+#### Caméra <a name="paragraphe5-11"></a>
 
 | Type générique                  | Sous-type | Compatible ? |
 | ------------------------------- | --------- | ------------ |
@@ -246,7 +300,7 @@ TODO : Ajouter les autres types, avec plus d'informations pour la configuration.
 | Zoom caméra vers l'avant        | Action    | Oui          |
 
 
-Configuration du plugin JeeMate
+Configuration du plugin JeeMate <a name="paragraphe6"></a>
 ==============================
 
 Après téléchargement du plugin, vous devez commencer par l'activer.
@@ -276,7 +330,7 @@ Pour chaque équipement créé, une liste de commande est disponible (cf section
     - Configuration Génériques : permet de définir depuis le plugin quels équipements importer (peut aussi être géré depuis l'application mobile) ainsi que leurs types génériques. La page de configuration des génériques peut être pratique et éviter de multiples clics.
     - Debug fonction : permet de nous fournir des informations concernant votre import pour le support
 
-Premier lancement de l'app JeeMate
+Premier lancement de l'app JeeMate <a name="paragraphe7"></a>
 ==============================
 
 Si ce n'est pas déjà fait, [téléchargez l'application sur votre téléphone ou tablette](https://jeemate.les2t.fr/). 
@@ -290,7 +344,7 @@ Puis :
 
 
 
-Fonctionnalités 
+Fonctionnalités <a name="paragraphe8"></a>
 ==============================
 
 JeeMate a été conçu pour être facile à utiliser
@@ -313,7 +367,7 @@ Exemple :
 ![Vue doc inapp](../images/jeemate_doc_inapp.jpg)
 
 
-#### Onglets Favoris Maison
+#### Onglets Favoris Maison <a name="paragraphe8-1"></a>
 
 ![Vue tab home](../images/jeemate_home_sections.jpg)
 
@@ -364,7 +418,7 @@ Exemples :
 
 Ces pages sont détaillées plus bas.
 
-#### Onglet Pièces 
+#### Onglet Pièces <a name="paragraphe8-2"></a>
 De la même manière que pour l'onglet Favoris, l'écran contient trois sections :
 - Scénarios
 - Equipements
@@ -383,7 +437,7 @@ Ainsi que de configurer certains paramètres pour vos équipements, comme :
 - ajouter aux Favoris Maison
 - sécuriser par digicode ou reconnaissance biométrique
 
-#### Designs Jeedom et pages web favorites
+#### Designs Jeedom et pages web favorites <a name="paragraphe8-3"></a>
 Cet onglet permet d'afficher des pages web. Telles que :
 - Designs Jeedom
 - Vos dashboards Grafana préférés
@@ -407,7 +461,7 @@ Pour ajouter un "design" ou url vers une page web, il suffit de cliquer sur le b
 - Saisir son url
 - La fréquence de rafraichissement si besoin
 
-#### Onglet Caméras
+#### Onglet Caméras <a name="paragraphe8-4"></a>
 
 L'onglet Caméras permet de visualiser toutes les caméras disponibles dans Jeedom ou non, et en Live! 
 Les caméras présentes dans Jeedom sont automatiquement importées.
@@ -425,7 +479,7 @@ La liste des caméras peut être réorganisée. Pour cela, il suffit d'appuyer p
 Un clic simple sur la caméra permet de l'afficher en plein écran et avoir accès aux boutons PTZ.
 
 
-#### Menu JeeMate
+#### Menu JeeMate <a name="paragraphe8-5"></a>
 
 ![Vue burger](../images/jeemate_burger.jpg)
 
@@ -437,7 +491,7 @@ Accessible depuis le bouton Menu, dans la barre d'outils JeeMate, en haut, il pe
 
 Nous allons tout d'abord explorer les paramètres de configuration JeeMate, puis la création de scénarios.
 
-Configuration 
+Configuration <a name="paragraphe9"></a>
 ==============================
 
 ![Vue config](../images/jeemate_configuration.jpg)
@@ -454,19 +508,19 @@ Le menu "Configuration" permet de paramétrer :
 - Sauver/Importer App. Permet de sauvegarder la configuration, les favoris, pièces etc de JeeMate dans votre serveur Jeedom. Importer permet donc de réimporter une sauvegarde.
 
 
-## Notifications
+## Notifications <a name="paragraphe9-1"></a>
 
 ![Vue notif settings](../images/jeemate_notifications_settings.jpg)
 
 - Notifications : Active/désactive l'envoi depuis Jeedom des notifications PUSH
 - Notifications TTS : Active/désactive la lecture vocale de la notification PUSH
 
-## Géoloc
+## Géoloc <a name="paragraphe9-2"></a>
 
 Le module suit la localisation de votre appareil de manière optimisée afin de limiter la consommation de la batterie. 
 Pour cette raison, la notion de détection de mouvement de l'appareil est très importante (mobile vs stationnaire). Le module lance le service uniquement lorsqu'il détecte du mouvement. Quand l'appareil reste stationnaire, les services de localisation sont stoppés.
 
-### Etats : Mobile & Stationnaire
+### Etats : Mobile & Stationnaire <a name="paragraphe9-2-1"></a>
 Le module Géolocalisation peut prendre deux états : mobile et stationnaire, et passe d'un état à l'autre en monitorant le service Activité natif de votre appareil (immobile, à pieds, courir, à vélo et en véhicule)
 
 Quand le module Géolocalisation détecte que l'activité est immobile, il rentre dans l'état stationnaire. Lorsqu'une activité est détectée (par exemple A vélo), alors il entre dans l'état Mobile, active les services géolocalisation et commence à enregistrer les positions GPS à chaque fois que 'Distance Détection' est atteinte (cf. page de configuration).
@@ -505,7 +559,7 @@ Ceci afin d’éviter les envois inutiles vers le serveur, car ce n’est pas fo
 
 Donc, pour optimiser la batterie il est mieux d’avoir Elasticité active, Forcer la géoloc désactivée. Et dans ce cas, lorsqu’aucune activité n’est détectée, alors le GPS etc sont stoppés pour conserver la batterie.
 
-### Domicile et Zones (aka Geofencing)
+### Domicile et Zones (aka Geofencing) <a name="paragraphe9-2-2"></a>
 
 ![Vue geofencing](../images/jeemate_geofencing.jpg)
 
@@ -516,7 +570,7 @@ Pour définir des zones, il suffit de cliquer sur le bouton "Domicile et Zones".
 
 ![Vue geofence settings](../images/jeemate_geofencing_settings.jpg)
 
-### Gestion de la présence des membres, géoloc et tracés
+### Gestion de la présence des membres, géoloc et tracés <a name="paragraphe9-2-3"></a>
 
 Il est possible, dans l'onglet Favori, d'afficher la présence des membres d'un foyer, leur géolocalisation, ainsi que leur trajet effectué.
 
@@ -555,7 +609,7 @@ Exemple de carte avec tracé :
 
 ![trace](../images/trace.jpg)
 
-## Connecteur Jeedom
+## Connecteur Jeedom <a name="paragraphe9-3"></a>
 
 ![jeemate jeedom settings](../images/jeemate_jeedom_settings.jpg)
 
@@ -568,7 +622,7 @@ Exemple de carte avec tracé :
 - Effacer l'interface : permet de réinitialiser complètement l'interface
 - Tester la connection : permet de tester la connexion entre l'application mobile et votre serveur Jeedom
 
-## Caméra
+## Caméra <a name="paragraphe9-4"></a>
 
 ![jeemate camera settings](../images/jeemate_intcam_settings.jpg)
 
@@ -576,7 +630,7 @@ Exemple de carte avec tracé :
 - Activer la reconnaissance d'objets (exemple : détection humain)
 - La précision de la reconnaissance (score mini)
 
-## Reconnaissance vocale
+## Reconnaissance vocale <a name="paragraphe9-5"></a>
 
 ![jeemate vocal settings](../images/jeemate_recovocal_settings.jpg)
 
@@ -591,7 +645,7 @@ Rappel : pour cela, il suffit de cliquer sur l'icone micro en haut à droite dan
 
 Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 
-## Service SMS
+## Service SMS <a name="paragraphe9-6"></a>
 
 Il est possible d'utiliser un ancien mobile comme passerelle entre Jeedom et les SMS.
 
@@ -605,7 +659,7 @@ Il est possible d'utiliser un ancien mobile comme passerelle entre Jeedom et les
 
 Plus d'info concernant les commandes de pilotage, plus loin ci-dessous
 
-## Service SIP
+## Service SIP <a name="paragraphe9-7"></a>
 
 Il est possible de connecter JeeMate à un serveur compatible Asterisk, et d'effectuer ou recevoir des appels audios/vidéos SIP (softphones, portier vidéo etc)
 
@@ -616,7 +670,7 @@ Exemple d'un appel softphone Windows (PC sans webcam) vers JeeMate
 - Paramètres de connexion à Asterisk
 - TODO faire la doc
 
-## Sécurité
+## Sécurité <a name="paragraphe9-8"></a>
 
 ![jeemate securite settings](../images/jeemate_security_settings.jpg)
 
@@ -625,7 +679,7 @@ Exemple d'un appel softphone Windows (PC sans webcam) vers JeeMate
 - Digicode : saisir le code souhaité
 - Sécuriser lancement JeeMate : permet de sécuriser le lancement de l'app avec une des options ci-dessus
 
-## Thème
+## Thème <a name="paragraphe9-9"></a>
 
 ![jeemate theme settings](../images/jeemate_theme_settings.jpg)
 
@@ -640,7 +694,7 @@ Exemple d'un appel softphone Windows (PC sans webcam) vers JeeMate
 
 Très bientot, d'autres possibilités de customisation seront disponibles.
 
-## Sauver/Importer App
+## Sauver/Importer App <a name="paragraphe9-10"></a>
 
 ![jeemate backup](../images/jeemate_backup.jpg)
 
@@ -648,11 +702,11 @@ Très bientot, d'autres possibilités de customisation seront disponibles.
 - Sauvegardes disponibles : permet de récupérer dans votre serveur Jeedom la sauvegarde de votre application mobile. List des sauvegardes disponibles est automatiquement rafraichi. Elle peut être rafraichi en cliquant sur "Sauvegardes disponibles"
 
 
-## Pages Widgets
+## Pages Widgets <a name="paragraphe9-11"></a>
 
 TODO terminer la description de toutes les pages
 
-### Thermostat
+### Thermostat <a name="paragraphe9-11-1"></a>
 
 Pour afficher la page Thermostat, vous pouvez soit cliquer sur une tuile, soit y accéder depuis l'onglet Favoris, barre "Plugins"
 
@@ -669,7 +723,7 @@ Sur tablette, un simple clic sur un thermostat dans le Panneau "Thermostats" suf
 ![tablet thermostat portrait](../images/tablet_thermostat_portrait.jpg)
 
 
-### Lumière
+### Lumière <a name="paragraphe9-11-2"></a>
 
 Si un équipement est seulement de type binaire ON/OFF, alors un simple clic sur la tuile allumera ou non la lumière.
 
@@ -696,10 +750,10 @@ Pour changer les favoris couleurs :
 ![jeemate couleurs](../images/jeemate_favcouleur.jpg)
 
 
-Les commandes Infos/Actions disponibles dans un équipement JeeMate
+Les commandes Infos/Actions disponibles dans un équipement JeeMate <a name="paragraphe10"></a>
 ==============================
 
-## Notifications
+## Notifications <a name="paragraphe10-1"></a>
 
 | Nom                             | Sous-type | Description     |
 | ------------------------------- | --------- | ------------    |
@@ -708,7 +762,7 @@ Les commandes Infos/Actions disponibles dans un équipement JeeMate
 | Turn On                         | Action    | Active les notifications PUSH                           |
 | Turn Off                        | Action    | Désactive les  notifications PUSH                       |
 
-## Capteurs disponibles sur votre appareil JeeMate
+## Capteurs disponibles sur votre appareil JeeMate <a name="paragraphe10-2"></a>
 
 | Nom                             | Sous-type | Description     |
 | ------------------------------- | --------- | ------------    |
@@ -723,7 +777,7 @@ Les commandes Infos/Actions disponibles dans un équipement JeeMate
 | (geoloc) Distance de geofence Centre | Info      | Distance en mètres depuis votre position jusqu'au centre de la zone  |
 | Reconnaissance Objets           | Info      | Pour la détection d'objets                              |
 
-## Send SMS
+## Send SMS <a name="paragraphe10-3"></a>
 
 Send SMS est une commande de type message que vous pouvez utiliser depuis votre serveur Jeedom, par exemple dans les scénarios, afin d'envoyer un SMS depuis l'application mobile JeeMate.
 
@@ -732,7 +786,7 @@ Send SMS est une commande de type message que vous pouvez utiliser depuis votre 
 | Titre     | N° téléphone destinataire    |
 | Message   | Le message à envoyer    |
 
-## TTS Speak
+## TTS Speak <a name="paragraphe10-4"></a>
 
 TTS Speak est une commande de type message que vous pouvez utiliser depuis votre serveur Jeedom, par exemple dans les scénarios, afin de faire parler l'application mobile JeeMate.
 
@@ -740,7 +794,7 @@ TTS Speak est une commande de type message que vous pouvez utiliser depuis votre
 | --------- | ---------   | 
 | Message   | Le message à envoyer    |
 
-## Send Action
+## Send Action <a name="paragraphe10-5"></a>
 
 Send Action est une commande de type message que vous pouvez utiliser depuis votre serveur Jeedom, par exemple dans les scénarios, afin d'envoyer une commande spéciale à l'application mobile JeeMate.
 
@@ -750,5 +804,5 @@ Send Action est une commande de type message que vous pouvez utiliser depuis vot
 
 
 
-Questions fréquentes
-=
+Questions fréquentes <a name="paragraphe11"></a>
+==============================
