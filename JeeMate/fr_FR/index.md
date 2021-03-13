@@ -18,7 +18,60 @@ Et dans le Futur sur Android TV et IOS
 
 Ce plugin permet d'appairer JeeMate avec votre serveur Jeedom, très facilement en seulement quelques clics. afin de créer un équipement virtuel qui vous permettra, via l'application, d'envoyer et recevoir des notifications,  et déclencher des événements basés sur la géolocalisation de votre appareil.
 
-Présentation de l'application
+Sommaire
+==============================
+
+ - [Présentation de l'application](#paragraphe1-niv1)
+ - [Fonctionnalités](#fonctionnalités)
+ - [Compatibilité avec Jeedom](#compatibilité-avec-jeedom)
+ - [Compatibilité avec les plugins Jeedom](#compatibilité-avec-les-plugins-jeedom)
+ - [Tableau des compatibilités](#tableau-des-compatibilités)
+	 - [Chauffage](#chauffage)
+	 - [Généric](#généric)
+	 - [Lumière](#lumière)
+	 - [Mode](#mode)
+	 - [Portail/Garage](#portail-/-garage)
+	 - [Prise](#prise)
+	 - [Serrure](#serrure)
+	 - [Sirène](#sirène)
+	 - [Thermostat](#thermostat)
+	 - [Volet](#volet)
+	 - [Caméra](#caméra)
+ - [Configuration du plugin JeeMate](#configuration-du-plugin-jeemate)
+ - [Premier lancement de l'app JeeMate](#premier-lancement-de-lapp-jeemate)
+	 - [Onglets Favoris Maison ](#onglets-favoris-maison)
+	 - [Onglet Pièces ](#onglet-pièces)
+	 - [Designs Jeedom et pages web favorites ](#designs-jeedom-et-pages-web-favorites)
+	 - [Onglet Caméras](#onglet-caméras)
+	 - [Menu JeeMate ](#menu-jeemate)
+ - [Configuration](#configuration)
+	 - [Notifications](#notifications)
+	 - [Géoloc](#géoloc)
+		 - [Etats : Mobile & Stationnaire](#etats-:-mobile-&-stationnaire)
+		 - [Domicile et Zones (aka Geofencing)](#domicile-et-zones-(aka-geofencing))
+		 - [Gestion de la présence des membres, géoloc et tracés](#gestion-de-la-présence-des-membres,-géoloc-et-tracés)
+	 - [Connecteur Jeedom](#connecteur-jeedom)
+	 - [Caméra](#caméra)
+	 - [Reconnaissance vocale](#reconnaissance-vocale)
+	 - [Service SMS](#service-sms)
+	 - [Service SIP](#service-sip)
+	 - [Sécurité](#sécurité)
+	 - [Thème](#thème)
+	 - [Sauver/Importer App](#sauver/importer-app)
+	 - [Pages Widgets](#pages-widgets)
+		 - [Thermostat](#thermostat)
+		 - [Lumière](#lumière)
+ - [Les commandes Infos/Actions disponibles dans un équipement JeeMate](#les-commandes-infos/actions-disponibles-dans-un-équipement-jeemate)
+	 - [Notifications](#notifications)
+	 - [Capteurs disponibles sur votre appareil JeeMate](#capteurs-disponibles-sur-votre-appareil-jeemate)
+	 - [Send SMS](#send-sms)
+	 - [TTS Speak](#tts-speak)
+	 - [Send Action](#send-action)
+ - [Questions fréquentes](#questions-fréquentes)
+
+
+
+Présentation de l'application <a name="paragraphe1-niv1"></a>
 ==============================
 
 JeeMate est une application mobile compatible avec Jeedom.<br/>Contrôlez facilement votre maison intelligente grâce à son interface intuitive et customisable.<br/>JeeMate dispose de nombreuses fonctionnalités, et est compatible avec de nombreux plugins Jeedom.<br/>JeeMate utilise les types génériques de Jeedom.
