@@ -595,13 +595,13 @@ Ensuite, se rendre dans le plugin JeeMate, dans la section de Configuration Gén
 
 Puis dans l'onglet Equipement, cliquer sur la roue crantée verte pour l'équipement virtuel qui a été créé.
 
-![Vue presence generique](../images/virtuel_presence_generique.jpg)
+![Vue presence2](../images/virtuel_presence_display2.jpg)
 
 Et renseigner les types génériques comme ci-dessous,
 - Occupation
 - Géoloc
   
-![Vue presence2](../images/virtuel_presence_display2.jpg)
+![Vue presence generique](../images/virtuel_presence_generique.jpg)
 
 Cliquer sur Sauvegarder.
 
@@ -613,7 +613,7 @@ Pour afficher la présence d'un utilisateur, dans l'onglet Favori, depuis la bar
 
 Exemple de carte avec tracé : 
 
-![trace](../images/trace.jpg  | height=100)
+![trace](../images/trace.jpg)
 
 ## Connecteur Jeedom <a name="paragraphe9-3"></a>
 
