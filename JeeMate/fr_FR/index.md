@@ -578,36 +578,42 @@ Pour ceci, nous avons décidé de ne pas faire cette configuration dans le plugi
 
 La procédure à suivre est simple, et nécessite **un équipement Virtuel par membre**.
 
-![Vue virtuel presence](../images/virtuel_presence.jpg)
-
 Dans cet équipement, créer 2 commandes infos comme sur la capture ci-dessus
 
-- Présence : que vous pouvez lier à n'importe quel autre info provenant d'un autre plugin, ou à une info de géofence d'un équipement JeeMate.
-Cette info doit être de **type Binaire**, avec le type générique **Info Générique**
-Puis cliquer sur la roue crantée de la commande pour aller dans sa page de configuration, et dans l'onglet Display ajouter la clé/valeur **jeematePresence** et le nom de l'utilisateur qui sera affiché dans l'application mobile.
+- Nom utilisateur / Présence : que vous pouvez lier à n'importe quel autre info provenant d'un autre plugin, ou par exemple à une commande info de géofence de l'équipement JeeMate.
+Cette info doit être de **type Binaire**
 
-![Vue presence generique](../images/virtuel_presence_generique.jpg)
+- Position : que vous pouvez lier à n'importe quel autre info géoloc, ou par exemple à la commande info de géoloc d'un équipement JeeMate.
+Cette info doit être de **type Autre**.
+Cocher "Historiser" cette commande si vous souhaitez obtenir le tracé dans l'application mobile.
+
+![Vue virtuel presence](../images/virtuel_presence.jpg)
+
+Ensuite, se rendre dans le plugin JeeMate, dans la section de Configuration Générale
 
 ![Vue presence1](../images/virtuel_presence_display1.jpg)
 
-- Position : que vous pouvez lier à n'importe quel autre info géoloc, ou à l'info de géoloc d'un équipement JeeMate.
-Cette info doit être de **type Autre**, avec le type générique **Info Générique**
-Puis cliquer sur la roue crantée de la commande pour aller dans sa page de configuration, et dans l'onglet Display ajouter la clé **jeemateGeoloc**.
-- Historiser cette commande info de géoloc si vous souhaitez obtenir le tracé dans l'application mobile.
+Puis dans l'onglet Equipement, cliquer sur la roue crantée verte pour l'équipement virtuel qui a été créé.
 
 ![Vue presence generique](../images/virtuel_presence_generique.jpg)
 
+Et renseigner les types génériques comme ci-dessous,
+- Occupation
+- Géoloc
+  
 ![Vue presence2](../images/virtuel_presence_display2.jpg)
+
+Cliquer sur Sauvegarder.
 
 **Note** : si un utilisateur ne souhaite pas être suivi, alors il suffit d'enlever le type générique pour la commande Position dans l'équipement Virtuel. Dans ce cas, seule sa présence ou non, sera indiqué dans l'application mobile.
 
-**Important** : lorsque vous effectuez un changement dans la configuration d'un équipement Jeedom, alors il faut réimporter/regénérer l'interface dans l'application mobile.
+**Important** : lorsque vous effectuez un changement dans la configuration d'un équipement Jeedom, alors il faut ensuite synchroniser l'application mobile en allant dans le menu Configuration/Jeedom/Regénérer l'interface..
 
-Pour afficher la présence d'un utilisateur, dans l'onglet Favori, dans la barre de résumés, cliquer sur la première icöne, une liste des utilisateurs sera alors affichée. Cliquer sur un utilisateur dans la liste, et sera alors affichée la carte avec sa position, son tracé, la position des autres utilisateurs, ainsi que les différentes zones.
+Pour afficher la présence d'un utilisateur, dans l'onglet Favori, depuis la barre de résumés, cliquer sur la première icöne, une liste des utilisateurs sera alors affichée. Cliquer sur un utilisateur dans la liste, et sera alors affichée la carte avec sa position, son tracé, la position des autres utilisateurs, ainsi que les différentes zones.
 
 Exemple de carte avec tracé : 
 
-![trace](../images/trace.jpg)
+![trace](../images/trace.jpg  | height=100)
 
 ## Connecteur Jeedom <a name="paragraphe9-3"></a>
 
