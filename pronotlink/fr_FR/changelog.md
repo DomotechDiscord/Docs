@@ -1,13 +1,16 @@
-## 2.5 (BETA!!!) (Last Update : 07/01/2021)
-- Rien pour l'instant
+## 2.4.3 (01/04/2021)
+- Update des dependance (A relancer)
+- Update de la library Pronote
+- Correction de plusieurs erreur dans l'Api
+- Mise a jours de nodeJS
 
-## 2.4.2 (03/02//2021)
+## 2.4.2 (03/02/2021)
 - ADD : CAS ENT "Mon collège Essonne" "www.moncollege-ent.essonne.fr"
 
-## 2.4.1 (27/01//2021)
+## 2.4.1 (27/01/2021)
 - ADD : Ajout d'option dans le décalage des EDT
 
-## 2.4 (13/01//2021)
+## 2.4 (13/01/2021)
 - ADD : Ajout de la commande "Journée à la maison" si 1 cours est marqué à distance aujourd'hui
 - ADD : Ajout de la commande "Demain à la maison" si 1 cours est marqué à distance Demain
 - ADD : Ajout d'une fonction qui cache les commandes qui ne sont pas utiles à l'utilisateur s'il est dans un autre mode que DEBUG
@@ -23,7 +26,7 @@
 - UPDATE : Update de la doc
 - DEBUG : Fix Multiple error
 
-## 2.3 (07/11/22020)
+## 2.3 (07/11/2020)
 - ADD : Ajout de cron dedié au plugin
 - ADD : CAS ENT "Atrium-Sud"
 - ADD : CAS Cyber Colleges 42 "Académie de la Loire"
