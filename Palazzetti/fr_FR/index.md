@@ -1,18 +1,22 @@
 # Palazzetti
 
-<!> Votre poêle nécessite une Cbox (Connection box) pour pouvoir être piloté. Cette box est vendue séparemment du poêle. Nous vous conseillons de l'acheter sur le site officiel (Prix le plus bas trouvé : http://cbox.palazzetti.it/store/?lang=fr). 
+<!> Votre poêle nécessite une Cbox (Connection Box) pour pouvoir être piloté. Cette box est vendue séparemment du poêle. Nous vous conseillons de l'acheter sur le site officiel (Prix le plus bas trouvé : http://cbox.palazzetti.it/store/?lang=fr). 
 
-## 1 ) Description
+<!> Il existe également une solution créée par Domochip (PalaControl : https://github.com/Domochip/WirelessPalaControl) qui remplace la Cbox. 
 
-Le plugin Palazzetti permet d'intégrer dans votre système domotique Jeedom, les poêles à pellets de la marque Palazzetti au moyen de la passerelle Connection Box. 
+## 1) Description :
+
+Le plugin Palazzetti permet d'intégrer dans votre système domotique Jeedom les poêles à pellets de la marque Palazzetti au moyen de la passerelle Connection Box ou PalaControl. 
 
 Les fonctionnalités proposées par le plugin sont identiques à celles de l'application mobile officielle Palazzetti App. 
 
-Un widget simple de pilotage est mis à disposition sur le dashboard, il permet: 
+Vous avez la possibilité d'utiliser le widget du plugin ou de laisser le core générer le widget de l'ensemble des commandes.
+
+Le widget simple de pilotage est mis à disposition sur le dashboard, il permet : 
 
 - d'allumer / éteindre le poêle 
 - de modifier la consigne 
-- de motifier la force de la ventilation 
+- de modifier la force de la ventilation 
 - de modifier l'intensité du foyer 
 - de gérer les programmes horaires selon la philosophie du poêle 
 - de visualiser toutes les informations du poêle et de la Connection Box 
@@ -21,7 +25,7 @@ Un widget simple de pilotage est mis à disposition sur le dashboard, il permet:
 Pour la version mobile, le widget est épuré de l'accès à la configuration des programmes horaires et des informations du poêle.
 <br>
 
-## 2) Aperçu des interfacess : 
+## 2) Aperçu des interfaces : 
 
 ### Configuration du plugin :
 
@@ -37,7 +41,15 @@ Pour la version mobile, le widget est épuré de l'accès à la configuration de
 ![Presentation Widget 1](../images/widget_1.png)
 ![Presentation Widget 2](../images/widget_2.png)
 
-## 2) Compléments : 
+## 3) Configuration : 
+
+Pour ajouter un équipement, cliquez sur Ajouter.
+Une fois ajouté, renseigner l'<b>adresse IP</b> et le <b>modèle</b>.
+Sélectionnez le bon modèle (Connection Box ou PalaControl).
+
+Dans la page de configuration du plugin, indiquez un intervalle de rafraîchissement des informations. (par défaut 15 minutes)
+
+## 4) Compléments : 
 
 ### Modification de la configuration réseau de la Connection Box : 
 
