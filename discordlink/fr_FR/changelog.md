@@ -1,3 +1,10 @@
+## 3.7 (15/04/2021) BETA !!!
+
+- Update : Dépendance Discord.JS
+- Update : Commande "Supprime les messages du channel" (Attention s'est devenu ultra puissant sa delete tous les messages des 15 derniers jours). 
+- Update : Erreurs HTTP a cause du Deamon Éteint 
+- Update : Version de Node JS pour correspondre au reste des plugiciels ainsi qu'à la nouvelle version de l'api Discord.JS
+
 ## 3.6 (24/02/2021)
 
 - Mise a jours de la dependance discord. (Test pour fix les problème de reaction.)
