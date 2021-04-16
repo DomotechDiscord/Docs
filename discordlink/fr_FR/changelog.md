@@ -2,16 +2,16 @@
 
 - Ajout : Vous avez maintenant la possibilité de répondre à des ASK par un texte et non plus une réaction
 - Update : Dépendance Discord.JS
-- Update : Commande "Supprime les messages du channel" (Attention s'est devenu ultra puissant sa delete tous les messages des 15 derniers jours). 
+- Update : Commande "Supprime les messages du channel" (Attention s'est devenu ultra puissant ça delete tous les messages des 15 derniers jours). 
 - Update : Erreurs HTTP a cause du Deamon Éteint 
 - Update : Version de Node JS pour correspondre au reste des plugiciels ainsi qu'à la nouvelle version de l'api Discord.JS
 
 ## 3.6 (24/02/2021)
 
-- Mise a jours de la dependance discord. (Test pour fix les problème de reaction.)
-- Mise à jour de l'affichage des commandes pour être compatible avec le core V4.1
+- Mise à jour de la dépendance discord. (Test pour fix les problèmes de réaction.)
+- Mise à jour de l’affichage des commandes pour être compatible avec le core V4.1
 - Mise à jour des widgets scénarios
-- Mise à jour de l'affichage des commandes pour être compatible avec le core V4.2 
+- Mise à jour de l’affichage des commandes pour être compatible avec le core V4.2
 
 ## 3.5.Covid (02/11/2020)
 
