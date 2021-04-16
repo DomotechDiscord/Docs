@@ -1,5 +1,6 @@
 ## 3.7 (15/04/2021) BETA !!!
 
+- Ajout : Vous avez maintenant la possibilité de répondre à des ASK par un texte et non plus une réaction
 - Update : Dépendance Discord.JS
 - Update : Commande "Supprime les messages du channel" (Attention s'est devenu ultra puissant sa delete tous les messages des 15 derniers jours). 
 - Update : Erreurs HTTP a cause du Deamon Éteint 
