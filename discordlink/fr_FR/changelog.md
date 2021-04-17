@@ -5,6 +5,7 @@
 - Update : Commande "Supprime les messages du channel" (Attention s'est devenu ultra puissant ça delete tous les messages des 15 derniers jours). 
 - Update : Erreurs HTTP a cause du Deamon Éteint 
 - Update : Version de Node JS pour correspondre au reste des plugiciels ainsi qu'à la nouvelle version de l'api Discord.JS
+- Update : Correction d'une erreur s'il ne trouvait pas un équipement.
 
 ## 3.6 (24/02/2021)
 
