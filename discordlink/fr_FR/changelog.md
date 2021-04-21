@@ -1,3 +1,6 @@
+## 3.7.1 (21/04/2021 à 21h20)
+- Update : Correction d'une erreur sur les commandes
+
 ## 3.7 (19/04/2021 à 16h25)
 
 - Ajout : Vous avez maintenant la possibilité de répondre à des ASK par un texte et non plus une réaction
