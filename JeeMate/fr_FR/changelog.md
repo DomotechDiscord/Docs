@@ -1,6 +1,9 @@
 Plugin JeeMate
 ==============================
 
+## V0.10.0 (30/04/2020 à 23h55) BETA !!!
+- [Voir sujet community](https://community.jeedom.com/t/jeemate-version-0-9-0-android-ios-et-le-debut-de-la-personnalisation/60221?u=titi_titi)
+
 ## V0.9.2 (22/02/2020 à 00h10)
 * Update lien APK
 * Update des event sans action
