@@ -1,8 +1,8 @@
 # L'application est public.
 
-Lien de l'APK version android : [Vive L'APK ANDROID](https://jeemate.les2t.fr/)
-
-Pour les personnes sous IOS, la version de l'app devrait arriver d'ici 1 mois ou 2.<br>
+L'application est disponible sur les stores en BETA (IOS ou Android). 
+Il faudra donc avoir le plugin BETA et suivre le [Fil community](https://community.jeedom.com/t/jeemate-version-0-9-0-android-ios-et-le-debut-de-la-personnalisation/60221?u=titi_titi)
+Ou sur le discord de DomoTech [Fil community](https://discord.gg/zvGTDfE)
 
 Cordialement
 Thibaut Et Pascal
