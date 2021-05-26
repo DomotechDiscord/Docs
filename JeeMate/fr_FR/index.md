@@ -1,6 +1,6 @@
 # L'application est public.
 
-L'application est disponible sur les stores en BETA (IOS ou Android). 
+L'application est disponible sur les stores en BETA (IOS ou Android). <br/>
 Il faudra donc avoir le plugin BETA et suivre le [Fil community](https://community.jeedom.com/t/jeemate-version-0-9-0-android-ios-et-le-debut-de-la-personnalisation/60221?u=titi_titi)
 Ou sur le discord de DomoTech [Fil community](https://discord.gg/zvGTDfE)
 
