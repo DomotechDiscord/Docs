@@ -1,7 +1,7 @@
 Plugin JeeMate
 ==============================
 
-## V0.9.2 (16/06/2021 à \*\*h\*\*)
+## V0.9.2 (19/06/2021 à \*\*h\*\*)
 * Breaking Change : Nouveau equipment les anciens deviennent obsolete
 * Breaking Change : Nouveaux System de backup les ancienne sont plus fonctionnel =
 * Ajout d'un wizard pour la creation d'un nouvel équipement
