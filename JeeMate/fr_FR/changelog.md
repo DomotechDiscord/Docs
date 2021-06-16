@@ -10,7 +10,7 @@ Plugin JeeMate
 * Update des API pour correspondre a l'application en 0.9.2
 * Update du backend de gestion
 * Update des fonctions API sur la gestion des notification
-* Prise en charge de nouveaux OS : (Android, IOS, Windows, Linux, Android TV, Web)
+* Prise en charge de nouveaux OS : Android, IOS, Windows, Linux, Android TV, Web
 * Prise en charge des versions store
 * Ajout de parameters pour la precision des GeoFence
 * Auto configuration des génériques des équipements JeeMate
