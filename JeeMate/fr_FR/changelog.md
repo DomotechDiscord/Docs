@@ -2,17 +2,17 @@ Plugin JeeMate
 ==============================
 
 ## V0.9.2 (19/06/2021 à \*\*h\*\*)
-* Breaking Change : Nouveau equipment les anciens deviennent obsolete
-* Breaking Change : Nouveaux System de backup les ancienne sont plus fonctionnel =
-* Ajout d'un wizard pour la creation d'un nouvel équipement
-* Ajout de la gestion automatique des identifiant Market
-* Update des Interface
-* Update des API pour correspondre a l'application en 0.9.2
+* Breaking Change : Nouvel équipment. Attention: vos anciens équipement en 0.8 ne sont plus compatibles.
+* Breaking Change : Nouveau système de backup. Attention: vos anciennes sauvegardes en 0.8 ne sont plus compatibles.
+* Ajout d’un assistant pour la création d’un nouvel équipement
+* Ajout de la gestion automatique des identifiants Market
+* Update des Interfaces
+* Update des API pour correspondre à l’application en 0.9.2
 * Update du backend de gestion
-* Update des fonctions API sur la gestion des notification
-* Prise en charge de nouveaux OS : Android, IOS, Windows, Linux, Android TV, Web
+* Update des fonctions API sur la gestion des notifications
+* Prise en charge de nouveaux OS : (Android, IOS, Windows, Linux, Android TV, Web)
 * Prise en charge des versions store
-* Ajout de parameters pour la precision des GeoFence
+* Ajout de paramètres pour la précision des GeoFences
 * Auto configuration des génériques des équipements JeeMate
 
 ## V0.9.1 (30/04/2021 à 23h59) BETA !!!
