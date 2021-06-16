@@ -6,8 +6,8 @@ Plugin JeeMate
 * Ajout de la gestion automatique des identifiants Market
 * Ajout de paramètres pour la précision des GeoFences
 * Auto configuration des génériques des équipements JeeMate
-* Breaking Change : Nouvel équipment. Attention: vos anciens équipements en 0.8 ne sont plus compatibles.
-* Breaking Change : Nouveau système de backup. Attention: vos anciennes sauvegardes en 0.8 ne sont plus compatibles.
+* ___***Breaking Change***___ : Nouvel équipment. Attention: vos anciens équipements en 0.8 ne sont plus compatibles.
+* ___***Breaking Change***___ : Nouveau système de backup. Attention: vos anciennes sauvegardes en 0.8 ne sont plus compatibles.
 * Prise en charge de nouveaux OS : (Android, IOS, Windows, Linux, Android TV, Web)
 * Prise en charge des versions store
 * Update des Interfaces
