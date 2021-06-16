@@ -554,8 +554,8 @@ Ceci afin d’éviter les envois inutiles vers le serveur, car ce n’est pas fo
 | HIGH          | GPS + Wifi + Cellular                 | Consommation batterie plus  élevée; Meilleure précision   |
 | MEDIUM        | Wifi + Cellular                       | Consommation batterie moyenne; Précision moyenne          |
 | LOW           | Wifi (basse conso) + Cellular         | Consommation basse; Pas de GPS                            |
-| VERY LOW      | Cellular seulement                    | Consommation très basse ; Précision faible                |
-| LOWEST        | (iOS seulement)                       | Consommation la plus basse ; Précision la plus faible     |
+| VERY LOW      | Cellular seulement                    | Consommation très basse ; Précision faible                |
+| LOWEST        | (iOS seulement)                       | Consommation la plus basse ; Précision la plus faible     |
 
 Donc, pour optimiser la batterie il est mieux d’avoir Elasticité active, Forcer la géoloc désactivée. Et dans ce cas, lorsqu’aucune activité n’est détectée, alors le GPS etc sont stoppés pour conserver la batterie.
 

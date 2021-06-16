@@ -1,4 +1,13 @@
-## 1.2 (26/01/2020 à 14h40) (BETA!!!)
+## 2.0 (10/04/2021 à 19h10) Fait par @Flobul
+- Ajout la possibilité de choisir un cron (cron 15 était trop long), cron15 par défaut à la première configuration.
+- Case à cocher pour PalaControl.
+- Gestion des commandes par fichier de configuration json.
+- Méthode getInformations lancée qu'en cas d'équipement actif.
+- Passage de l'équipement en inactif en cas de 3 erreurs de récupération des informations.
+- Ajout des champs min/max/unité sur la page équipement.
+- Ajout d'une case pour activer ou non le template de l'équipement (dashboard).
+
+## 1.2 (26/01/2020 à 14h40)
 - Ajout d'une gestion des erreur sur les requette
 - Mise a jours des template
 
