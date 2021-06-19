@@ -1,7 +1,7 @@
 Plugin JeeMate
 ==============================
 
-## V0.9.2 (19/06/2021 à \*\*h\*\*)
+## V0.9.2 (J'ai plus d'internet donc quand ça reviendra et que ça sera stable) 
 * Ajout d’un assistant pour la création d’un nouvel équipement
 * Ajout de la gestion automatique des identifiants Market
 * Ajout de paramètres pour la précision des GeoFences
