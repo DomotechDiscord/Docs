@@ -1,9 +1,12 @@
 Plugin JeeMate
 ==============================
 
+## V0.9.2+3 (06/07/2021) 
+* Correction des GeoFence et GeoLoc
+
 ## V0.9.2+2 (24/06/2021) 
 * Correction de plusieurs bugs
-* Ajout d'option pour debug le plugiciel
+* Ajout d'option pour debug le plugin
 * Attention il y a actuellement des bugs de Geo Loc, c'est en attente de debug que je retrouve une connexion internet pour faire des tests. (Peut-être milieux de semaine prochaine)
 
 ## V0.9.2 (19/06/2021 à 19h30) 
