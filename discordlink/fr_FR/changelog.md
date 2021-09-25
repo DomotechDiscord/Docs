@@ -1,3 +1,8 @@
+## 3.7.2 (25/09/2021 à 19h20)
+- Update : Correction du deamon
+- Update : Correction de nodeJS
+- Ajout : Préparation a la migration vers la nouvelle version de l'api discord
+
 ## 3.7.1 (21/04/2021 à 21h20)
 - Update : Correction d'une erreur sur les commandes
 
