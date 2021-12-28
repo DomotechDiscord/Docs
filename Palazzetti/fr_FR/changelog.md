@@ -1,4 +1,4 @@
-## 2.0 (10/04/2021 à 19h10) Fait par @Flobul
+## 2.0 (28/21/2021) Fait par @Flobul
 - Ajout la possibilité de choisir un cron (cron 15 était trop long), cron15 par défaut à la première configuration.
 - Case à cocher pour PalaControl.
 - Gestion des commandes par fichier de configuration json.
