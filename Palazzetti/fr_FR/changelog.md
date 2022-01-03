@@ -1,3 +1,6 @@
+## 1.2 (03/01/2022)
+- Retours en arrière de la dernière mise à jour suite à des dysfonctionnements majeurs
+
 ## 2.0 (28/21/2021) Fait par @Flobul
 - Ajout la possibilité de choisir un cron (cron 15 était trop long), cron15 par défaut à la première configuration.
 - Case à cocher pour PalaControl.
