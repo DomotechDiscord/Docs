@@ -1,3 +1,7 @@
+## 3.7.3 (14/02/2022 à 20h40)
+- Update : Correction de l'erreur 500
+- Update : Masquage du bouton de génération de l'invite qui est en panne 
+
 ## 3.7.2 (25/09/2021 à 19h20)
 - Update : Correction du deamon
 - Update : Correction de nodeJS
