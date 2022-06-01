@@ -1,3 +1,7 @@
+## 3.7.4 (01/06/2022)
+- Important : Dernière version compatible pour jeedon en dessous de la V4.2
+- Changement de version de NodeJS v14 -> V16
+
 ## 3.7.3 (14/02/2022 à 20h40)
 - Update : Correction de l'erreur 500
 - Update : Masquage du bouton de génération de l'invite qui est en panne 
