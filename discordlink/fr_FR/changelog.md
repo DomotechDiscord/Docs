@@ -1,3 +1,5 @@
+## 3.7.5 (05/10/2023)
+- Changement de version de NodeJS v16 -> V18
 ## 3.7.4 (01/06/2022)
 - Important : Dernière version compatible pour jeedon en dessous de la V4.2
 - Changement de version de NodeJS v14 -> V16
