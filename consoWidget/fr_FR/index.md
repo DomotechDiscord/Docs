@@ -20,5 +20,5 @@ La configuration du plugin est extrêmement simple, vous n'avez qu'une seule cho
 
 Si les widgets restent vides avec une erreur de connexion, il faut alors paramétrer le paramètre X-Frame-Option dans le serveur Apache. Pour cela aller dans Réglages / Système / Configuration / onglet >_OS/DB / >_ Administration Système : Apache sécurisé
 
-![Screenshot](../images/osdb.png)
-![Screenshot](../images/apache_securise.png)
+![Screenshot](../images/OSFB.png)
+![Screenshot](../images/Apache_securise.png)
