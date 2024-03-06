@@ -1,5 +1,6 @@
-## *** (06/03/2024)
+## 0.8 (06/03/2024)
 - Maj de la documentation
+- Simplification dans la manière de se connecter aux frames
 
 ## *** (02/08/2020)
 - Update Lien docs
@@ -13,4 +14,4 @@
 
 ## 0.5
 - Création du plugin
-- Choix automatique de la version a afficher (Local ou Externe) 
+- Choix automatique de la version a afficher (Local ou Externe)
