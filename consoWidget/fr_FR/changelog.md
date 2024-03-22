@@ -1,3 +1,6 @@
+## 0.9 (22/03/2024)
+- Gestion de la connexion dans la cas d'un domaine local
+
 ## 0.8 (06/03/2024)
 - Maj de la documentation
 - Simplification dans la manière de se connecter aux frames
