@@ -1,9 +1,9 @@
-## 3.8.0 (22/01/2026)
+## 3.8.0 (22/01/2026) (BETA du 2025-09-21 18:14:33)
 Merci à [Tomitomas](https://community.jeedom.com/u/tomitomas/summary) pour le PR proposé au plugin
 - Update : Fusion de la branche master vers beta
 - Ajout : Système de réponses rapides (Quick Reply) avec configuration de timeout personnalisé
 - Ajout : Support des sauts de ligne dans les messages Embed
-- Ajout : Support des sauts de ligne dans les messages texte avec le séparateur |
+- Ajout : Support des sauts de ligne dans les messages texte avec le séparateur "|"
 - Correction : Valeur par défaut sur les scénarios
 - Important : Migration vers Yarn (remplacement de npm)
 
