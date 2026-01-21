@@ -17,3 +17,8 @@ La configuration du plugin est extrêmement simple, vous n'avez qu'une seule cho
 ![Screenshot](../images/Configuration.png)
 
 # Le plugin ne fonctionnera pas sans sa dépendance principale qui est le plugin Suivi Conso lui-même.
+
+Si les widgets restent vides avec une erreur de connexion, il faut alors paramétrer le paramètre X-Frame-Option dans le serveur Apache. Pour cela aller dans Réglages / Système / Configuration / onglet >_OS/DB / >_ Administration Système : Apache sécurisé
+
+![Screenshot](../images/OSDB.png)
+![Screenshot](../images/Apache_securise.png)
