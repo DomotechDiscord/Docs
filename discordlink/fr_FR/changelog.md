@@ -1,5 +1,15 @@
+## 3.8.0 (22/01/2026)
+Merci à [Tomitomas] (https://community.jeedom.com/u/tomitomas/summary) pour le PR proposé au plugin
+- Update : Fusion de la branche master vers beta
+- Ajout : Système de réponses rapides (Quick Reply) avec configuration de timeout personnalisé
+- Ajout : Support des sauts de ligne dans les messages Embed
+- Ajout : Support des sauts de ligne dans les messages texte avec le séparateur |
+- Correction : Valeur par défaut sur les scénarios
+- Important : Migration vers Yarn (remplacement de npm)
+
 ## 3.7.5 (05/10/2023)
 - Changement de version de NodeJS v16 -> V18
+
 ## 3.7.4 (01/06/2022)
 - Important : Dernière version compatible pour jeedon en dessous de la V4.2
 - Changement de version de NodeJS v14 -> V16
