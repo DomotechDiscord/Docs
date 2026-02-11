@@ -1,5 +1,11 @@
 # Discord Link
 
+Nouveux propriaitre et repository : 
+- https://github.com/TiTidom-RC/Discordlink/tree/master
+- Lien du changelog changelog de la nouvelle version : https://titidom-rc.github.io/Documentation/fr_FR/DiscordLink/beta/changelog
+- Lien de la nouvelle documentation : https://titidom-rc.github.io/Documentation/fr_FR/DiscordLink/index
+
+
 ## 1 ) Description
 
 Le plugin Discord Link permet d'envoyer des messages sur son serveur Discord : 
