@@ -1,6 +1,6 @@
 Nouveux propriaitre et repository : 
 - https://github.com/TiTidom-RC/Discordlink/tree/master
-- Lien du changelog changelog de la nouvelle version : https://titidom-rc.github.io/Documentation/fr_FR/DiscordLink/beta/changelog"
+- Lien du changelog changelog de la nouvelle version : https://titidom-rc.github.io/Documentation/fr_FR/DiscordLink/beta/changelog
 
 ## 3.8.0 (22/01/2026) (BETA du 2025-09-21 18:14:33)
 Merci à [Tomitomas](https://community.jeedom.com/u/tomitomas/summary) pour le PR proposé au plugin
